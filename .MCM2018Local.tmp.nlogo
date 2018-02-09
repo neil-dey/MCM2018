@@ -7,7 +7,7 @@ turtles-own [
   friends ;; The friends of this turtle (neighbors in network)
 ]
 
-;; TODO: Define these later into sliders
+;; TDefine these later into sliders
 globals [
   num-turtles ;; Number of turtles in the simulation
   init-electric ;; Percent of initial turtles with electric cars
@@ -23,7 +23,7 @@ to setup
   ;; Clear all turtles and links
   clear-all
 
-  ;; TODO: Set slider globals for now. Remove them later.
+  ;; Set slider globals for now
   set num-turtles 100
   set init-electric 0.125
   set mean-friends 1
