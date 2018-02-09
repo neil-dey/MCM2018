@@ -1,4 +1,13 @@
+to setup
+  clear-all
+  ;; do stuff
+  reset-ticks
+end
 
+to go
+  ;; do stuff
+  tick
+end
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
@@ -14,8 +23,8 @@ GRAPHICS-WINDOW
 1
 1
 0
-1
-1
+0
+0
 1
 -16
 16
@@ -26,6 +35,40 @@ GRAPHICS-WINDOW
 1
 ticks
 30.0
+
+BUTTON
+9
+15
+75
+48
+Setup
+setup
+NIL
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
+
+BUTTON
+87
+15
+150
+48
+Go
+go
+T
+1
+T
+OBSERVER
+NIL
+NIL
+NIL
+NIL
+1
 
 @#$#@#$#@
 ## WHAT IS IT?
