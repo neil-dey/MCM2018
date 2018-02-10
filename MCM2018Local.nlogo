@@ -28,6 +28,7 @@ globals [
   incentive-threshold ;; how much incentive does one need to buy an electric car - Can make into distribution
   income-threshold ;; how much money does one need to buy an electric car
   is-seeker? ;; is the turtle going to seek out non-friends to buy electric cars
+  max-incentive
 ]
 
 ;; Set up the simulation
@@ -50,6 +51,7 @@ to setup
   set income-threshold 75000 ;; Change later
   set interact-time 12
   set cooldown-time 12
+  set max-incentive 420
 
   ;; Create turtles at random positions in the world
   create-turtles num-turtles [
@@ -184,7 +186,7 @@ end
 
 to inc-incentive ;;increment incentive
   set incentive-units incentive-units + 1;;
-  set incentive  5 * (1 - e ^ (- incentive-units / 5));; calculate incentive value
+  set incentive  max-incentive * (1 - e ^ (- incentive-units /  max-incentive));; calculate incentive value
   set t-since-last-inc 0
 end
 
@@ -200,6 +202,8 @@ to change-thresholds
   if (income-threshold > 30000) [
    set income-threshold income-threshold * (.998858)
   ]
+
+  set incentive-threshold  max-incentive * (1 - (count turtles with [has-electric? = true]) / (count turtles))
 
 
 end
