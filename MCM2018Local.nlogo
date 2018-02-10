@@ -28,7 +28,9 @@ globals [
   incentive-threshold ;; how much incentive does one need to buy an electric car - Can make into distribution
   income-threshold ;; how much money does one need to buy an electric car
   is-seeker? ;; is the turtle going to seek out non-friends to buy electric cars
-  max-incentive
+  max-incentive ;;
+  gini-k-mean ;; mean of ginit coefficient gamma-solved
+  gini-k-stdev ;; stdev of above
 ]
 
 ;; Set up the simulation
@@ -51,7 +53,7 @@ to setup
   set income-threshold 75000 ;; Change later
   set interact-time 12
   set cooldown-time 12
-  set max-incentive 420
+  set max-incentive 628 ;;200pi for obvious reasons
 
   ;; Create turtles at random positions in the world
   create-turtles num-turtles [
@@ -373,6 +375,16 @@ false
 "" ""
 PENS
 "default" 1.0 0 -16777216 true "" "plot count turtles with [has-electric? = true]"
+
+CHOOSER
+20
+88
+158
+133
+pop-density
+pop-density
+"rural" "suburban" "urban"
+0
 
 @#$#@#$#@
 ## WHAT IS IT?
