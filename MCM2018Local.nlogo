@@ -15,7 +15,7 @@ turtles-own [
 
 ;; TODO: Define these later into sliders
 globals [
-  ;num-turtles ;; Number of turtles in the simulation
+  num-turtles ;; Number of turtles in the simulation
   ;init-electric ;; Percent of initial turtles with electric cars
   ;mean-friends ;; Mean number of friends for each turtle
   ;stdev-friends ;; Standard deviation of friends for each turtle
@@ -32,6 +32,13 @@ globals [
   gini-k-mean ;; mean of ginit coefficient gamma-solved
   gini-k-stdev ;; stdev of above
   beta-wealth ;; alpha-wealth is determined per turtle. beta-wealth is predetermined.
+  mean-dens-rural ;; self explanatory
+  med-dens-rural ;; ^
+  mean-dens-suburb ;; ^^
+  med-dens-suburb ;; ^^^
+  mean-dens-urb ;; ^^^^
+  med-dens-urb ;; ^^^^^
+  num-chargers;; number of current chargers
 ]
 
 ;; Set up the simulation
@@ -60,6 +67,39 @@ to setup
   set gini-k-mean 2.30870
   set gini-k-stdev (2.42622 - gini-k-mean) - (0.01685 / 2) ;; Error 0.01685 due to non-linearity
   set beta-wealth 0.00005
+  set mean-dens-rural 50.37594;;
+  set med-dens-rural 35.2;;
+  set mean-dens-suburb 1526.864;;
+  set med-dens-suburb 1454;;
+  set mean-dens-urb 5054.51;;
+  set med-dens-urb 3856.15;;
+
+  ;; Setting initial population based on rural, suburban, urban
+  let area (2 * max-pxcor + 1) * (2 * max-pycor + 1) / 1000
+  if (pop-density = "rural") [
+    if (central-measure = "mean") [
+      set num-turtles mean-dens-rural * area
+    ]
+    if (central-measure = "median") [
+      set num-turtles med-dens-rural * area
+    ]
+  ]
+  if (pop-density = "suburban") [
+    if (central-measure = "mean") [
+      set num-turtles mean-dens-suburb * area
+    ]
+    if (central-measure = "median") [
+      set  num-turtles med-dens-suburb * area
+    ]
+  ]
+  if (pop-density = "urban") [
+    if (central-measure = "mean") [
+      set num-turtles mean-dens-urb * area
+    ]
+    if (central-measure = "median") [
+      set  num-turtles med-dens-urb * area
+    ]
+  ]
 
   ;; Create turtles at random positions in the world
   create-turtles num-turtles [
@@ -82,7 +122,7 @@ to setup
   ]
 
   ;; Ask a certain percent of turtles to have electric cars
-  ask n-of (num-turtles * init-electric) turtles [
+  ask n-of (ceiling (num-turtles * init-electric)) turtles [
     set shape "car"
     set color blue
     set has-electric? true
@@ -169,10 +209,27 @@ to go
   ]
 
   spread-incentive
-  ;;dec-incentive
+  dec-incentive
   ask turtles[
     set t-since-last-inc t-since-last-inc + 1
   ]
+
+  ;; Which variable we testing today?
+
+  if (variable = "charger-density") [
+   check-charger-dens
+  ]
+
+  if (variable = "distance") [
+    check-charger-dist
+  ]
+
+  if (variable = "num-chargers") [
+    check-charger-num
+  ]
+
+
+
   change-thresholds
   buy
   tick
@@ -202,7 +259,7 @@ end
 to dec-incentive ;;decrement incentive
   ask turtles[
     if (incentive-units > 0)[
-      set incentive-units incentive-units - (t-since-last-inc) * .1 ;; Can change this to be more reasonable
+      set incentive-units incentive-units - (t-since-last-inc) * 10 ^ -7 ;; Can change this to be more reasonable
     ]
   ]
 end
@@ -212,7 +269,7 @@ to change-thresholds
    set income-threshold income-threshold * (.998858)
   ]
 
-  set incentive-threshold  max-incentive * (1 - (count turtles with [has-electric? = true]) / (count turtles))
+  set incentive-threshold  max-incentive * (count turtles with [has-electric? = false]) / (count turtles)
 
 
 end
@@ -240,6 +297,31 @@ to buy
     ]
   ]
 end
+
+to check-charger-dens
+  if ((count turtles with [has-electric? = true]) / (count turtles) > charger-threshold)[
+    set num-chargers 1 ;; baseline new charger
+    set charger-distance 10 ;; baseline distance
+  ]
+
+end
+
+
+to check-charger-dist
+  if ((count turtles with [has-electric? = true]) / (count turtles) > charger-threshold)[
+    set num-chargers 1 ;; baseline new charger
+  ]
+
+end
+
+to check-charger-num
+  if ((count turtles with [has-electric? = true]) / (count turtles) > charger-threshold)[
+    set num-chargers max-chargers ;; baseline new charger
+  ]
+
+end
+
+
 
 
 to dec-interaction-timer
@@ -269,9 +351,9 @@ to dec-cooldown-timer
 end
 @#$#@#$#@
 GRAPHICS-WINDOW
-210
+247
 10
-647
+684
 448
 -1
 -1
@@ -392,22 +474,7 @@ CHOOSER
 pop-density
 pop-density
 "rural" "suburban" "urban"
-0
-
-SLIDER
-10
-131
-182
-164
-num-turtles
-num-turtles
-0
-1000000
-100.0
-1000
-1
-NIL
-HORIZONTAL
+2
 
 SLIDER
 10
@@ -418,7 +485,7 @@ init-electric
 init-electric
 0
 1
-0.125
+7.7E-4
 0.01
 1
 NIL
@@ -515,25 +582,25 @@ NIL
 HORIZONTAL
 
 SLIDER
-214
-251
-386
-284
+441
+452
+613
+485
 interact-radius
 interact-radius
 0
 5
-1.0
+5.0
 1
 1
 NIL
 HORIZONTAL
 
 SLIDER
-215
-305
-387
-338
+443
+506
+614
+539
 interact-time
 interact-time
 1
@@ -545,10 +612,10 @@ NIL
 HORIZONTAL
 
 SLIDER
-217
-357
-389
-390
+444
+558
+616
+591
 cooldown-time
 cooldown-time
 1
@@ -570,6 +637,71 @@ max-incentive
 10
 6.95
 0.05
+1
+NIL
+HORIZONTAL
+
+SLIDER
+241
+474
+413
+507
+charger-threshold
+charger-threshold
+0
+1
+0.5
+.01
+1
+NIL
+HORIZONTAL
+
+CHOOSER
+12
+117
+150
+162
+central-measure
+central-measure
+"mean" "median"
+0
+
+CHOOSER
+699
+453
+837
+498
+variable
+variable
+"charger-density" "distance" "num-chargers"
+0
+
+SLIDER
+889
+498
+1061
+531
+charger-distance
+charger-distance
+0
+100
+10.0
+1
+1
+NIL
+HORIZONTAL
+
+SLIDER
+703
+522
+875
+555
+max-chargers
+max-chargers
+0
+5
+1.0
+1
 1
 NIL
 HORIZONTAL
