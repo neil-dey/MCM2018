@@ -10,27 +10,28 @@ turtles-own [
   friends ;; The friends of this turtle (neighbors in network)
   timer-cooldown ;; Decremented to avoid repeated interaction
   timer-interaction ;; Decremented to freeze turtle during interaction
+  is-seeker? ;; is the turtle going to seek out non-friends to buy electric cars
 ]
 
 ;; TODO: Define these later into sliders
 globals [
-  num-turtles ;; Number of turtles in the simulation
-  init-electric ;; Percent of initial turtles with electric cars
-  mean-friends ;; Mean number of friends for each turtle
-  stdev-friends ;; Standard deviation of friends for each turtle
-  alpha-sociability ;; Shape parameter for gamma distribution of sociability
-  beta-sociability ;; Rate parameter for gamma distribution of sociability
-  alpha-persuasion ;; Shape parameter for gamma distribution of persuasion
-  beta-persuasion ;; Rate parameter for gamma distribution of persuasion
-  interact-radius ;; interaction radius
-  interact-time ;; interaction time to spread incentive
-  cooldown-time ;; cooldown time after people interact
+  ;num-turtles ;; Number of turtles in the simulation
+  ;init-electric ;; Percent of initial turtles with electric cars
+  ;mean-friends ;; Mean number of friends for each turtle
+  ;stdev-friends ;; Standard deviation of friends for each turtle
+  ;alpha-sociability ;; Shape parameter for gamma distribution of sociability
+  ;beta-sociability ;; Rate parameter for gamma distribution of sociability
+  ;alpha-persuasion ;; Shape parameter for gamma distribution of persuasion
+  ;beta-persuasion ;; Rate parameter for gamma distribution of persuasion
+  ;interact-radius ;; interaction radius
+  ;interact-time ;; interaction time to spread incentive
+  ;cooldown-time ;; cooldown time after people interact
   incentive-threshold ;; how much incentive does one need to buy an electric car - Can make into distribution
   income-threshold ;; how much money does one need to buy an electric car
-  is-seeker? ;; is the turtle going to seek out non-friends to buy electric cars
-  max-incentive ;;
+  ;max-incentive ;; Maximum value incentive can hold
   gini-k-mean ;; mean of ginit coefficient gamma-solved
   gini-k-stdev ;; stdev of above
+  beta-wealth ;; alpha-wealth is determined per turtle. beta-wealth is predetermined.
 ]
 
 ;; Set up the simulation
@@ -40,27 +41,33 @@ to setup
   clear-all
 
   ;; TODO: Set slider globals for now. Remove them later.
-  set num-turtles 100
-  set init-electric 0.125
-  set mean-friends 1
-  set stdev-friends 1
-  set alpha-sociability 0.5
-  set beta-sociability 6
-  set alpha-persuasion 0.5
-  set beta-persuasion 6
-  set interact-radius 3
-  set incentive-threshold .75 ;; Change later
-  set income-threshold 75000 ;; Change later
-  set interact-time 12
-  set cooldown-time 12
-  set max-incentive 628 ;;200pi for obvious reasons
+  ;set num-turtles 100
+  ;set init-electric 0.125
+  ;set mean-friends 1
+  ;set stdev-friends 1
+  ;set alpha-sociability 0.5
+  ;set beta-sociability 6
+  ;set alpha-persuasion 0.5
+  ;set beta-persuasion 6
+  ;set interact-radius 3
+  ;set interact-time 1
+  ;set cooldown-time 3
+  ;set max-incentive 5 ;;200pi for obvious reasons
+
+  ;; Global constants
+  set incentive-threshold .75
+  set income-threshold 75000
+  set gini-k-mean 2.30870
+  set gini-k-stdev (2.42622 - gini-k-mean) - (0.01685 / 2) ;; Error 0.01685 due to non-linearity
+  set beta-wealth 0.00005
 
   ;; Create turtles at random positions in the world
   create-turtles num-turtles [
     setxy random-xcor random-ycor
     set shape "person"
     set color white
-    set wealth (random-normal 75000 10000) ;; TODO: Change this distribution later
+    let alpha-wealth random-normal gini-k-mean gini-k-stdev
+    set wealth (random-gamma alpha-wealth beta-wealth) ;; TODO: Change this distribution later
     set incentive 0
     let sociability-rand (random-gamma alpha-sociability beta-sociability)
     if (sociability-rand < 0) [ set sociability-rand 0 ]
@@ -84,7 +91,7 @@ to setup
   let mean-sociability alpha-sociability / beta-sociability
   let stdev-sociability sqrt(alpha-sociability) / beta-sociability
 
-  ask turtles[;; with [sociability >= mean-sociability + stdev-sociability and has-electric? = true][
+  ask turtles with [sociability >= mean-sociability + stdev-sociability and has-electric? = true][
     set is-seeker? true
   ]
 
@@ -349,7 +356,7 @@ Wealth Distribution
 Wealth (dollars)
 Frequency
 0.0
-500000.0
+150000.0
 0.0
 10.0
 true
@@ -361,8 +368,8 @@ PENS
 PLOT
 693
 192
-975
-342
+1006
+429
 Number of Electric Car Owners
 Time
 Car Owners
@@ -371,20 +378,201 @@ Car Owners
 0.0
 10.0
 true
-false
+true
 "" ""
 PENS
-"default" 1.0 0 -16777216 true "" "plot count turtles with [has-electric? = true]"
+"electric" 1.0 0 -13345367 true "" "plot count turtles with [has-electric? = true]"
+"gasoline" 1.0 0 -11053225 true "" "plot count turtles with [has-electric? = false]"
 
 CHOOSER
-20
-88
-158
-133
+8
+64
+151
+109
 pop-density
 pop-density
 "rural" "suburban" "urban"
 0
+
+SLIDER
+10
+131
+182
+164
+num-turtles
+num-turtles
+0
+1000000
+100.0
+1000
+1
+NIL
+HORIZONTAL
+
+SLIDER
+10
+177
+182
+210
+init-electric
+init-electric
+0
+1
+0.125
+0.01
+1
+NIL
+HORIZONTAL
+
+SLIDER
+10
+227
+182
+260
+mean-friends
+mean-friends
+0
+5
+4.0
+1
+1
+NIL
+HORIZONTAL
+
+SLIDER
+11
+276
+183
+309
+stdev-friends
+stdev-friends
+0
+1
+0.11
+0.01
+1
+NIL
+HORIZONTAL
+
+SLIDER
+13
+329
+185
+362
+alpha-sociability
+alpha-sociability
+0
+5
+0.5
+0.05
+1
+NIL
+HORIZONTAL
+
+SLIDER
+13
+382
+185
+415
+beta-sociability
+beta-sociability
+0
+15
+6.0
+0.5
+1
+NIL
+HORIZONTAL
+
+SLIDER
+16
+433
+188
+466
+alpha-persuasion
+alpha-persuasion
+0
+5
+0.5
+0.05
+1
+NIL
+HORIZONTAL
+
+SLIDER
+17
+484
+189
+517
+beta-persuasion
+beta-persuasion
+0
+15
+6.0
+0.5
+1
+NIL
+HORIZONTAL
+
+SLIDER
+214
+251
+386
+284
+interact-radius
+interact-radius
+0
+5
+1.0
+1
+1
+NIL
+HORIZONTAL
+
+SLIDER
+215
+305
+387
+338
+interact-time
+interact-time
+1
+10
+1.0
+1
+1
+NIL
+HORIZONTAL
+
+SLIDER
+217
+357
+389
+390
+cooldown-time
+cooldown-time
+1
+20
+3.0
+1
+1
+NIL
+HORIZONTAL
+
+SLIDER
+222
+514
+394
+547
+max-incentive
+max-incentive
+0
+10
+6.95
+0.05
+1
+NIL
+HORIZONTAL
 
 @#$#@#$#@
 ## WHAT IS IT?
