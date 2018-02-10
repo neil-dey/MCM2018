@@ -13,7 +13,6 @@ def main():
             try:
                 location = geolocator.geocode(locations[k])
                 coordinates = (location.latitude, location.longitude)
-                print("%s, %s" % (location, geolocator.reverse(coordinates)))
                 file.write("\"%s\",\"%s\",\"%s\"\n" % (locations[k], coordinates[0], coordinates[1]))
             except KeyboardInterrupt:
                 exit()
