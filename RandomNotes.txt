@@ -1,7 +1,6 @@
 Urban area: 2500+ people/mi^2 (Off of US census bureau)
 Suburban area: 1000-2500 people/mi^2
-Rural township area: 7 - 1000 people/mi^2
-Rural: 0 - 7 people/mi^2 (Off of US census bureau)
+Rural township area: 0 - 1000 people/mi^2
 
 Need ~75k a year to buy a tesla model 3
 --Turns out most people 
