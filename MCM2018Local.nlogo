@@ -7,8 +7,8 @@ turtles-own [
   sociability ;; A measure of how likely a turtle is to persuade another turtle to buy an electric car
   has-electric? ;; If the turtle has a car
   friends ;; The friends of this turtle (neighbors in network)
-  fc-start ;; After interaction cooldown time
-  f-start ;; Auring interaction freeze time
+  timer-cooldown ;; Decremented to avoid repeated interaction
+  timer-interaction ;; Decremented to freeze turtle during interaction
 ]
 
 ;; TODO: Define these later into sliders
@@ -81,36 +81,37 @@ end
 
 to go
  ask turtles[
-    if fc-start = 0 [ ;if not in cooldown phase
+    if timer-cooldown = 0 [ ; if not in cooldown phase
       if any? friends in-radius interact-radius [
         if random-float 1 < sociability [
           create-links-with friends in-radius interact-radius
           ask friends in-radius interact-radius [
-            set f-start 15
-            set fc-start 15
+            set timer-interaction 15
+            set timer-cooldown 15
           ]
-          set f-start 15
-          set fc-start 15
+          set timer-interaction 15
+          set timer-cooldown 15
         ]
       ]
     ]
-    let yy self
+    let interacted-turtle-1 self
     ask my-links with [link-length > interact-radius][
-      let ss 0
-      ask both-ends[
-        let sels self
-        if(sels != yy)[
-            set ss 1
+      let interacted-turtle-chosen? false
+      ask both-ends [
+        let interacted-turtle-2 self
+        if(interacted-turtle-2 != interacted-turtle-1)[
+            set interacted-turtle-chosen? true
         ]
       ]
-      if(ss = 1)[
+      if(interacted-turtle-chosen?)[
         die
       ]
     ]
-    if f-start = 0[
+    if timer-interaction = 0 [
       rt random-float 360
+      fd 1
     ]
-   ;; stay-start
+    stay-start
   ]
 
   spread-incentive
@@ -170,13 +171,13 @@ end
 
 to stay-start
 
-  ifelse f-start = 0
+  ifelse timer-interaction = 0
   [
       ;Continue - move
     stay-cstart
   ]
   [
-    set f-start f-start - 1 ;decrement-timer
+    set timer-interaction timer-interaction - 1 ;decrement-timer
   ]
 
 end
@@ -184,16 +185,15 @@ end
 
 
 to stay-cstart
-  ifelse fc-start = 0
+  ifelse timer-cooldown = 0
   [
 
   ]
   [
-     set fc-start fc-start - 1   ;decrement-timer
+     set timer-cooldown timer-cooldown - 1   ;decrement-timer
   ]
 
 end
-
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
