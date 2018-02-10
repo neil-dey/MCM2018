@@ -4,7 +4,8 @@ turtles-own [
   incentive ;; A measure of how likely a turtle is to buy an electric car
   incentive-units ;; units of incentive the person has received
   t-since-last-inc ;; time since last incentivization
-  sociability ;; A measure of how likely a turtle is to persuade another turtle to buy an electric car
+  sociability ;; A measure of how likely a turtle is to interact with another turtle to buy an electric car
+  persuasion ;; A measure of how likely a turtle will be a able to persuade another turtle to buy an electric car
   has-electric? ;; If the turtle has a car
   friends ;; The friends of this turtle (neighbors in network)
   timer-cooldown ;; Decremented to avoid repeated interaction
@@ -19,6 +20,8 @@ globals [
   stdev-friends ;; Standard deviation of friends for each turtle
   alpha-sociability ;; Shape parameter for gamma distribution of sociability
   beta-sociability ;; Rate parameter for gamma distribution of sociability
+  alpha-persuasion ;; Shape parameter for gamma distribution of persuasion
+  beta-persuasion ;; Rate parameter for gamma distribution of persuasion
   interact-radius ;; interaction radius
   interact-time ;; interaction time to spread incentive
   cooldown-time ;; cooldown time after people interact
@@ -39,9 +42,13 @@ to setup
   set stdev-friends 1
   set alpha-sociability 0.5
   set beta-sociability 6
+  set alpha-persuasion 0.5
+  set beta-persuasion 6
   set interact-radius 3
-  set incentive-threshold 4 ;; Change later
+  set incentive-threshold 0.75 ;; Change later
   set income-threshold 75000 ;; Change later
+  set interact-time 12
+  set cooldown-time 12
 
   ;; Create turtles at random positions in the world
   create-turtles num-turtles [
@@ -54,6 +61,10 @@ to setup
     if (sociability-rand < 0) [ set sociability-rand 0 ]
     if (sociability-rand > 1) [ set sociability-rand 1 ]
     set sociability sociability-rand
+    let persuasion-rand (random-gamma alpha-persuasion beta-persuasion)
+    if (persuasion-rand < 0) [ set persuasion-rand 0 ]
+    if (persuasion-rand > 1) [ set persuasion-rand 1 ]
+    set persuasion persuasion-rand
     set has-electric? false
   ]
 
@@ -86,11 +97,11 @@ to go
         if random-float 1 < sociability [
           create-links-with friends in-radius interact-radius
           ask friends in-radius interact-radius [
-            set timer-interaction 15
-            set timer-cooldown 15
+            set timer-interaction interact-time
+            set timer-cooldown cooldown-time
           ]
-          set timer-interaction 15
-          set timer-cooldown 15
+          set timer-interaction interact-time
+          set timer-cooldown cooldown-time
         ]
       ]
     ]
@@ -111,7 +122,7 @@ to go
       rt random-float 360
       fd 1
     ]
-    stay-start
+    dec-interaction-timer
   ]
 
   spread-incentive
@@ -127,7 +138,10 @@ to spread-incentive
   ask turtles with [has-electric? = true] [
     if any? link-neighbors with [has-electric? = false] [
       ask link-neighbors with [has-electric? = false][
-       inc-incentive ;become incentivized
+        ;; Combines the probability of all car-owning neighbors interacting with the turtle
+        if (1 - (1 - persuasion) ^ ((count link-neighbors with [has-electric? = true])) > random-float 1) [
+          inc-incentive ;become incentivized
+        ]
       ]
     ]
   ]
@@ -169,12 +183,12 @@ to buy
 end
 
 
-to stay-start
+to dec-interaction-timer
 
   ifelse timer-interaction = 0
   [
       ;Continue - move
-    stay-cstart
+    dec-cooldown-timer
   ]
   [
     set timer-interaction timer-interaction - 1 ;decrement-timer
@@ -184,7 +198,7 @@ end
 
 
 
-to stay-cstart
+to dec-cooldown-timer
   ifelse timer-cooldown = 0
   [
 
@@ -291,6 +305,24 @@ false
 "" ""
 PENS
 "default" 5000.0 1 -16777216 true "" "histogram [wealth] of turtles"
+
+PLOT
+598
+523
+880
+673
+Number of Electric Car Owners
+Time
+Car Owners
+0.0
+10.0
+0.0
+10.0
+true
+false
+"" ""
+PENS
+"default" 1.0 0 -16777216 true "" "plot count turtles with [has-electric? = true]"
 
 @#$#@#$#@
 ## WHAT IS IT?
