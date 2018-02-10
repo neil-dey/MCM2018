@@ -1,0 +1,14 @@
+Urban area: 2500+ people/mi^2 (Off of US census bureau)
+Suburban area: 1000-2500 people/mi^2
+Rural township area: 7 - 1000 people/mi^2
+Rural: 0 - 7 people/mi^2 (Off of US census bureau)
+
+Need ~75k a year to buy a tesla model 3
+--Turns out most people 
+
+Smartphone growth has doubled in 7 years: http://www.pewinternet.org/fact-sheet/mobile/
+Thus, we used the same growth rate for the cars, so that it goes to 20 years
+
+We should put a charging station in a city after it reaches the "critical" point
+
+Note that 95% of households own a car: https://photos.state.gov/libraries/cambodia/30486/Publications/everyone_in_america_own_a_car.pdf
