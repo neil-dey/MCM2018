@@ -27,6 +27,7 @@ globals [
   cooldown-time ;; cooldown time after people interact
   incentive-threshold ;; how much incentive does one need to buy an electric car - Can make into distribution
   income-threshold ;; how much money does one need to buy an electric car
+  is-seeker? ;; is the turtle going to seek out non-friends to buy electric cars
 ]
 
 ;; Set up the simulation
@@ -45,7 +46,7 @@ to setup
   set alpha-persuasion 0.5
   set beta-persuasion 6
   set interact-radius 3
-  set incentive-threshold 0.75 ;; Change later
+  set incentive-threshold .75 ;; Change later
   set income-threshold 75000 ;; Change later
   set interact-time 12
   set cooldown-time 12
@@ -66,6 +67,7 @@ to setup
     if (persuasion-rand > 1) [ set persuasion-rand 1 ]
     set persuasion persuasion-rand
     set has-electric? false
+    set is-seeker? false
   ]
 
   ;; Ask a certain percent of turtles to have electric cars
@@ -74,6 +76,14 @@ to setup
     set color blue
     set has-electric? true
   ]
+
+  let mean-sociability alpha-sociability / beta-sociability
+  let stdev-sociability sqrt(alpha-sociability) / beta-sociability
+
+  ask turtles[;; with [sociability >= mean-sociability + stdev-sociability and has-electric? = true][
+    set is-seeker? true
+  ]
+
 
   ;; Create underlying network
   ask turtles [
@@ -93,17 +103,39 @@ end
 to go
  ask turtles[
     if timer-cooldown = 0 [ ; if not in cooldown phase
-      if any? friends in-radius interact-radius [
-        if random-float 1 < sociability [
-          create-links-with friends in-radius interact-radius
-          ask friends in-radius interact-radius [
-            set timer-interaction interact-time
-            set timer-cooldown cooldown-time
-          ]
-          set timer-interaction interact-time
-          set timer-cooldown cooldown-time
-        ]
-      ]
+
+      ifelse (is-seeker? = false)[
+       if any? friends in-radius interact-radius [
+         ask friends in-radius interact-radius[
+         if random-float 1 < sociability [
+           create-link-with myself
+            ]
+           ask link-neighbors [
+             set timer-interaction interact-time
+             set timer-cooldown cooldown-time
+           ]
+
+           set timer-interaction interact-time
+           set timer-cooldown cooldown-time
+         ]
+       ]
+     ]
+      [
+        if any? turtles in-radius interact-radius [
+         ask other turtles in-radius interact-radius[
+         if random-float 1 < sociability [
+           create-link-with myself
+            ]
+           ask link-neighbors [
+             set timer-interaction interact-time
+             set timer-cooldown cooldown-time
+           ]
+
+           set timer-interaction interact-time
+           set timer-cooldown cooldown-time
+         ]
+       ]
+    ]
     ]
     let interacted-turtle-1 self
     ask my-links with [link-length > interact-radius][
@@ -126,10 +158,11 @@ to go
   ]
 
   spread-incentive
-  dec-incentive
+  ;;dec-incentive
   ask turtles[
     set t-since-last-inc t-since-last-inc + 1
   ]
+  change-thresholds
   buy
   tick
 end
@@ -151,7 +184,7 @@ end
 
 to inc-incentive ;;increment incentive
   set incentive-units incentive-units + 1;;
-  set incentive 5 * (1 - e ^ (- incentive-units / 5));; calculate incentive value
+  set incentive  5 * (1 - e ^ (- incentive-units / 5));; calculate incentive value
   set t-since-last-inc 0
 end
 
@@ -161,6 +194,14 @@ to dec-incentive ;;decrement incentive
       set incentive-units incentive-units - (t-since-last-inc) * .1 ;; Can change this to be more reasonable
     ]
   ]
+end
+
+to change-thresholds
+  if (income-threshold > 30000) [
+   set income-threshold income-threshold * (.998858)
+  ]
+
+
 end
 
 to buy
@@ -178,6 +219,11 @@ to buy
       set has-electric? true
       set color blue
       set shape "car"
+      let mean-sociability alpha-sociability / beta-sociability
+      let stdev-sociability sqrt(alpha-sociability) / beta-sociability
+      if (sociability >= mean-sociability + stdev-sociability)[
+      set is-seeker? true
+      ]
     ]
   ]
 end
@@ -271,10 +317,10 @@ NIL
 1
 
 PLOT
-52
-521
-252
-671
+693
+21
+893
+171
 Sociability Distribution
 Sociability
 Frequency
@@ -289,10 +335,10 @@ PENS
 "default" 0.01 1 -16777216 true "" "histogram [sociability] of turtles"
 
 PLOT
-300
-524
-500
-674
+941
+24
+1141
+174
 Wealth Distribution
 Wealth (dollars)
 Frequency
@@ -307,10 +353,10 @@ PENS
 "default" 5000.0 1 -16777216 true "" "histogram [wealth] of turtles"
 
 PLOT
-598
-523
-880
-673
+693
+192
+975
+342
 Number of Electric Car Owners
 Time
 Car Owners
