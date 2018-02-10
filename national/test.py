@@ -6,8 +6,8 @@ import time
 
 def main():
     geolocator = Nominatim()
-    locations = read_csv("../data/TeslaSuperchargeLocations.csv")
-    with open("../data/TeslaSuperchargeLocations_Coords.csv", "w") as file:
+    locations = read_csv("../data/TeslaSuperchargeLocationsComingSoon.csv")
+    with open("../data/TeslaSuperchargeLocationsComingSoon_Coords.csv", "w") as file:
         for k in range(len(locations)):
             print(locations[k])
             try:
