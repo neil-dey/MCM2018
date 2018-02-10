@@ -2,9 +2,13 @@
 turtles-own [
   wealth ;; Amount of money each turtle has
   incentive ;; A measure of how likely a turtle is to buy an electric car
+  incentive-units ;; units of incentive the person has received
+  t-since-last-inc ;; time since last incentivization
   sociability ;; A measure of how likely a turtle is to persuade another turtle to buy an electric car
   has-electric? ;; If the turtle has a car
   friends ;; The friends of this turtle (neighbors in network)
+  fc-start ;; After interaction cooldown time
+  f-start ;; Auring interaction freeze time
 ]
 
 ;; TODO: Define these later into sliders
@@ -15,6 +19,11 @@ globals [
   stdev-friends ;; Standard deviation of friends for each turtle
   alpha-sociability ;; Shape parameter for gamma distribution of sociability
   beta-sociability ;; Rate parameter for gamma distribution of sociability
+  interact-radius ;; interaction radius
+  interact-time ;; interaction time to spread incentive
+  cooldown-time ;; cooldown time after people interact
+  incentive-threshold ;; how much incentive does one need to buy an electric car - Can make into distribution
+  income-threshold ;; how much money does one need to buy an electric car
 ]
 
 ;; Set up the simulation
@@ -30,6 +39,9 @@ to setup
   set stdev-friends 1
   set alpha-sociability 0.5
   set beta-sociability 6
+  set interact-radius 3
+  set incentive-threshold 4 ;; Change later
+  set income-threshold 75000 ;; Change later
 
   ;; Create turtles at random positions in the world
   create-turtles num-turtles [
@@ -68,9 +80,120 @@ to setup
 end
 
 to go
-  ;; do stuff
+ ask turtles[
+    if fc-start = 0 [ ;if not in cooldown phase
+      if any? friends in-radius interact-radius [
+        if random-float 1 < sociability [
+          create-links-with friends in-radius interact-radius
+          ask friends in-radius interact-radius [
+            set f-start 15
+            set fc-start 15
+          ]
+          set f-start 15
+          set fc-start 15
+        ]
+      ]
+    ]
+    let yy self
+    ask my-links with [link-length > interact-radius][
+      let ss 0
+      ask both-ends[
+        let sels self
+        if(sels != yy)[
+            set ss 1
+        ]
+      ]
+      if(ss = 1)[
+        die
+      ]
+    ]
+    if f-start = 0[
+      rt random-float 360
+    ]
+   ;; stay-start
+  ]
+
+  spread-incentive
+  dec-incentive
+  ask turtles[
+    set t-since-last-inc t-since-last-inc + 1
+  ]
+  buy
   tick
 end
+
+to spread-incentive
+  ask turtles with [has-electric? = true] [
+    if any? link-neighbors with [has-electric? = false] [
+      ask link-neighbors with [has-electric? = false][
+       inc-incentive ;become incentivized
+      ]
+    ]
+  ]
+
+
+end
+
+to inc-incentive ;;increment incentive
+  set incentive-units incentive-units + 1;;
+  set incentive 5 * (1 - e ^ (- incentive-units / 5));; calculate incentive value
+  set t-since-last-inc 0
+end
+
+to dec-incentive ;;decrement incentive
+  ask turtles[
+    if (incentive-units > 0)[
+      set incentive-units incentive-units - (t-since-last-inc) * .1 ;; Can change this to be more reasonable
+    ]
+  ]
+end
+
+to buy
+  ask turtles with [has-electric? = false] [
+    let incentive-condition? false ;; do I have enough incentive to buy an electric car
+    let money-condition? false ;; do I have enough money to buy an electric car
+    if incentive > incentive-threshold[
+      set incentive-condition? true
+    ]
+    if wealth > income-threshold[
+      set money-condition? true
+    ]
+
+    if (money-condition? = true and incentive-condition? = true)[
+      set has-electric? true
+      set color blue
+      set shape "car"
+    ]
+  ]
+end
+
+
+to stay-start
+
+  ifelse f-start = 0
+  [
+      ;Continue - move
+    stay-cstart
+  ]
+  [
+    set f-start f-start - 1 ;decrement-timer
+  ]
+
+end
+
+
+
+to stay-cstart
+  ifelse fc-start = 0
+  [
+
+  ]
+  [
+     set fc-start fc-start - 1   ;decrement-timer
+  ]
+
+end
+
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
