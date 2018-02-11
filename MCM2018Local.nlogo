@@ -3,13 +3,13 @@ turtles-own [
   wealth ;; Amount of money each turtle has
   incentive ;; A measure of how likely a turtle is to buy an electric car
   incentive-units ;; units of incentive the person has received
-  t-since-last-inc ;; time since last incentivization
   sociability ;; A measure of how likely a turtle is to interact with another turtle to buy an electric car
   persuasion ;; A measure of how likely a turtle will be a able to persuade another turtle to buy an electric car
   has-electric? ;; If the turtle has a car
   friends ;; The friends of this turtle (neighbors in network)
   timer-cooldown ;; Decremented to avoid repeated interaction
   timer-interaction ;; Decremented to freeze turtle during interaction
+  ticks-since-last-inc
   is-seeker? ;; is the turtle going to seek out non-friends to buy electric cars
 ]
 
@@ -39,6 +39,7 @@ globals [
   mean-dens-urb ;; ^^^^
   med-dens-urb ;; ^^^^^
   num-chargers;; number of current chargers
+  baseline-incentive ;; dynamic baseline incentive level
 ]
 
 ;; Set up the simulation
@@ -73,9 +74,10 @@ to setup
   set med-dens-suburb 1454;;
   set mean-dens-urb 5054.51;;
   set med-dens-urb 3856.15;;
+  set max-incentive 1 ;;
 
   ;; Setting initial population based on rural, suburban, urban
-  let area (2 * max-pxcor + 1) * (2 * max-pycor + 1) / 1000
+  let area (2 * max-pxcor + 1) * (2 * max-pycor + 1) / 10000
   if (pop-density = "rural") [
     if (central-measure = "mean") [
       set num-turtles mean-dens-rural * area
@@ -107,7 +109,7 @@ to setup
     set shape "person"
     set color white
     let alpha-wealth random-normal gini-k-mean gini-k-stdev
-    set wealth (random-gamma alpha-wealth beta-wealth) ;; TODO: Change this distribution later
+    set wealth (random-gamma alpha-wealth beta-wealth)
     set incentive 0
     let sociability-rand (random-gamma alpha-sociability beta-sociability)
     if (sociability-rand < 0) [ set sociability-rand 0 ]
@@ -145,6 +147,10 @@ to setup
   ]
 
   clear-links
+
+  if (variable = "distance") [
+    check-charger-dist
+  ]
 
   ;; Reset ticks before starting the simulation
   reset-ticks
@@ -204,14 +210,21 @@ to go
     if timer-interaction = 0 [
       rt random-float 360
       fd 1
+      dec-incentive
     ]
     dec-interaction-timer
   ]
 
   spread-incentive
-  dec-incentive
+
+
+
   ask turtles[
-    set t-since-last-inc t-since-last-inc + 1
+    if (incentive-units < 0) [
+      set incentive-units 0
+    ]
+    set incentive  baseline-incentive + max-incentive * (1 - e ^ (- incentive-units /  max-incentive));; calculate incentive value
+
   ]
 
   ;; Which variable we testing today?
@@ -220,19 +233,29 @@ to go
    check-charger-dens
   ]
 
-  if (variable = "distance") [
-    check-charger-dist
-  ]
+
 
   if (variable = "num-chargers") [
     check-charger-num
   ]
 
+  change-incentive
 
-
+  ask turtles[
+    if (incentive < baseline-incentive) [
+      set incentive baseline-incentive
+    ]
+  ]
   change-thresholds
   buy
+
   tick
+end
+
+to change-incentive
+
+  let x (count turtles with [has-electric?]) / (count turtles)
+  set baseline-incentive .6;;(1 / (ln (2))) * ln (x + 1))
 end
 
 to spread-incentive
@@ -251,25 +274,28 @@ to spread-incentive
 end
 
 to inc-incentive ;;increment incentive
-  set incentive-units incentive-units + 1;;
-  set incentive  max-incentive * (1 - e ^ (- incentive-units /  max-incentive));; calculate incentive value
-  set t-since-last-inc 0
+  set incentive-units (incentive-units + 1);;
+  set ticks-since-last-inc ticks
+
 end
 
 to dec-incentive ;;decrement incentive
-  ask turtles[
-    if (incentive-units > 0)[
-      set incentive-units incentive-units - (t-since-last-inc) * 10 ^ -7 ;; Can change this to be more reasonable
-    ]
-  ]
+    let n 0
+    if (num-chargers > 0) [ set n (count turtles with [has-electric?]) / (count turtles) ]
+    if (ticks - ticks-since-last-inc != 0)[
+    set incentive-units (incentive-units - (e ^ (-1 / (ticks - ticks-since-last-inc))) - n)
+     ];; Can change this to be more reasonable
+    if (incentive < baseline-incentive)[
+        set incentive baseline-incentive
+      ]
 end
 
 to change-thresholds
-  if (income-threshold > 30000) [
-   set income-threshold income-threshold * (.998858)
+  if (income-threshold > 20000) [
+   set income-threshold income-threshold * (.998858) ;;based on smartphone
   ]
 
-  set incentive-threshold  max-incentive * (count turtles with [has-electric? = false]) / (count turtles)
+  ;;set incentive-threshold  max-incentive * (count turtles with [has-electric? = false]) / (count turtles)
 
 
 end
@@ -299,24 +325,33 @@ to buy
 end
 
 to check-charger-dens
-  if ((count turtles with [has-electric? = true]) / (count turtles) > charger-threshold)[
+  if ((count turtles with [has-electric? = true]) / (count turtles) > charger-threshold and num-chargers != 1)[
     set num-chargers 1 ;; baseline new charger
-    set charger-distance 10 ;; baseline distance
+    set charger-distance 0 ;; baseline distance
+    ask turtles[
+      set incentive-units incentive-units + ln (num-chargers + 1)
+    ]
   ]
 
 end
 
 
 to check-charger-dist
-  if ((count turtles with [has-electric? = true]) / (count turtles) > charger-threshold)[
-    set num-chargers 1 ;; baseline new charger
-  ]
-
+    set num-chargers 0
+    let d 0
+    if (charger-distance > 0) [ set d 1 / (charger-distance ^ 2) ]
+    ask turtles [
+      set incentive-units incentive-units + d
+    ]
 end
 
 to check-charger-num
-  if ((count turtles with [has-electric? = true]) / (count turtles) > charger-threshold)[
+  if ((count turtles with [has-electric? = true]) / (count turtles) > charger-threshold and num-chargers != max-chargers)[
     set num-chargers max-chargers ;; baseline new charger
+    set charger-distance 0 ;; baseline distance
+    ask turtles[
+      set incentive-units incentive-units + ln (num-chargers + 1)
+    ]
   ]
 
 end
@@ -485,7 +520,7 @@ init-electric
 init-electric
 0
 1
-7.7E-4
+0.125
 0.01
 1
 NIL
@@ -627,21 +662,6 @@ NIL
 HORIZONTAL
 
 SLIDER
-222
-514
-394
-547
-max-incentive
-max-incentive
-0
-10
-6.95
-0.05
-1
-NIL
-HORIZONTAL
-
-SLIDER
 241
 474
 413
@@ -674,7 +694,7 @@ CHOOSER
 variable
 variable
 "charger-density" "distance" "num-chargers"
-0
+2
 
 SLIDER
 889
@@ -685,7 +705,7 @@ charger-distance
 charger-distance
 0
 100
-10.0
+0.0
 1
 1
 NIL
@@ -700,6 +720,21 @@ max-chargers
 max-chargers
 0
 5
+4.0
+1
+1
+NIL
+HORIZONTAL
+
+SLIDER
+215
+552
+394
+585
+max-incentive
+max-incentive
+0
+100
 1.0
 1
 1
