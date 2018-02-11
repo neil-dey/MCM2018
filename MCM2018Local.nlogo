@@ -329,7 +329,7 @@ to check-charger-dens
     set num-chargers 1 ;; baseline new charger
     set charger-distance 0 ;; baseline distance
     ask turtles[
-      set incentive-units incentive-units + ln (num-chargers + 1)
+      set incentive-units incentive-units + ln (2 * num-chargers + 1)
     ]
   ]
 
@@ -341,7 +341,7 @@ to check-charger-dist
     let d 0
     if (charger-distance > 0) [ set d 1 / (charger-distance ^ 2) ]
     ask turtles [
-      set incentive-units incentive-units + d
+      set incentive-units incentive-units + d * 10
     ]
 end
 
@@ -350,7 +350,7 @@ to check-charger-num
     set num-chargers max-chargers ;; baseline new charger
     set charger-distance 0 ;; baseline distance
     ask turtles[
-      set incentive-units incentive-units + ln (num-chargers + 1)
+      set incentive-units incentive-units + ln (2 * num-chargers + 1)
     ]
   ]
 
@@ -670,7 +670,7 @@ charger-threshold
 charger-threshold
 0
 1
-0.5
+0.33
 .01
 1
 NIL
@@ -684,7 +684,7 @@ CHOOSER
 central-measure
 central-measure
 "mean" "median"
-0
+1
 
 CHOOSER
 699
@@ -694,7 +694,7 @@ CHOOSER
 variable
 variable
 "charger-density" "distance" "num-chargers"
-2
+1
 
 SLIDER
 889
@@ -705,22 +705,22 @@ charger-distance
 charger-distance
 0
 100
-0.0
+10.0
 1
 1
 NIL
 HORIZONTAL
 
 SLIDER
-703
+704
 522
-875
+876
 555
 max-chargers
 max-chargers
 0
 5
-4.0
+1.0
 1
 1
 NIL
