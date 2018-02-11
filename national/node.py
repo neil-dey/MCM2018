@@ -1,3 +1,5 @@
+import math
+
 from geopy.distance import vincenty
 
 class NodeType:
@@ -9,6 +11,7 @@ class NodeType:
 class Node:
 
     VINCENTY_ITERS = 100
+    INIT_PROP_ELECTRIC = 1.0 / 6.0
 
     def __init__(self, coordinate, density):
         self.coordinate = coordinate
@@ -17,6 +20,7 @@ class Node:
         self.prop_electric = 0.0
         self.num_chargers = 0
         self.neighbors = {}
+        self.t50 = 1304
         if (density > 0 and density < 1000):
             self.type = NodeType.RURAL
         elif (density < 2500):
@@ -28,10 +32,17 @@ class Node:
         
         # TODO: Change prop_electric as node grows
         # TODO: Consider neighbors in calculating prop_electric
+
+        
+
         pass
 
     def get_distance(self, node):
         return vincenty(self.coordinate, node.coordinate, iterations=Node.VINCENTY_ITERS).miles
+
+    def logistic_curve(self, time, t50):
+        k = (1.0 / t50) * math.log((1.0 / INIT_PROP_ELECTRIC) - 1)
+        return 1.0 / (1.0 + math.exp(-k * (time - t50)))
 
     def __str__(self):
         return "(" + str(self.coordinate[0]) + "," + str(self.coordinate[1]) + ")"

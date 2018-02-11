@@ -18,6 +18,7 @@ class Network:
                 lat = float(cells[0])
                 lon = float(cells[1])
                 density = float(cells[2])
+                # TODO: include number of chargers
                 self.nodes.append(Node((lat, lon), density))
                 print("Read %s lines" % len(self.nodes))
 
