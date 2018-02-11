@@ -6,10 +6,10 @@ import time
 
 def main():
     geolocator = Nominatim()
-    locations = read_csv("../data/TeslaSuperchargeLocationsComingSoon.csv")
-    with open("../data/TeslaSuperchargeLocationsComingSoon_Coords.csv", "w") as file:
+    locations = read_csv("C:/Users/neild/git/MCM2018/data/KoreaTemp.csv")
+    with open("C:/Users/neild/git/MCM2018/data/Korea_Coords.csv", "w", encoding="utf8") as file:
         for k in range(len(locations)):
-            print(locations[k])
+            #print(locations[k])
             try:
                 time.sleep(0.5)
                 location = geolocator.geocode(locations[k])
@@ -18,13 +18,13 @@ def main():
             except KeyboardInterrupt:
                 exit()
             except Exception as e:
-                print("Location %s not found" % locations[k])
-                print("Error: %s" % e)
+                # print("Location %s not found" % locations[k])
+                # print("Error: %s" % e)
                 file.write("\"%s\",,\n" % locations[k])
 
 def read_csv(fileName):
     locations = []
-    with open(fileName, "r") as file:
+    with open(fileName, "r", encoding="utf8") as file:
         for line in file:
             locations.append(line.replace("\n", ""))
     return locations
