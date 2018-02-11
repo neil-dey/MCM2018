@@ -1,6 +1,9 @@
 import math
+import time
 
 from geopy.distance import vincenty
+
+import network
 
 class NodeType:
 
@@ -11,7 +14,7 @@ class NodeType:
 class Node:
 
     VINCENTY_ITERS = 100
-    INIT_PROP_ELECTRIC = 1.0 / 6.0
+    INIT_PROP_ELECTRIC = 0.01
 
     def __init__(self, coordinate, density, num_chargers):
         self.coordinate = coordinate
@@ -36,24 +39,37 @@ class Node:
         # TODO: Consider neighbors in calculating prop_electric
 
         # Reduce t50 based on chargers in node
-        self.t50 -= self.num_chargers * 73.05 # Average dt50/dn of chargers
+        t50mod = self.t50 - self.num_chargers * 73.05 # Average dt50/dn of chargers
         
         # Reduce t50 based on chargers in surrounding nodes
         for key in self.neighbors:
             other_node = self.neighbors[key][0]
             other_node_distance = self.neighbors[key][1]
             if other_node_distance <= 50:
-                self.t50 += 162 * (other_node_distance % 10) # Average dt50/ddistance
+                t50mod += 16.2 * other_node_distance # Average dt50/ddistance
         
-        self.prop_electric = self.logistic_curve(time, self.t50)
+        if (t50mod < 0.000000000001):
+            t50mod = 0.000000000001 # very, VERY close to zero
+        self.prop_electric = self.logistic_curve(time, t50mod)
         self.growth_metric = self.prop_electric
 
     def get_distance(self, node):
         return vincenty(self.coordinate, node.coordinate, iterations=Node.VINCENTY_ITERS).miles
 
     def logistic_curve(self, time, t50):
-        k = (1.0 / t50) * math.log((1.0 / INIT_PROP_ELECTRIC) - 1)
+        k = (1.0 / t50) * math.log((1.0 / Node.INIT_PROP_ELECTRIC) - 1)
         return 1.0 / (1.0 + math.exp(-k * (time - t50)))
+
+    def get_location(self):
+        time.sleep(0.5)
+        location = network.Network.GEOLOCATOR.reverse(str(self.coordinate[0]) + "," + str(self.coordinate[1])).raw
+        if "address" in location:
+            if "county" in location["address"] and "state" in location["address"]:
+                return location["address"]["county"] + "," + location["address"]["state"] + "," + str(self.density) + "," + str(self.num_chargers)
+            elif "state" in location["address"]:
+                return location["address"]["state"] + "," + str(self.coordinate[0]) + "," + str(self.coordinate[1]) + str(self.density) + "," + str(self.num_chargers)
+        else:
+            return self.__str__()
 
     def __str__(self):
         return str(self.coordinate[0]) + "," + str(self.coordinate[1]) + "," + str(self.density) + "," + str(self.num_chargers)
