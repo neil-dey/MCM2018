@@ -14,6 +14,8 @@ def main():
     print(net.distances)
     print(net.links)
 
+    net.simulate(100)
+
     print("Growth Rate: %s" % net.total_growth_metric())
 
 if __name__ == "__main__":

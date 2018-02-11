@@ -19,7 +19,7 @@ class Network:
                 lon = float(cells[1])
                 density = float(cells[2])
                 # TODO: include number of chargers
-                self.nodes.append(Node((lat, lon), density))
+                self.nodes.append(Node((lat, lon), density, 0))
                 print("Read %s lines" % len(self.nodes))
 
         # Predetermine distances between all nodes
