@@ -8,7 +8,7 @@ from network import *
 def main():
 
     net = Network([800, 800, 800])
-    net.load_from_file("car_locations.csv")
+    net.load_from_file("../data/TestFile.csv")
 
     print(net.nodes)
     print(net.distances)

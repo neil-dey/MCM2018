@@ -11,6 +11,7 @@ class Network:
     def load_from_file(self, fileName):
 
         # Format of line will be latitude,longitude,density\n
+        print("Reading file into memory")
         with open(fileName, "r") as file:
             for line in file:
                 cells = line.replace("\n", "").split(",")
@@ -18,14 +19,18 @@ class Network:
                 lon = float(cells[1])
                 density = float(cells[2])
                 self.nodes.append(Node((lat, lon), density))
+                print("Read %s lines" % len(self.nodes))
 
         # Predetermine distances between all nodes
+        print("Calculating all distances")
         for i in range(len(self.nodes)):
             self.distances.append([0]*len(self.nodes))
             for j in range(len(self.nodes)):
                 self.distances[i][j] = self.nodes[i].get_distance(self.nodes[j])
+                print("Calculated %s of %s distances" % (i * len(self.nodes) + j, len(self.nodes) ** 2))
 
         # Predetermine neighbors for nodes
+        print("Calculating all neighbors")
         for i in range(len(self.nodes)):
             self.links.append([0]*len(self.nodes))
             for j in range(len(self.nodes)):
@@ -37,6 +42,7 @@ class Network:
                     self.links[i][j] = 1
                     node.neighbors[str(other_node)] = (other_node, self.distances[i][j])
                     other_node.neighbors[str(node)] = (node, self.distances[i][j])
+                print("Calculated %s of %s neighbors" % (i * len(self.nodes) + j, len(self.nodes) ** 2))
 
     def simulate(self, total_time):
 
