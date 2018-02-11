@@ -1,6 +1,6 @@
 from geopy.geocoders import Nominatim
 from node import NodeType, Node
-
+import math
 import pickle
 
 class Network:
@@ -143,3 +143,68 @@ class Network:
         for node in self.nodes:
             total_degree += len(node.neighbors)
         return total_degree / len(self.nodes)
+
+    def south_korea_metric(self):
+        metric = 0
+        for i in range(len(self.nodes)):
+            if self.nodes[i].num_chargers != 0:
+                numberChargers = 0
+                for j in range(len(self.nodes)):
+                    if self.distances[i][j] <= 5:
+                        numberChargers += self.nodes[j].num_chargers
+                metric += (self.nodes[i].density * 31.5 / numberChargers)**2
+        metric = math.sqrt(metric / len(self.nodes))
+        for i in range(len(self.nodes)):
+            if self.nodes[i].num_chargers == 0:
+                min = 1000000
+                minCity = i
+                for j in range(len(self.nodes)):
+                    if i != j and self.distances[i][j] < min and self.nodes[j].num_chargers != 0:
+                        min = self.distances[i][j]
+                        minCity = j
+                if minCity == i:
+                    metric += 1000
+                else:
+                    metric += self.distances[i][minCity] * 25
+        return metric
+
+    def SK_simulate(self, total_time):
+
+        time = 0
+
+        with open("SKoutput.txt", "w", encoding="utf8") as file:
+            while (time <= total_time):
+
+                # Update every node
+                for node in self.nodes:
+                    node.tick(time)
+
+                # Try adding new charging station to each node
+                identified = False
+                node_index = 0
+                min_metric = 1000000000000000
+                for k in range(len(self.nodes)):
+                    mod_network = Network(self.radii)
+                    mod_network.nodes = self.nodes
+                    mod_network.distances = self.distances
+                    mod_network.links = self.links
+                    mod_network.nodes[k].num_chargers += 1
+                    nodeMetric = mod_network.south_korea_metric()
+                    if nodeMetric < min_metric:
+                        min_metric = nodeMetric
+                        node_index = k
+                        identified = True
+                    mod_network.nodes[k].num_chargers -= 1
+
+                # Add station to network
+                output = ""
+                if (identified):
+                    self.nodes[node_index].num_chargers += 1
+                    output = "%s" % (self.nodes[node_index].coordinate,)
+                else:
+                    output = "Time: %s" % time
+                print(output)
+                file.write(output + "\n")
+
+                # Update time
+                time += 1
