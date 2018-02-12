@@ -27,7 +27,7 @@ def main():
 def save():
 
     net = Network([100, 75, 50])
-    net.load_from_file("../data/initConditions.csv")
+    net.load_from_file("../data/AllInitConditions.csv")
 
     print(net.nodes)
     print(net.distances)

@@ -2,6 +2,7 @@ import math
 import time
 
 from geopy.distance import vincenty
+from geopy.distance import great_circle
 
 import network
 
@@ -61,14 +62,17 @@ class Node:
         return 1.0 / (1.0 + math.exp(-k * (time - t50)))
 
     def get_location(self):
-        time.sleep(0.5)
-        location = network.Network.GEOLOCATOR.reverse(str(self.coordinate[0]) + "," + str(self.coordinate[1])).raw
-        if "address" in location:
-            if "county" in location["address"] and "state" in location["address"]:
-                return location["address"]["county"] + "," + location["address"]["state"] + "," + str(self.density) + "," + str(self.num_chargers)
-            elif "state" in location["address"]:
-                return location["address"]["state"] + "," + str(self.coordinate[0]) + "," + str(self.coordinate[1]) + str(self.density) + "," + str(self.num_chargers)
-        else:
+        time.sleep(0.1)
+        try:
+            location = network.Network.GEOLOCATOR.reverse(str(self.coordinate[0]) + "," + str(self.coordinate[1])).raw
+            if "address" in location:
+                if "county" in location["address"] and "state" in location["address"]:
+                    return location["address"]["county"] + "," + location["address"]["state"] + "," + str(self.density) + "," + str(self.num_chargers)
+                elif "state" in location["address"]:
+                    return location["address"]["state"] + "," + str(self.coordinate[0]) + "," + str(self.coordinate[1]) + str(self.density) + "," + str(self.num_chargers)
+            else:
+                return self.__str__()
+        except:
             return self.__str__()
 
     def __str__(self):

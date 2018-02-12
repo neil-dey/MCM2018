@@ -1,0 +1,4367 @@
+Time: 0
+Time: 10
+Time: 20
+Time: 30
+Time: 40
+Time: 50
+Time: 60
+Time: 70
+Time: 80
+Time: 90
+Time: 100
+Time: 110
+Time: 120
+Time: 130
+Time: 140
+Time: 150
+Time: 160
+Time: 170
+Time: 180
+Time: 190
+Time: 200
+Time: 210
+Time: 220
+Time: 230
+Time: 240
+Time: 250
+Time: 260
+Time: 270
+Time: 280
+Time: 290
+Time: 300
+Time: 310
+Time: 320
+Time: 330
+Time: 340
+Time: 350
+Time: 360
+Time: 370
+Time: 380
+Time: 390
+Time: 400
+Time: 410
+Time: 420
+Time: 430
+Time: 440
+Time: 450
+Time: 460
+Time: 470
+Time: 480
+Time: 490
+Time: 500
+Time: 510
+Time: 520
+Time: 530
+Time: 540 | Identified: San Luis Obispo County,California,81.7,57.0
+Time: 550 | Identified: San Luis Obispo County,California,81.7,58.0
+Time: 560 | Identified: San Luis Obispo County,California,81.7,59.0
+Time: 570
+Time: 580
+Time: 590
+Time: 600
+Time: 610
+Time: 620
+Time: 630
+Time: 640
+Time: 650
+Time: 660
+Time: 670
+Time: 680
+Time: 690
+Time: 700
+Time: 710
+Time: 720
+Time: 730
+Time: 740
+Time: 750
+Time: 760
+Time: 770
+Time: 780
+Time: 790
+Time: 800
+Time: 810
+Time: 820
+Time: 830
+Time: 840
+Time: 850
+Time: 860
+Time: 870
+Time: 880 | Identified: San Diego County,California,735.8,41.0
+Time: 890 | Identified: San Diego County,California,735.8,42.0
+Time: 900 | Identified: San Diego County,California,735.8,43.0
+Time: 910 | Identified: San Diego County,California,735.8,44.0
+Time: 920 | Identified: San Diego County,California,735.8,45.0
+Time: 930
+Time: 940
+Time: 950
+Time: 960
+Time: 970
+Time: 980
+Time: 990
+Time: 1000
+Time: 1010
+Time: 1020
+Time: 1030
+Time: 1040
+Time: 1050 | Identified: Orange County,California,3807.7,39.0
+Time: 1060 | Identified: Orange County,California,3807.7,40.0
+Time: 1070 | Identified: Orange County,California,3807.7,41.0
+Time: 1080 | Identified: Orange County,California,3807.7,42.0
+Time: 1090 | Identified: Orange County,California,3807.7,43.0
+Time: 1100 | Identified: Orange County,California,3807.7,44.0
+Time: 1110
+Time: 1120
+Time: 1130
+Time: 1140
+Time: 1150
+Time: 1160
+Time: 1170
+Time: 1180
+Time: 1190
+Time: 1200
+Time: 1210
+Time: 1220
+Time: 1230
+Time: 1240
+Time: 1250
+Time: 1260
+Time: 1270
+Time: 1280
+Time: 1290
+Time: 1300
+Time: 1310
+Time: 1320
+Time: 1330
+Time: 1340
+Time: 1350
+Time: 1360
+Time: 1370
+Time: 1380
+Time: 1390
+Time: 1400
+Time: 1410
+Time: 1420
+Time: 1430
+Time: 1440
+Time: 1450
+Time: 1460
+Time: 1470
+Time: 1480
+Time: 1490
+Time: 1500
+Time: 1510
+Time: 1520
+Time: 1530
+Time: 1540 | Identified: Monroe County,Florida,74.3,25.0
+Time: 1550 | Identified: Monroe County,Florida,74.3,26.0
+Time: 1560 | Identified: Monroe County,Florida,74.3,27.0
+Time: 1570 | Identified: Monroe County,Florida,74.3,28.0
+Time: 1580 | Identified: Monroe County,Florida,74.3,29.0
+Time: 1590 | Identified: Monroe County,Florida,74.3,30.0
+Time: 1600 | Identified: Monroe County,Florida,74.3,31.0
+Time: 1610 | Identified: Monroe County,Florida,74.3,32.0
+Time: 1620
+Time: 1630 | Identified: Miami-Dade County,Florida,1315.5,22.0
+Time: 1640 | Identified: Miami-Dade County,Florida,1315.5,23.0
+Time: 1650 | Identified: Miami-Dade County,Florida,1315.5,24.0
+Time: 1660 | Identified: Miami-Dade County,Florida,1315.5,25.0
+Time: 1670 | Identified: Miami-Dade County,Florida,1315.5,26.0
+Time: 1680 | Identified: Miami-Dade County,Florida,1315.5,27.0
+Time: 1690 | Identified: Miami-Dade County,Florida,1315.5,28.0
+Time: 1700 | Identified: Miami-Dade County,Florida,1315.5,29.0
+Time: 1710 | Identified: Miami-Dade County,Florida,1315.5,30.0
+Time: 1720
+Time: 1730
+Time: 1740
+Time: 1750
+Time: 1760
+Time: 1770
+Time: 1780
+Time: 1790 | Identified: Clark County,Nevada,247.3,23.0
+Time: 1800 | Identified: Clark County,Nevada,247.3,24.0
+Time: 1810 | Identified: Clark County,Nevada,247.3,25.0
+Time: 1820 | Identified: Clark County,Nevada,247.3,26.0
+Time: 1830 | Identified: Clark County,Nevada,247.3,27.0
+Time: 1840 | Identified: Clark County,Nevada,247.3,28.0
+Time: 1850 | Identified: Clark County,Nevada,247.3,29.0
+Time: 1860 | Identified: Clark County,Nevada,247.3,30.0
+Time: 1870 | Identified: Clark County,Nevada,247.3,31.0
+Time: 1880 | Identified: Clark County,Nevada,247.3,32.0
+Time: 1890
+Time: 1900
+Time: 1910
+Time: 1920
+Time: 1930
+Time: 1940 | Identified: New York County,New York,69468.4,195.0
+Time: 1950 | Identified: New York County,New York,69468.4,196.0
+Time: 1960 | Identified: New York County,New York,69468.4,197.0
+Time: 1970 | Identified: New York County,New York,69468.4,198.0
+Time: 1980 | Identified: New York County,New York,69468.4,199.0
+Time: 1990 | Identified: New York County,New York,69468.4,200.0
+Time: 2000 | Identified: New York County,New York,69468.4,201.0
+Time: 2010 | Identified: New York County,New York,69468.4,202.0
+Time: 2020 | Identified: New York County,New York,69468.4,203.0
+Time: 2030 | Identified: Honolulu County,Hawaii,1586.7,4.0
+Time: 2040 | Identified: Honolulu County,Hawaii,1586.7,5.0
+Time: 2050 | Identified: Honolulu County,Hawaii,1586.7,6.0
+Time: 2060 | Identified: Honolulu County,Hawaii,1586.7,7.0
+Time: 2070 | Identified: Honolulu County,Hawaii,1586.7,8.0
+Time: 2080 | Identified: Honolulu County,Hawaii,1586.7,9.0
+Time: 2090 | Identified: Mendocino County,California,25.1,19.0
+Time: 2100 | Identified: Mendocino County,California,25.1,20.0
+Time: 2110 | Identified: Mendocino County,California,25.1,21.0
+Time: 2120 | Identified: Mendocino County,California,25.1,22.0
+Time: 2130 | Identified: Mendocino County,California,25.1,23.0
+Time: 2140 | Identified: Mendocino County,California,25.1,24.0
+Time: 2150 | Identified: Mendocino County,California,25.1,25.0
+Time: 2160 | Identified: Mendocino County,California,25.1,26.0
+Time: 2170 | Identified: Mendocino County,California,25.1,27.0
+Time: 2180 | Identified: Mendocino County,California,25.1,28.0
+Time: 2190 | Identified: Mendocino County,California,25.1,29.0
+Time: 2200 | Identified: Honolulu County,Hawaii,1586.7,10.0
+Time: 2210 | Identified: Honolulu County,Hawaii,1586.7,11.0
+Time: 2220 | Identified: Honolulu County,Hawaii,1586.7,12.0
+Time: 2230 | Identified: Honolulu County,Hawaii,1586.7,13.0
+Time: 2240 | Identified: Honolulu County,Hawaii,1586.713453,1.0
+Time: 2250 | Identified: Honolulu County,Hawaii,1586.713453,2.0
+Time: 2260 | Identified: Honolulu County,Hawaii,1586.713453,3.0
+Time: 2270 | Identified: Honolulu County,Hawaii,1586.713453,4.0
+Time: 2280 | Identified: Honolulu County,Hawaii,1586.713453,5.0
+Time: 2290 | Identified: Honolulu County,Hawaii,1586.713453,6.0
+Time: 2300 | Identified: Honolulu County,Hawaii,1586.713453,7.0
+Time: 2310 | Identified: Coconino County,Arizona,7.2,20.0
+Time: 2320 | Identified: Coconino County,Arizona,7.2,21.0
+Time: 2330 | Identified: Coconino County,Arizona,7.2,22.0
+Time: 2340 | Identified: Coconino County,Arizona,7.2,23.0
+Time: 2350 | Identified: Coconino County,Arizona,7.2,24.0
+Time: 2360 | Identified: Coconino County,Arizona,7.2,25.0
+Time: 2370 | Identified: Coconino County,Arizona,7.2,26.0
+Time: 2380 | Identified: Coconino County,Arizona,7.2,27.0
+Time: 2390 | Identified: Coconino County,Arizona,7.2,28.0
+Time: 2400 | Identified: Coconino County,Arizona,7.2,29.0
+Time: 2410 | Identified: Coconino County,Arizona,7.2,30.0
+Time: 2420 | Identified: Coconino County,Arizona,7.2,31.0
+Time: 2430 | Identified: Pima County,Arizona,106.7,8.0
+Time: 2440 | Identified: Pima County,Arizona,106.7,9.0
+Time: 2450 | Identified: Pima County,Arizona,106.7,10.0
+Time: 2460 | Identified: Pima County,Arizona,106.7,11.0
+Time: 2470 | Identified: Pima County,Arizona,106.7,12.0
+Time: 2480 | Identified: Pima County,Arizona,106.7,13.0
+Time: 2490 | Identified: Pima County,Arizona,106.7,14.0
+Time: 2500 | Identified: Pima County,Arizona,106.7,15.0
+Time: 2510 | Identified: Pima County,Arizona,106.7,16.0
+Time: 2520 | Identified: Pima County,Arizona,106.7,17.0
+Time: 2530 | Identified: Pima County,Arizona,106.7,18.0
+Time: 2540 | Identified: Pima County,Arizona,106.7,19.0
+Time: 2550 | Identified: Maricopa County,Arizona,414.9,30.0
+Time: 2560 | Identified: Maricopa County,Arizona,414.9,31.0
+Time: 2570 | Identified: Maricopa County,Arizona,414.9,32.0
+Time: 2580 | Identified: Maricopa County,Arizona,414.9,33.0
+Time: 2590 | Identified: Maricopa County,Arizona,414.9,34.0
+Time: 2600 | Identified: Maricopa County,Arizona,414.9,35.0
+Time: 2610 | Identified: Maricopa County,Arizona,414.9,36.0
+Time: 2620 | Identified: Maricopa County,Arizona,414.9,37.0
+Time: 2630 | Identified: Maricopa County,Arizona,414.9,38.0
+Time: 2640 | Identified: Maricopa County,Arizona,414.9,39.0
+Time: 2650 | Identified: Maricopa County,Arizona,414.9,40.0
+Time: 2660 | Identified: Maricopa County,Arizona,414.9,41.0
+Time: 2670 | Identified: Maricopa County,Arizona,414.9,42.0
+Time: 2680 | Identified: Maricopa County,Arizona,414.9,43.0
+Time: 2690 | Identified: Mohave County,Arizona,15.0,3.0
+Time: 2700 | Identified: Mohave County,Arizona,15.0,4.0
+Time: 2710 | Identified: Mohave County,Arizona,15.0,5.0
+Time: 2720 | Identified: Mohave County,Arizona,15.0,6.0
+Time: 2730 | Identified: Mohave County,Arizona,15.0,7.0
+Time: 2740 | Identified: Mohave County,Arizona,15.0,8.0
+Time: 2750 | Identified: Mohave County,Arizona,15.0,9.0
+Time: 2760 | Identified: Mohave County,Arizona,15.0,10.0
+Time: 2770 | Identified: Mohave County,Arizona,15.0,11.0
+Time: 2780 | Identified: Mohave County,Arizona,15.0,12.0
+Time: 2790 | Identified: Mohave County,Arizona,15.0,13.0
+Time: 2800 | Identified: Mohave County,Arizona,15.0,14.0
+Time: 2810 | Identified: Mohave County,Arizona,15.0,15.0
+Time: 2820 | Identified: Mohave County,Arizona,15.0,16.0
+Time: 2830 | Identified: Navajo County,Arizona,10.8,4.0
+Time: 2840 | Identified: Navajo County,Arizona,10.8,5.0
+Time: 2850 | Identified: Navajo County,Arizona,10.8,6.0
+Time: 2860 | Identified: Navajo County,Arizona,10.8,7.0
+Time: 2870 | Identified: Navajo County,Arizona,10.8,8.0
+Time: 2880 | Identified: Navajo County,Arizona,10.8,9.0
+Time: 2890 | Identified: Navajo County,Arizona,10.8,10.0
+Time: 2900 | Identified: La Paz County,Arizona,4.6,2.0
+Time: 2910 | Identified: La Paz County,Arizona,4.6,3.0
+Time: 2920 | Identified: La Paz County,Arizona,4.6,4.0
+Time: 2930 | Identified: La Paz County,Arizona,4.6,5.0
+Time: 2940 | Identified: La Paz County,Arizona,4.6,6.0
+Time: 2950 | Identified: La Paz County,Arizona,4.6,7.0
+Time: 2960 | Identified: La Paz County,Arizona,4.6,8.0
+Time: 2970 | Identified: La Paz County,Arizona,4.6,9.0
+Time: 2980 | Identified: La Paz County,Arizona,4.6,10.0
+Time: 2990 | Identified: La Paz County,Arizona,4.6,11.0
+Time: 3000 | Identified: La Paz County,Arizona,4.6,12.0
+Time: 3010 | Identified: La Paz County,Arizona,4.6,13.0
+Time: 3020 | Identified: La Paz County,Arizona,4.6,14.0
+Time: 3030 | Identified: La Paz County,Arizona,4.6,15.0
+Time: 3040 | Identified: La Paz County,Arizona,4.6,16.0
+Time: 3050 | Identified: Navajo County,Arizona,10.8,11.0
+Time: 3060 | Identified: Navajo County,Arizona,10.8,12.0
+Time: 3070 | Identified: Navajo County,Arizona,10.8,13.0
+Time: 3080 | Identified: Los Angeles County,California,303.8,49.0
+Time: 3090 | Identified: Los Angeles County,California,303.8,50.0
+Time: 3100 | Identified: Los Angeles County,California,303.8,51.0
+Time: 3110 | Identified: Los Angeles County,California,303.8,52.0
+Time: 3120 | Identified: Santa Barbara County,California,155.0,21.0
+Time: 3130 | Identified: Santa Barbara County,California,155.0,22.0
+Time: 3140 | Identified: Santa Barbara County,California,155.0,23.0
+Time: 3150 | Identified: Santa Barbara County,California,155.0,24.0
+Time: 3160 | Identified: Santa Barbara County,California,155.0,25.0
+Time: 3170 | Identified: Santa Barbara County,California,155.0,26.0
+Time: 3180 | Identified: Santa Barbara County,California,155.0,27.0
+Time: 3190 | Identified: Kenai Peninsula,Alaska,3.4,2.0
+Time: 3200 | Identified: Kenai Peninsula,Alaska,3.4,3.0
+Time: 3210 | Identified: Kenai Peninsula,Alaska,3.4,4.0
+Time: 3220 | Identified: Kenai Peninsula,Alaska,3.4,5.0
+Time: 3230 | Identified: Kenai Peninsula,Alaska,3.4,6.0
+Time: 3240 | Identified: Kenai Peninsula,Alaska,3.4,7.0
+Time: 3250 | Identified: Kenai Peninsula,Alaska,3.4,8.0
+Time: 3260 | Identified: Kenai Peninsula,Alaska,3.4,9.0
+Time: 3270 | Identified: Kenai Peninsula,Alaska,3.4,10.0
+Time: 3280 | Identified: Kenai Peninsula,Alaska,3.4,11.0
+Time: 3290 | Identified: Kenai Peninsula,Alaska,3.4,12.0
+Time: 3300 | Identified: Kenai Peninsula,Alaska,3.4,13.0
+Time: 3310 | Identified: Kenai Peninsula,Alaska,3.4,14.0
+Time: 3320 | Identified: Kenai Peninsula,Alaska,3.4,15.0
+Time: 3330 | Identified: Kenai Peninsula,Alaska,3.4,16.0
+Time: 3340 | Identified: Kenai Peninsula,Alaska,3.4,17.0
+Time: 3350 | Identified: Kenai Peninsula,Alaska,3.4,18.0
+Time: 3360 | Identified: Mono County,California,4.7,6.0
+Time: 3370 | Identified: Mono County,California,4.7,7.0
+Time: 3380 | Identified: Mono County,California,4.7,8.0
+Time: 3390 | Identified: Mono County,California,4.7,9.0
+Time: 3400 | Identified: Mono County,California,4.7,10.0
+Time: 3410 | Identified: Mono County,California,4.7,11.0
+Time: 3420 | Identified: Mono County,California,4.7,12.0
+Time: 3430 | Identified: Mono County,California,4.7,13.0
+Time: 3440 | Identified: Mono County,California,4.7,14.0
+Time: 3450 | Identified: Mono County,California,4.7,15.0
+Time: 3460 | Identified: Mono County,California,4.7,16.0
+Time: 3470 | Identified: Mono County,California,4.7,17.0
+Time: 3480 | Identified: Mono County,California,4.7,18.0
+Time: 3490 | Identified: Mono County,California,4.7,19.0
+Time: 3500 | Identified: Cochise County,Arizona,21.3,4.0
+Time: 3510 | Identified: Cochise County,Arizona,21.3,5.0
+Time: 3520 | Identified: Cochise County,Arizona,21.3,6.0
+Time: 3530 | Identified: Cochise County,Arizona,21.3,7.0
+Time: 3540 | Identified: Cochise County,Arizona,21.3,8.0
+Time: 3550 | Identified: Cochise County,Arizona,21.3,9.0
+Time: 3560 | Identified: Cochise County,Arizona,21.3,10.0
+Time: 3570 | Identified: Cochise County,Arizona,21.3,11.0
+Time: 3580 | Identified: Cochise County,Arizona,21.3,12.0
+Time: 3590 | Identified: Cochise County,Arizona,21.3,13.0
+Time: 3600 | Identified: Cochise County,Arizona,21.3,14.0
+Time: 3610 | Identified: Cochise County,Arizona,21.3,15.0
+Time: 3620 | Identified: Cochise County,Arizona,21.3,16.0
+Time: 3630 | Identified: Cochise County,Arizona,21.3,17.0
+Time: 3640 | Identified: Cochise County,Arizona,21.3,18.0
+Time: 3650 | Identified: Cochise County,Arizona,21.3,19.0
+Time: 3660 | Identified: Cochise County,Arizona,21.3,20.0
+Time: 3670 | Identified: Cochise County,Arizona,21.3,21.0
+Time: 3680 | Identified: Cochise County,Arizona,21.3,22.0
+Time: 3690 | Identified: Gila County,Arizona,11.3,3.0
+Time: 3700 | Identified: Gila County,Arizona,11.3,4.0
+Time: 3710 | Identified: Gila County,Arizona,11.3,5.0
+Time: 3720 | Identified: Gila County,Arizona,11.3,6.0
+Time: 3730 | Identified: Gila County,Arizona,11.3,7.0
+Time: 3740 | Identified: Gila County,Arizona,11.3,8.0
+Time: 3750 | Identified: Gila County,Arizona,11.3,9.0
+Time: 3760 | Identified: Gila County,Arizona,11.3,10.0
+Time: 3770 | Identified: Gila County,Arizona,11.3,11.0
+Time: 3780 | Identified: Gila County,Arizona,11.3,12.0
+Time: 3790 | Identified: Gila County,Arizona,11.3,13.0
+Time: 3800 | Identified: Gila County,Arizona,11.3,14.0
+Time: 3810 | Identified: Gila County,Arizona,11.3,15.0
+Time: 3820 | Identified: Gila County,Arizona,11.3,16.0
+Time: 3830 | Identified: Gila County,Arizona,11.3,17.0
+Time: 3840 | Identified: Gila County,Arizona,11.3,18.0
+Time: 3850 | Identified: Yavapai County,Arizona,26.0,3.0
+Time: 3860 | Identified: Yavapai County,Arizona,26.0,4.0
+Time: 3870 | Identified: Yavapai County,Arizona,26.0,5.0
+Time: 3880 | Identified: Yavapai County,Arizona,26.0,6.0
+Time: 3890 | Identified: Yavapai County,Arizona,26.0,7.0
+Time: 3900 | Identified: Yavapai County,Arizona,26.0,8.0
+Time: 3910 | Identified: Yavapai County,Arizona,26.0,9.0
+Time: 3920 | Identified: Yavapai County,Arizona,26.0,10.0
+Time: 3930 | Identified: Yavapai County,Arizona,26.0,11.0
+Time: 3940 | Identified: Yavapai County,Arizona,26.0,12.0
+Time: 3950 | Identified: Yavapai County,Arizona,26.0,13.0
+Time: 3960 | Identified: Yavapai County,Arizona,26.0,14.0
+Time: 3970 | Identified: Yavapai County,Arizona,26.0,15.0
+Time: 3980 | Identified: Yavapai County,Arizona,26.0,16.0
+Time: 3990 | Identified: Yavapai County,Arizona,26.0,17.0
+Time: 4000 | Identified: Yavapai County,Arizona,26.0,18.0
+Time: 4010 | Identified: Yavapai County,Arizona,26.0,19.0
+Time: 4020 | Identified: Monterey County,California,126.5,22.0
+Time: 4030 | Identified: Monterey County,California,126.5,23.0
+Time: 4040 | Identified: Monterey County,California,126.5,24.0
+Time: 4050 | Identified: Monterey County,California,126.5,25.0
+Time: 4060 | Identified: Monterey County,California,126.5,26.0
+Time: 4070 | Identified: Monterey County,California,126.5,27.0
+Time: 4080 | Identified: Monterey County,California,126.5,28.0
+Time: 4090 | Identified: Monterey County,California,126.5,29.0
+Time: 4100 | Identified: Monterey County,California,126.5,30.0
+Time: 4110 | Identified: Monterey County,California,126.5,31.0
+Time: 4120 | Identified: Monterey County,California,126.5,32.0
+Time: 4130 | Identified: Monterey County,California,126.5,33.0
+Time: 4140 | Identified: Monterey County,California,126.5,34.0
+Time: 4150 | Identified: Sonoma County,California,307.1,46.0
+Time: 4160 | Identified: Sonoma County,California,307.1,47.0
+Time: 4170 | Identified: Sonoma County,California,307.1,48.0
+Time: 4180 | Identified: Sonoma County,California,307.1,49.0
+Time: 4190 | Identified: Sonoma County,California,307.1,50.0
+Time: 4200 | Identified: Sonoma County,California,307.1,51.0
+Time: 4210 | Identified: Sonoma County,California,307.1,52.0
+Time: 4220 | Identified: Sonoma County,California,307.1,53.0
+Time: 4230 | Identified: Sonoma County,California,307.1,54.0
+Time: 4240 | Identified: Sonoma County,California,307.1,55.0
+Time: 4250 | Identified: Sonoma County,California,307.1,56.0
+Time: 4260 | Identified: Sonoma County,California,307.1,57.0
+Time: 4270 | Identified: Sonoma County,California,307.1,58.0
+Time: 4280 | Identified: Sonoma County,California,307.1,59.0
+Time: 4290 | Identified: Sonoma County,California,307.1,60.0
+Time: 4300 | Identified: San Bernardino County,California,101.5,13.0
+Time: 4310 | Identified: San Bernardino County,California,101.5,14.0
+Time: 4320 | Identified: San Bernardino County,California,101.5,15.0
+Time: 4330 | Identified: San Bernardino County,California,101.5,16.0
+Time: 4340 | Identified: San Bernardino County,California,101.5,17.0
+Time: 4350 | Identified: San Bernardino County,California,101.5,18.0
+Time: 4360 | Identified: San Bernardino County,California,101.5,19.0
+Time: 4370 | Identified: San Bernardino County,California,101.5,20.0
+Time: 4380 | Identified: Del Norte County,California,28.4,2.0
+Time: 4390 | Identified: Del Norte County,California,28.4,3.0
+Time: 4400 | Identified: Del Norte County,California,28.4,4.0
+Time: 4410 | Identified: Del Norte County,California,28.4,5.0
+Time: 4420 | Identified: Del Norte County,California,28.4,6.0
+Time: 4430 | Identified: Del Norte County,California,28.4,7.0
+Time: 4440 | Identified: Del Norte County,California,28.4,8.0
+Time: 4450 | Identified: Del Norte County,California,28.4,9.0
+Time: 4460 | Identified: Del Norte County,California,28.4,10.0
+Time: 4470 | Identified: Pinal County,Arizona,70.0,2.0
+Time: 4480 | Identified: Pinal County,Arizona,70.0,3.0
+Time: 4490 | Identified: Pinal County,Arizona,70.0,4.0
+Time: 4500 | Identified: Pinal County,Arizona,70.0,5.0
+Time: 4510 | Identified: Pinal County,Arizona,70.0,6.0
+Time: 4520 | Identified: Pinal County,Arizona,70.0,7.0
+Time: 4530 | Identified: Pinal County,Arizona,70.0,8.0
+Time: 4540 | Identified: Pinal County,Arizona,70.0,9.0
+Time: 4550 | Identified: Pinal County,Arizona,70.0,10.0
+Time: 4560 | Identified: Pinal County,Arizona,70.0,11.0
+Time: 4570 | Identified: Pinal County,Arizona,70.0,12.0
+Time: 4580 | Identified: Pinal County,Arizona,70.0,13.0
+Time: 4590 | Identified: Pinal County,Arizona,70.0,14.0
+Time: 4600 | Identified: Pinal County,Arizona,70.0,15.0
+Time: 4610 | Identified: Pinal County,Arizona,70.0,16.0
+Time: 4620 | Identified: Pinal County,Arizona,70.0,17.0
+Time: 4630 | Identified: Pinal County,Arizona,70.0,18.0
+Time: 4640 | Identified: Pinal County,Arizona,70.0,19.0
+Time: 4650 | Identified: Pinal County,Arizona,70.0,20.0
+Time: 4660 | Identified: Pinal County,Arizona,70.0,21.0
+Time: 4670 | Identified: Pinal County,Arizona,70.0,22.0
+Time: 4680 | Identified: Pinal County,Arizona,70.0,23.0
+Time: 4690 | Identified: Pinal County,Arizona,70.0,24.0
+Time: 4700 | Identified: Pinal County,Arizona,70.0,25.0
+Time: 4710 | Identified: Napa County,California,182.4,69.0
+Time: 4720 | Identified: Napa County,California,182.4,70.0
+Time: 4730 | Identified: Napa County,California,182.4,71.0
+Time: 4740 | Identified: Napa County,California,182.4,72.0
+Time: 4750 | Identified: Napa County,California,182.4,73.0
+Time: 4760 | Identified: Napa County,California,182.4,74.0
+Time: 4770 | Identified: Napa County,California,182.4,75.0
+Time: 4780 | Identified: Napa County,California,182.4,76.0
+Time: 4790 | Identified: Napa County,California,182.4,77.0
+Time: 4800 | Identified: Napa County,California,182.4,78.0
+Time: 4810 | Identified: Napa County,California,182.4,79.0
+Time: 4820 | Identified: Napa County,California,182.4,80.0
+Time: 4830 | Identified: Napa County,California,182.4,81.0
+Time: 4840 | Identified: Napa County,California,182.4,82.0
+Time: 4850 | Identified: Napa County,California,182.4,83.0
+Time: 4860 | Identified: Napa County,California,182.4,84.0
+Time: 4870 | Identified: Napa County,California,182.4,85.0
+Time: 4880 | Identified: Napa County,California,182.4,86.0
+Time: 4890 | Identified: Napa County,California,182.4,87.0
+Time: 4900 | Identified: Napa County,California,182.4,88.0
+Time: 4910 | Identified: Napa County,California,182.4,89.0
+Time: 4920 | Identified: Napa County,California,182.4,90.0
+Time: 4930 | Identified: Napa County,California,182.4,91.0
+Time: 4940 | Identified: Del Norte County,California,28.4,11.0
+Time: 4950 | Identified: Del Norte County,California,28.4,12.0
+Time: 4960 | Identified: Del Norte County,California,28.4,13.0
+Time: 4970 | Identified: Del Norte County,California,28.4,14.0
+Time: 4980 | Identified: Del Norte County,California,28.4,15.0
+Time: 4990 | Identified: Del Norte County,California,28.4,16.0
+Time: 5000 | Identified: Del Norte County,California,28.4,17.0
+Time: 5010 | Identified: Del Norte County,California,28.4,18.0
+Time: 5020 | Identified: Del Norte County,California,28.4,19.0
+Time: 5030 | Identified: Fresno County,California,156.2,3.0
+Time: 5040 | Identified: Fresno County,California,156.2,4.0
+Time: 5050 | Identified: Fresno County,California,156.2,5.0
+Time: 5060 | Identified: Fresno County,California,156.2,6.0
+Time: 5070 | Identified: Fresno County,California,156.2,7.0
+Time: 5080 | Identified: Fresno County,California,156.2,8.0
+Time: 5090 | Identified: Fresno County,California,156.2,9.0
+Time: 5100 | Identified: SF,California,17179.2,17.0
+Time: 5110 | Identified: SF,California,17179.2,18.0
+Time: 5120 | Identified: SF,California,17179.2,19.0
+Time: 5130 | Identified: SF,California,17179.2,20.0
+Time: 5140 | Identified: SF,California,17179.2,21.0
+Time: 5150 | Identified: SF,California,17179.2,22.0
+Time: 5160 | Identified: SF,California,17179.2,23.0
+Time: 5170 | Identified: SF,California,17179.2,24.0
+Time: 5180 | Identified: SF,California,17179.2,25.0
+Time: 5190 | Identified: SF,California,17179.2,26.0
+Time: 5200 | Identified: SF,California,17179.2,27.0
+Time: 5210 | Identified: SF,California,17179.2,28.0
+Time: 5220 | Identified: SF,California,17179.2,29.0
+Time: 5230 | Identified: SF,California,17179.2,30.0
+Time: 5240 | Identified: SF,California,17179.2,31.0
+Time: 5250 | Identified: SF,California,17179.2,32.0
+Time: 5260 | Identified: SF,California,17179.2,33.0
+Time: 5270 | Identified: SF,California,17179.2,34.0
+Time: 5280 | Identified: SF,California,17179.2,35.0
+Time: 5290 | Identified: SF,California,17179.2,36.0
+Time: 5300 | Identified: SF,California,17179.2,37.0
+Time: 5310 | Identified: Baldwin County,Alabama,114.6,7.0
+Time: 5320 | Identified: Baldwin County,Alabama,114.6,8.0
+Time: 5330 | Identified: Baldwin County,Alabama,114.6,9.0
+Time: 5340 | Identified: Baldwin County,Alabama,114.6,10.0
+Time: 5350 | Identified: Baldwin County,Alabama,114.6,11.0
+Time: 5360 | Identified: Baldwin County,Alabama,114.6,12.0
+Time: 5370 | Identified: Baldwin County,Alabama,114.6,13.0
+Time: 5380 | Identified: Baldwin County,Alabama,114.6,14.0
+Time: 5390 | Identified: Baldwin County,Alabama,114.6,15.0
+Time: 5400 | Identified: Baldwin County,Alabama,114.6,16.0
+Time: 5410 | Identified: Baldwin County,Alabama,114.6,17.0
+Time: 5420 | Identified: Baldwin County,Alabama,114.6,18.0
+Time: 5430 | Identified: Baldwin County,Alabama,114.6,19.0
+Time: 5440 | Identified: Baldwin County,Alabama,114.6,20.0
+Time: 5450 | Identified: Baldwin County,Alabama,114.6,21.0
+Time: 5460 | Identified: Baldwin County,Alabama,114.6,22.0
+Time: 5470 | Identified: Baldwin County,Alabama,114.6,23.0
+Time: 5480 | Identified: Baldwin County,Alabama,114.6,24.0
+Time: 5490 | Identified: Baldwin County,Alabama,114.6,25.0
+Time: 5500 | Identified: Baldwin County,Alabama,114.6,26.0
+Time: 5510 | Identified: Baldwin County,Alabama,114.6,27.0
+Time: 5520 | Identified: Baldwin County,Alabama,114.6,28.0
+Time: 5530 | Identified: Baldwin County,Alabama,114.6,29.0
+Time: 5540 | Identified: Baldwin County,Alabama,114.6,30.0
+Time: 5550 | Identified: Baldwin County,Alabama,114.6,31.0
+Time: 5560 | Identified: Baldwin County,Alabama,114.6,32.0
+Time: 5570 | Identified: Baldwin County,Alabama,114.6,33.0
+Time: 5580 | Identified: Baldwin County,Alabama,114.6,34.0
+Time: 5590 | Identified: SF,California,17179.2,38.0
+Time: 5600 | Identified: SF,California,17179.2,39.0
+Time: 5610 | Identified: SF,California,17179.2,40.0
+Time: 5620 | Identified: Ventura County,California,446.7,8.0
+Time: 5630 | Identified: Ventura County,California,446.7,9.0
+Time: 5640 | Identified: Ventura County,California,446.7,10.0
+Time: 5650 | Identified: Ventura County,California,446.7,11.0
+Time: 5660 | Identified: Ventura County,California,446.7,12.0
+Time: 5670 | Identified: Ventura County,California,446.7,13.0
+Time: 5680 | Identified: Madera County,California,70.6,5.0
+Time: 5690 | Identified: Madera County,California,70.6,6.0
+Time: 5700 | Identified: Madera County,California,70.6,7.0
+Time: 5710 | Identified: Plumas County,California,21.5,2.0
+Time: 5720 | Identified: Plumas County,California,21.5,3.0
+Time: 5730 | Identified: Plumas County,California,21.5,4.0
+Time: 5740 | Identified: Plumas County,California,21.5,5.0
+Time: 5750 | Identified: Plumas County,California,21.5,6.0
+Time: 5760 | Identified: Plumas County,California,21.5,7.0
+Time: 5770 | Identified: Plumas County,California,21.5,8.0
+Time: 5780 | Identified: Plumas County,California,21.5,9.0
+Time: 5790 | Identified: Plumas County,California,21.5,10.0
+Time: 5800 | Identified: Plumas County,California,21.5,11.0
+Time: 5810 | Identified: Plumas County,California,21.5,12.0
+Time: 5820 | Identified: Plumas County,California,21.5,13.0
+Time: 5830 | Identified: Plumas County,California,21.5,14.0
+Time: 5840 | Identified: Plumas County,California,21.5,15.0
+Time: 5850 | Identified: Plumas County,California,21.5,16.0
+Time: 5860 | Identified: Plumas County,California,21.5,17.0
+Time: 5870 | Identified: Plumas County,California,21.5,18.0
+Time: 5880 | Identified: Plumas County,California,21.5,19.0
+Time: 5890 | Identified: Plumas County,California,21.5,20.0
+Time: 5900 | Identified: Plumas County,California,21.5,21.0
+Time: 5910 | Identified: Plumas County,California,21.5,22.0
+Time: 5920 | Identified: Jefferson County,Alabama,592.5,6.0
+Time: 5930 | Identified: Jefferson County,Alabama,592.5,7.0
+Time: 5940 | Identified: Jefferson County,Alabama,592.5,8.0
+Time: 5950 | Identified: Jefferson County,Alabama,592.5,9.0
+Time: 5960 | Identified: Jefferson County,Alabama,592.5,10.0
+Time: 5970 | Identified: Jefferson County,Alabama,592.5,11.0
+Time: 5980 | Identified: Jefferson County,Alabama,592.5,12.0
+Time: 5990 | Identified: Jefferson County,Alabama,592.5,13.0
+Time: 6000 | Identified: Jefferson County,Alabama,592.5,14.0
+Time: 6010 | Identified: Jefferson County,Alabama,592.5,15.0
+Time: 6020 | Identified: Jefferson County,Alabama,592.5,16.0
+Time: 6030 | Identified: Jefferson County,Alabama,592.5,17.0
+Time: 6040 | Identified: Jefferson County,Alabama,592.5,18.0
+Time: 6050 | Identified: Jefferson County,Alabama,592.5,19.0
+Time: 6060 | Identified: Jefferson County,Alabama,592.5,20.0
+Time: 6070 | Identified: Jefferson County,Alabama,592.5,21.0
+Time: 6080 | Identified: Jefferson County,Alabama,592.5,22.0
+Time: 6090 | Identified: Jefferson County,Alabama,592.5,23.0
+Time: 6100 | Identified: Jefferson County,Alabama,592.5,24.0
+Time: 6110 | Identified: Jefferson County,Alabama,592.5,25.0
+Time: 6120 | Identified: Jefferson County,Alabama,592.5,26.0
+Time: 6130 | Identified: Jefferson County,Alabama,592.5,27.0
+Time: 6140 | Identified: Jefferson County,Alabama,592.5,28.0
+Time: 6150 | Identified: Jefferson County,Alabama,592.5,29.0
+Time: 6160 | Identified: Jefferson County,Alabama,592.5,30.0
+Time: 6170 | Identified: Jefferson County,Alabama,592.5,31.0
+Time: 6180 | Identified: Jefferson County,Alabama,592.5,32.0
+Time: 6190 | Identified: Jefferson County,Alabama,592.5,33.0
+Time: 6200 | Identified: Jefferson County,Alabama,592.5,34.0
+Time: 6210 | Identified: Jefferson County,Alabama,592.5,35.0
+Time: 6220 | Identified: Jefferson County,Alabama,592.5,36.0
+Time: 6230 | Identified: Plumas County,California,21.5,23.0
+Time: 6240 | Identified: Plumas County,California,21.5,24.0
+Time: 6250 | Identified: Plumas County,California,21.5,25.0
+Time: 6260 | Identified: Plumas County,California,21.5,26.0
+Time: 6270 | Identified: Plumas County,California,21.5,27.0
+Time: 6280 | Identified: Alameda County,California,2043.6,6.0
+Time: 6290 | Identified: Alameda County,California,2043.6,7.0
+Time: 6300 | Identified: Alameda County,California,2043.6,8.0
+Time: 6310 | Identified: Alameda County,California,2043.6,9.0
+Time: 6320 | Identified: Alameda County,California,2043.6,10.0
+Time: 6330 | Identified: Alameda County,California,2043.6,11.0
+Time: 6340 | Identified: Alameda County,California,2043.6,12.0
+Time: 6350 | Identified: Alameda County,California,2043.6,13.0
+Time: 6360 | Identified: Alameda County,California,2043.6,14.0
+Time: 6370 | Identified: Alameda County,California,2043.6,15.0
+Time: 6380 | Identified: Alameda County,California,2043.6,16.0
+Time: 6390 | Identified: Alameda County,California,2043.6,17.0
+Time: 6400 | Identified: Alameda County,California,2043.6,18.0
+Time: 6410 | Identified: Alameda County,California,2043.6,19.0
+Time: 6420 | Identified: Tuscaloosa County,Alabama,147.3,3.0
+Time: 6430 | Identified: Tuscaloosa County,Alabama,147.3,4.0
+Time: 6440 | Identified: Tuscaloosa County,Alabama,147.3,5.0
+Time: 6450 | Identified: Tuscaloosa County,Alabama,147.3,6.0
+Time: 6460 | Identified: Tuscaloosa County,Alabama,147.3,7.0
+Time: 6470 | Identified: Tuscaloosa County,Alabama,147.3,8.0
+Time: 6480 | Identified: Tuscaloosa County,Alabama,147.3,9.0
+Time: 6490 | Identified: Tuscaloosa County,Alabama,147.3,10.0
+Time: 6500 | Identified: Tuscaloosa County,Alabama,147.3,11.0
+Time: 6510 | Identified: Tuscaloosa County,Alabama,147.3,12.0
+Time: 6520 | Identified: Tuscaloosa County,Alabama,147.3,13.0
+Time: 6530 | Identified: Tuscaloosa County,Alabama,147.3,14.0
+Time: 6540 | Identified: Tuscaloosa County,Alabama,147.3,15.0
+Time: 6550 | Identified: Tuscaloosa County,Alabama,147.3,16.0
+Time: 6560 | Identified: Tuscaloosa County,Alabama,147.3,17.0
+Time: 6570 | Identified: Tuscaloosa County,Alabama,147.3,18.0
+Time: 6580 | Identified: Tuscaloosa County,Alabama,147.3,19.0
+Time: 6590 | Identified: Tuscaloosa County,Alabama,147.3,20.0
+Time: 6600 | Identified: Tuscaloosa County,Alabama,147.3,21.0
+Time: 6610 | Identified: Tuscaloosa County,Alabama,147.3,22.0
+Time: 6620 | Identified: Tuscaloosa County,Alabama,147.3,23.0
+Time: 6630 | Identified: Tuscaloosa County,Alabama,147.3,24.0
+Time: 6640 | Identified: Tuscaloosa County,Alabama,147.3,25.0
+Time: 6650 | Identified: Tuscaloosa County,Alabama,147.3,26.0
+Time: 6660 | Identified: Tuscaloosa County,Alabama,147.3,27.0
+Time: 6670 | Identified: Tuscaloosa County,Alabama,147.3,28.0
+Time: 6680 | Identified: Tuscaloosa County,Alabama,147.3,29.0
+Time: 6690 | Identified: Tuscaloosa County,Alabama,147.3,30.0
+Time: 6700 | Identified: Tuscaloosa County,Alabama,147.3,31.0
+Time: 6710 | Identified: Tuscaloosa County,Alabama,147.3,32.0
+Time: 6720 | Identified: Tuscaloosa County,Alabama,147.3,33.0
+Time: 6730 | Identified: Tuscaloosa County,Alabama,147.3,34.0
+Time: 6740 | Identified: Tuscaloosa County,Alabama,147.3,35.0
+Time: 6750 | Identified: Tuscaloosa County,Alabama,147.3,36.0
+Time: 6760 | Identified: Covington County,Alabama,335.9,2.0
+Time: 6770 | Identified: Covington County,Alabama,335.9,3.0
+Time: 6780 | Identified: Covington County,Alabama,335.9,4.0
+Time: 6790 | Identified: Covington County,Alabama,335.9,5.0
+Time: 6800 | Identified: Covington County,Alabama,335.9,6.0
+Time: 6810 | Identified: Covington County,Alabama,335.9,7.0
+Time: 6820 | Identified: Covington County,Alabama,335.9,8.0
+Time: 6830 | Identified: Covington County,Alabama,335.9,9.0
+Time: 6840 | Identified: Covington County,Alabama,335.9,10.0
+Time: 6850 | Identified: Covington County,Alabama,335.9,11.0
+Time: 6860 | Identified: Covington County,Alabama,335.9,12.0
+Time: 6870 | Identified: Covington County,Alabama,335.9,13.0
+Time: 6880 | Identified: Covington County,Alabama,335.9,14.0
+Time: 6890 | Identified: Covington County,Alabama,335.9,15.0
+Time: 6900 | Identified: Covington County,Alabama,335.9,16.0
+Time: 6910 | Identified: Covington County,Alabama,335.9,17.0
+Time: 6920 | Identified: Covington County,Alabama,335.9,18.0
+Time: 6930 | Identified: Covington County,Alabama,335.9,19.0
+Time: 6940 | Identified: Covington County,Alabama,335.9,20.0
+Time: 6950 | Identified: Covington County,Alabama,335.9,21.0
+Time: 6960 | Identified: Covington County,Alabama,335.9,22.0
+Time: 6970 | Identified: Covington County,Alabama,335.9,23.0
+Time: 6980 | Identified: Covington County,Alabama,335.9,24.0
+Time: 6990 | Identified: Covington County,Alabama,335.9,25.0
+Time: 7000 | Identified: Covington County,Alabama,335.9,26.0
+Time: 7010 | Identified: Covington County,Alabama,335.9,27.0
+Time: 7020 | Identified: Covington County,Alabama,335.9,28.0
+Time: 7030 | Identified: Covington County,Alabama,335.9,29.0
+Time: 7040 | Identified: Covington County,Alabama,335.9,30.0
+Time: 7050 | Identified: Covington County,Alabama,335.9,31.0
+Time: 7060 | Identified: Covington County,Alabama,335.9,32.0
+Time: 7070 | Identified: Benton County,Arkansas,261.2,2.0
+Time: 7080 | Identified: Benton County,Arkansas,261.2,3.0
+Time: 7090 | Identified: Benton County,Arkansas,261.2,4.0
+Time: 7100 | Identified: Benton County,Arkansas,261.2,5.0
+Time: 7110 | Identified: Benton County,Arkansas,261.2,6.0
+Time: 7120 | Identified: Benton County,Arkansas,261.2,7.0
+Time: 7130 | Identified: Benton County,Arkansas,261.2,8.0
+Time: 7140 | Identified: Benton County,Arkansas,261.2,9.0
+Time: 7150 | Identified: Benton County,Arkansas,261.2,10.0
+Time: 7160 | Identified: Benton County,Arkansas,261.2,11.0
+Time: 7170 | Identified: Benton County,Arkansas,261.2,12.0
+Time: 7180 | Identified: Benton County,Arkansas,261.2,13.0
+Time: 7190 | Identified: Benton County,Arkansas,261.2,14.0
+Time: 7200 | Identified: Benton County,Arkansas,261.2,15.0
+Time: 7210 | Identified: Benton County,Arkansas,261.2,16.0
+Time: 7220 | Identified: Benton County,Arkansas,261.2,17.0
+Time: 7230 | Identified: Benton County,Arkansas,261.2,18.0
+Time: 7240 | Identified: Benton County,Arkansas,261.2,19.0
+Time: 7250 | Identified: Benton County,Arkansas,261.2,20.0
+Time: 7260 | Identified: Benton County,Arkansas,261.2,21.0
+Time: 7270 | Identified: Autauga County,Alabama,91.8,3.0
+Time: 7280 | Identified: Autauga County,Alabama,91.8,4.0
+Time: 7290 | Identified: Autauga County,Alabama,91.8,5.0
+Time: 7300 | Identified: Autauga County,Alabama,91.8,6.0
+Time: 7310 | Identified: Autauga County,Alabama,91.8,7.0
+Time: 7320 | Identified: Autauga County,Alabama,91.8,8.0
+Time: 7330 | Identified: Autauga County,Alabama,91.8,9.0
+Time: 7340 | Identified: Autauga County,Alabama,91.8,10.0
+Time: 7350 | Identified: Autauga County,Alabama,91.8,11.0
+Time: 7360 | Identified: Autauga County,Alabama,91.8,12.0
+Time: 7370 | Identified: Autauga County,Alabama,91.8,13.0
+Time: 7380 | Identified: Autauga County,Alabama,91.8,14.0
+Time: 7390 | Identified: Autauga County,Alabama,91.8,15.0
+Time: 7400 | Identified: Autauga County,Alabama,91.8,16.0
+Time: 7410 | Identified: Autauga County,Alabama,91.8,17.0
+Time: 7420 | Identified: Autauga County,Alabama,91.8,18.0
+Time: 7430 | Identified: Autauga County,Alabama,91.8,19.0
+Time: 7440 | Identified: Autauga County,Alabama,91.8,20.0
+Time: 7450 | Identified: Autauga County,Alabama,91.8,21.0
+Time: 7460 | Identified: Autauga County,Alabama,91.8,22.0
+Time: 7470 | Identified: Autauga County,Alabama,91.8,23.0
+Time: 7480 | Identified: Autauga County,Alabama,91.8,24.0
+Time: 7490 | Identified: Autauga County,Alabama,91.8,25.0
+Time: 7500 | Identified: Autauga County,Alabama,91.8,26.0
+Time: 7510 | Identified: Autauga County,Alabama,91.8,27.0
+Time: 7520 | Identified: Autauga County,Alabama,91.8,28.0
+Time: 7530 | Identified: Autauga County,Alabama,91.8,29.0
+Time: 7540 | Identified: Autauga County,Alabama,91.8,30.0
+Time: 7550 | Identified: Autauga County,Alabama,91.8,31.0
+Time: 7560 | Identified: Autauga County,Alabama,91.8,32.0
+Time: 7570 | Identified: Autauga County,Alabama,91.8,33.0
+Time: 7580 | Identified: Autauga County,Alabama,91.8,34.0
+Time: 7590 | Identified: Autauga County,Alabama,91.8,35.0
+Time: 7600 | Identified: Autauga County,Alabama,91.8,36.0
+Time: 7610 | Identified: Autauga County,Alabama,91.8,37.0
+Time: 7620 | Identified: Autauga County,Alabama,91.8,38.0
+Time: 7630 | Identified: Autauga County,Alabama,91.8,39.0
+Time: 7640 | Identified: Autauga County,Alabama,91.8,40.0
+Time: 7650 | Identified: Madison County,Alabama,417.7,2.0
+Time: 7660 | Identified: Madison County,Alabama,417.7,3.0
+Time: 7670 | Identified: Madison County,Alabama,417.7,4.0
+Time: 7680 | Identified: Madison County,Alabama,417.7,5.0
+Time: 7690 | Identified: Madison County,Alabama,417.7,6.0
+Time: 7700 | Identified: Madison County,Alabama,417.7,7.0
+Time: 7710 | Identified: Madison County,Alabama,417.7,8.0
+Time: 7720 | Identified: Madison County,Alabama,417.7,9.0
+Time: 7730 | Identified: Madison County,Alabama,417.7,10.0
+Time: 7740 | Identified: Madison County,Alabama,417.7,11.0
+Time: 7750 | Identified: Madison County,Alabama,417.7,12.0
+Time: 7760 | Identified: Madison County,Alabama,417.7,13.0
+Time: 7770 | Identified: Madison County,Alabama,417.7,14.0
+Time: 7780 | Identified: Madison County,Alabama,417.7,15.0
+Time: 7790 | Identified: Madison County,Alabama,417.7,16.0
+Time: 7800 | Identified: Madison County,Alabama,417.7,17.0
+Time: 7810 | Identified: Madison County,Alabama,417.7,18.0
+Time: 7820 | Identified: Madison County,Alabama,417.7,19.0
+Time: 7830 | Identified: Madison County,Alabama,417.7,20.0
+Time: 7840 | Identified: Madison County,Alabama,417.7,21.0
+Time: 7850 | Identified: Madison County,Alabama,417.7,22.0
+Time: 7860 | Identified: Madison County,Alabama,417.7,23.0
+Time: 7870 | Identified: Madison County,Alabama,417.7,24.0
+Time: 7880 | Identified: Madison County,Alabama,417.7,25.0
+Time: 7890 | Identified: Madison County,Alabama,417.7,26.0
+Time: 7900 | Identified: Madison County,Alabama,417.7,27.0
+Time: 7910 | Identified: Montgomery County,Alabama,292.5,2.0
+Time: 7920 | Identified: Montgomery County,Alabama,292.5,3.0
+Time: 7930 | Identified: Montgomery County,Alabama,292.5,4.0
+Time: 7940 | Identified: Montgomery County,Alabama,292.5,5.0
+Time: 7950 | Identified: Montgomery County,Alabama,292.5,6.0
+Time: 7960 | Identified: Montgomery County,Alabama,292.5,7.0
+Time: 7970 | Identified: Montgomery County,Alabama,292.5,8.0
+Time: 7980 | Identified: Montgomery County,Alabama,292.5,9.0
+Time: 7990 | Identified: Montgomery County,Alabama,292.5,10.0
+Time: 8000 | Identified: Montgomery County,Alabama,292.5,11.0
+Time: 8010 | Identified: Montgomery County,Alabama,292.5,12.0
+Time: 8020 | Identified: Montgomery County,Alabama,292.5,13.0
+Time: 8030 | Identified: Montgomery County,Alabama,292.5,14.0
+Time: 8040 | Identified: Montgomery County,Alabama,292.5,15.0
+Time: 8050 | Identified: Montgomery County,Alabama,292.5,16.0
+Time: 8060 | Identified: Montgomery County,Alabama,292.5,17.0
+Time: 8070 | Identified: Montgomery County,Alabama,292.5,18.0
+Time: 8080 | Identified: Montgomery County,Alabama,292.5,19.0
+Time: 8090 | Identified: Montgomery County,Alabama,292.5,20.0
+Time: 8100 | Identified: Montgomery County,Alabama,292.5,21.0
+Time: 8110 | Identified: Montgomery County,Alabama,292.5,22.0
+Time: 8120 | Identified: Montgomery County,Alabama,292.5,23.0
+Time: 8130 | Identified: Montgomery County,Alabama,292.5,24.0
+Time: 8140 | Identified: Montgomery County,Alabama,292.5,25.0
+Time: 8150 | Identified: Montgomery County,Alabama,292.5,26.0
+Time: 8160 | Identified: Montgomery County,Alabama,292.5,27.0
+Time: 8170 | Identified: Montgomery County,Alabama,292.5,28.0
+Time: 8180 | Identified: Montgomery County,Alabama,292.5,29.0
+Time: 8190 | Identified: Montgomery County,Alabama,292.5,30.0
+Time: 8200 | Identified: Montgomery County,Alabama,292.5,31.0
+Time: 8210 | Identified: Montgomery County,Alabama,292.5,32.0
+Time: 8220 | Identified: Montgomery County,Alabama,292.5,33.0
+Time: 8230 | Identified: Montgomery County,Alabama,292.5,34.0
+Time: 8240 | Identified: Montgomery County,Alabama,292.5,35.0
+Time: 8250 | Identified: Montgomery County,Alabama,292.5,36.0
+Time: 8260 | Identified: Montgomery County,Alabama,292.5,37.0
+Time: 8270 | Identified: Montgomery County,Alabama,292.5,38.0
+Time: 8280 | Identified: Montgomery County,Alabama,292.5,39.0
+Time: 8290 | Identified: Montgomery County,Alabama,292.5,40.0
+Time: 8300 | Identified: Montgomery County,Alabama,292.5,41.0
+Time: 8310 | Identified: Montgomery County,Alabama,292.5,42.0
+Time: 8320 | Identified: Montgomery County,Alabama,292.5,43.0
+Time: 8330 | Identified: Etowah County,Alabama,195.2,2.0
+Time: 8340 | Identified: Etowah County,Alabama,195.2,3.0
+Time: 8350 | Identified: Etowah County,Alabama,195.2,4.0
+Time: 8360 | Identified: Etowah County,Alabama,195.2,5.0
+Time: 8370 | Identified: Etowah County,Alabama,195.2,6.0
+Time: 8380 | Identified: Etowah County,Alabama,195.2,7.0
+Time: 8390 | Identified: Etowah County,Alabama,195.2,8.0
+Time: 8400 | Identified: Etowah County,Alabama,195.2,9.0
+Time: 8410 | Identified: Etowah County,Alabama,195.2,10.0
+Time: 8420 | Identified: Etowah County,Alabama,195.2,11.0
+Time: 8430 | Identified: Etowah County,Alabama,195.2,12.0
+Time: 8440 | Identified: Etowah County,Alabama,195.2,13.0
+Time: 8450 | Identified: Etowah County,Alabama,195.2,14.0
+Time: 8460 | Identified: Etowah County,Alabama,195.2,15.0
+Time: 8470 | Identified: Etowah County,Alabama,195.2,16.0
+Time: 8480 | Identified: Etowah County,Alabama,195.2,17.0
+Time: 8490 | Identified: Etowah County,Alabama,195.2,18.0
+Time: 8500 | Identified: Etowah County,Alabama,195.2,19.0
+Time: 8510 | Identified: Etowah County,Alabama,195.2,20.0
+Time: 8520 | Identified: Etowah County,Alabama,195.2,21.0
+Time: 8530 | Identified: Etowah County,Alabama,195.2,22.0
+Time: 8540 | Identified: Etowah County,Alabama,195.2,23.0
+Time: 8550 | Identified: Etowah County,Alabama,195.2,24.0
+Time: 8560 | Identified: Etowah County,Alabama,195.2,25.0
+Time: 8570 | Identified: Etowah County,Alabama,195.2,26.0
+Time: 8580 | Identified: Etowah County,Alabama,195.2,27.0
+Time: 8590 | Identified: Etowah County,Alabama,195.2,28.0
+Time: 8600 | Identified: Etowah County,Alabama,195.2,29.0
+Time: 8610 | Identified: Etowah County,Alabama,195.2,30.0
+Time: 8620 | Identified: Etowah County,Alabama,195.2,31.0
+Time: 8630 | Identified: Etowah County,Alabama,195.2,32.0
+Time: 8640 | Identified: Etowah County,Alabama,195.2,33.0
+Time: 8650 | Identified: Etowah County,Alabama,195.2,34.0
+Time: 8660 | Identified: Etowah County,Alabama,195.2,35.0
+Time: 8670 | Identified: Etowah County,Alabama,195.2,36.0
+Time: 8680 | Identified: Etowah County,Alabama,195.2,37.0
+Time: 8690 | Identified: Etowah County,Alabama,195.2,38.0
+Time: 8700 | Identified: Etowah County,Alabama,195.2,39.0
+Time: 8710 | Identified: Etowah County,Alabama,195.2,40.0
+Time: 8720 | Identified: Etowah County,Alabama,195.2,41.0
+Time: 8730 | Identified: Madison County,Alabama,417.7,28.0
+Time: 8740 | Identified: Madison County,Alabama,417.7,29.0
+Time: 8750 | Identified: Madison County,Alabama,417.7,30.0
+Time: 8760 | Identified: Madison County,Alabama,417.7,31.0
+Time: 8770 | Identified: Houston County,Alabama,175.1,2.0
+Time: 8780 | Identified: Houston County,Alabama,175.1,3.0
+Time: 8790 | Identified: Houston County,Alabama,175.1,4.0
+Time: 8800 | Identified: Houston County,Alabama,175.1,5.0
+Time: 8810 | Identified: Houston County,Alabama,175.1,6.0
+Time: 8820 | Identified: Houston County,Alabama,175.1,7.0
+Time: 8830 | Identified: Houston County,Alabama,175.1,8.0
+Time: 8840 | Identified: Houston County,Alabama,175.1,9.0
+Time: 8850 | Identified: Houston County,Alabama,175.1,10.0
+Time: 8860 | Identified: 34.5896,-86.9887,206.3,2.0
+Time: 8870 | Identified: Morgan County,Alabama,206.3,3.0
+Time: 8880 | Identified: Morgan County,Alabama,206.3,4.0
+Time: 8890 | Identified: Morgan County,Alabama,206.3,5.0
+Time: 8900 | Identified: Morgan County,Alabama,206.3,6.0
+Time: 8910 | Identified: Morgan County,Alabama,206.3,7.0
+Time: 8920 | Identified: Morgan County,Alabama,206.3,8.0
+Time: 8930 | Identified: Morgan County,Alabama,206.3,9.0
+Time: 8940 | Identified: Morgan County,Alabama,206.3,10.0
+Time: 8950 | Identified: Morgan County,Alabama,206.3,11.0
+Time: 8960 | Identified: Morgan County,Alabama,206.3,12.0
+Time: 8970 | Identified: Morgan County,Alabama,206.3,13.0
+Time: 8980 | Identified: Morgan County,Alabama,206.3,14.0
+Time: 8990 | Identified: Morgan County,Alabama,206.3,15.0
+Time: 9000 | Identified: Morgan County,Alabama,206.3,16.0
+Time: 9010 | Identified: Morgan County,Alabama,206.3,17.0
+Time: 9020 | Identified: Morgan County,Alabama,206.3,18.0
+Time: 9030 | Identified: Morgan County,Alabama,206.3,19.0
+Time: 9040 | Identified: Morgan County,Alabama,206.3,20.0
+Time: 9050 | Identified: Morgan County,Alabama,206.3,21.0
+Time: 9060 | Identified: Morgan County,Alabama,206.3,22.0
+Time: 9070 | Identified: Morgan County,Alabama,206.3,23.0
+Time: 9080 | Identified: Morgan County,Alabama,206.3,24.0
+Time: 9090 | Identified: Morgan County,Alabama,206.3,25.0
+Time: 9100 | Identified: Morgan County,Alabama,206.3,26.0
+Time: 9110 | Identified: Morgan County,Alabama,206.3,27.0
+Time: 9120 | Identified: Morgan County,Alabama,206.3,28.0
+Time: 9130 | Identified: Morgan County,Alabama,206.3,29.0
+Time: 9140 | Identified: Morgan County,Alabama,206.3,30.0
+Time: 9150 | Identified: Morgan County,Alabama,206.3,31.0
+Time: 9160 | Identified: Morgan County,Alabama,206.3,32.0
+Time: 9170 | Identified: Morgan County,Alabama,206.3,33.0
+Time: 9180 | Identified: Morgan County,Alabama,206.3,34.0
+Time: 9190 | Identified: Morgan County,Alabama,206.3,35.0
+Time: 9200 | Identified: Morgan County,Alabama,206.3,36.0
+Time: 9210 | Identified: Morgan County,Alabama,206.3,37.0
+Time: 9220 | Identified: Morgan County,Alabama,206.3,38.0
+Time: 9230 | Identified: Morgan County,Alabama,206.3,39.0
+Time: 9240 | Identified: Morgan County,Alabama,206.3,40.0
+Time: 9250 | Identified: Morgan County,Alabama,206.3,41.0
+Time: 9260 | Identified: Morgan County,Alabama,206.3,42.0
+Time: 9270 | Identified: Morgan County,Alabama,206.3,43.0
+Time: 9280 | Identified: Morgan County,Alabama,206.3,44.0
+Time: 9290 | Identified: Morgan County,Alabama,206.3,45.0
+Time: 9300 | Identified: Morgan County,Alabama,206.3,46.0
+Time: 9310 | Identified: Morgan County,Alabama,206.3,47.0
+Time: 9320 | Identified: Morgan County,Alabama,206.3,48.0
+Time: 9330 | Identified: Houston County,Alabama,175.1,11.0
+Time: 9340 | Identified: Houston County,Alabama,175.1,12.0
+Time: 9350 | Identified: Houston County,Alabama,175.1,13.0
+Time: 9360 | Identified: Houston County,Alabama,175.1,14.0
+Time: 9370 | Identified: Houston County,Alabama,175.1,15.0
+Time: 9380 | Identified: Houston County,Alabama,175.1,16.0
+Time: 9390 | Identified: Houston County,Alabama,175.1,17.0
+Time: 9400 | Identified: Houston County,Alabama,175.1,18.0
+Time: 9410 | Identified: Houston County,Alabama,175.1,19.0
+Time: 9420 | Identified: Houston County,Alabama,175.1,20.0
+Time: 9430 | Identified: Houston County,Alabama,175.1,21.0
+Time: 9440 | Identified: Houston County,Alabama,175.1,22.0
+Time: 9450 | Identified: Houston County,Alabama,175.1,23.0
+Time: 9460 | Identified: Houston County,Alabama,175.1,24.0
+Time: 9470 | Identified: Houston County,Alabama,175.1,25.0
+Time: 9480 | Identified: Houston County,Alabama,175.1,26.0
+Time: 9490 | Identified: Houston County,Alabama,175.1,27.0
+Time: 9500 | Identified: Houston County,Alabama,175.1,28.0
+Time: 9510 | Identified: Houston County,Alabama,175.1,29.0
+Time: 9520 | Identified: Houston County,Alabama,175.1,30.0
+Time: 9530 | Identified: Houston County,Alabama,175.1,31.0
+Time: 9540 | Identified: Houston County,Alabama,175.1,32.0
+Time: 9550 | Identified: Houston County,Alabama,175.1,33.0
+Time: 9560 | Identified: Houston County,Alabama,175.1,34.0
+Time: 9570 | Identified: Lauderdale County,Alabama,138.8,3.0
+Time: 9580 | Identified: Lauderdale County,Alabama,138.8,4.0
+Time: 9590 | Identified: Lauderdale County,Alabama,138.8,5.0
+Time: 9600 | Identified: Lauderdale County,Alabama,138.8,6.0
+Time: 9610 | Identified: Lauderdale County,Alabama,138.8,7.0
+Time: 9620 | Identified: Lauderdale County,Alabama,138.8,8.0
+Time: 9630 | Identified: Lauderdale County,Alabama,138.8,9.0
+Time: 9640 | Identified: Lauderdale County,Alabama,138.8,10.0
+Time: 9650 | Identified: Lauderdale County,Alabama,138.8,11.0
+Time: 9660 | Identified: Lauderdale County,Alabama,138.8,12.0
+Time: 9670 | Identified: Lauderdale County,Alabama,138.8,13.0
+Time: 9680 | Identified: Lauderdale County,Alabama,138.8,14.0
+Time: 9690 | Identified: Lauderdale County,Alabama,138.8,15.0
+Time: 9700 | Identified: Lauderdale County,Alabama,138.8,16.0
+Time: 9710 | Identified: Lauderdale County,Alabama,138.8,17.0
+Time: 9720 | Identified: Lauderdale County,Alabama,138.8,18.0
+Time: 9730 | Identified: Lauderdale County,Alabama,138.8,19.0
+Time: 9740 | Identified: Lauderdale County,Alabama,138.8,20.0
+Time: 9750 | Identified: Lauderdale County,Alabama,138.8,21.0
+Time: 9760 | Identified: Lauderdale County,Alabama,138.8,22.0
+Time: 9770 | Identified: Lauderdale County,Alabama,138.8,23.0
+Time: 9780 | Identified: Lauderdale County,Alabama,138.8,24.0
+Time: 9790 | Identified: Lauderdale County,Alabama,138.8,25.0
+Time: 9800 | Identified: Lauderdale County,Alabama,138.8,26.0
+Time: 9810 | Identified: Lauderdale County,Alabama,138.8,27.0
+Time: 9820 | Identified: Lauderdale County,Alabama,138.8,28.0
+Time: 9830 | Identified: Lauderdale County,Alabama,138.8,29.0
+Time: 9840 | Identified: Lauderdale County,Alabama,138.8,30.0
+Time: 9850 | Identified: Lauderdale County,Alabama,138.8,31.0
+Time: 9860 | Identified: Lauderdale County,Alabama,138.8,32.0
+Time: 9870 | Identified: Lauderdale County,Alabama,138.8,33.0
+Time: 9880 | Identified: Lauderdale County,Alabama,138.8,34.0
+Time: 9890 | Identified: Lauderdale County,Alabama,138.8,35.0
+Time: 9900 | Identified: Lauderdale County,Alabama,138.8,36.0
+Time: 9910 | Identified: Garland County,Arkansas,141.7,4.0
+Time: 9920 | Identified: Garland County,Arkansas,141.7,5.0
+Time: 9930 | Identified: Garland County,Arkansas,141.7,6.0
+Time: 9940 | Identified: Garland County,Arkansas,141.7,7.0
+Time: 9950 | Identified: Garland County,Arkansas,141.7,8.0
+Time: 9960 | Identified: Garland County,Arkansas,141.7,9.0
+Time: 9970 | Identified: Garland County,Arkansas,141.7,10.0
+Time: 9980 | Identified: Garland County,Arkansas,141.7,11.0
+Time: 9990 | Identified: Garland County,Arkansas,141.7,12.0
+Time: 10000 | Identified: Garland County,Arkansas,141.7,13.0
+Time: 10010 | Identified: Garland County,Arkansas,141.7,14.0
+Time: 10020 | Identified: Garland County,Arkansas,141.7,15.0
+Time: 10030 | Identified: Garland County,Arkansas,141.7,16.0
+Time: 10040 | Identified: Garland County,Arkansas,141.7,17.0
+Time: 10050 | Identified: Carroll County,Arkansas,43.6,3.0
+Time: 10060 | Identified: Carroll County,Arkansas,43.6,4.0
+Time: 10070 | Identified: Carroll County,Arkansas,43.6,5.0
+Time: 10080 | Identified: Carroll County,Arkansas,43.6,6.0
+Time: 10090 | Identified: Carroll County,Arkansas,43.6,7.0
+Time: 10100 | Identified: Carroll County,Arkansas,43.6,8.0
+Time: 10110 | Identified: Carroll County,Arkansas,43.6,9.0
+Time: 10120 | Identified: Carroll County,Arkansas,43.6,10.0
+Time: 10130 | Identified: Carroll County,Arkansas,43.6,11.0
+Time: 10140 | Identified: Carroll County,Arkansas,43.6,12.0
+Time: 10150 | Identified: Carroll County,Arkansas,43.6,13.0
+Time: 10160 | Identified: Carroll County,Arkansas,43.6,14.0
+Time: 10170 | Identified: Carroll County,Arkansas,43.6,15.0
+Time: 10180 | Identified: Carroll County,Arkansas,43.6,16.0
+Time: 10190 | Identified: Carroll County,Arkansas,43.6,17.0
+Time: 10200 | Identified: Carroll County,Arkansas,43.6,18.0
+Time: 10210 | Identified: Carroll County,Arkansas,43.6,19.0
+Time: 10220 | Identified: Carroll County,Arkansas,43.6,20.0
+Time: 10230 | Identified: Carroll County,Arkansas,43.6,21.0
+Time: 10240 | Identified: Carroll County,Arkansas,43.6,22.0
+Time: 10250 | Identified: Carroll County,Arkansas,43.6,23.0
+Time: 10260 | Identified: Carroll County,Arkansas,43.6,24.0
+Time: 10270 | Identified: Carroll County,Arkansas,43.6,25.0
+Time: 10280 | Identified: Carroll County,Arkansas,43.6,26.0
+Time: 10290 | Identified: Carroll County,Arkansas,43.6,27.0
+Time: 10300 | Identified: Carroll County,Arkansas,43.6,28.0
+Time: 10310 | Identified: Carroll County,Arkansas,43.6,29.0
+Time: 10320 | Identified: Carroll County,Arkansas,43.6,30.0
+Time: 10330 | Identified: Washington County,Arkansas,215.6,2.0
+Time: 10340 | Identified: Washington County,Arkansas,215.6,3.0
+Time: 10350 | Identified: Washington County,Arkansas,215.6,4.0
+Time: 10360 | Identified: Washington County,Arkansas,215.6,5.0
+Time: 10370 | Identified: Washington County,Arkansas,215.6,6.0
+Time: 10380 | Identified: Washington County,Arkansas,215.6,7.0
+Time: 10390 | Identified: Washington County,Arkansas,215.6,8.0
+Time: 10400 | Identified: Hot Spring County,Arkansas,53.5,2.0
+Time: 10410 | Identified: Hot Spring County,Arkansas,53.5,3.0
+Time: 10420 | Identified: Hot Spring County,Arkansas,53.5,4.0
+Time: 10430 | Identified: Hot Spring County,Arkansas,53.5,5.0
+Time: 10440 | Identified: Hot Spring County,Arkansas,53.5,6.0
+Time: 10450 | Identified: Hot Spring County,Arkansas,53.5,7.0
+Time: 10460 | Identified: Hot Spring County,Arkansas,53.5,8.0
+Time: 10470 | Identified: Hot Spring County,Arkansas,53.5,9.0
+Time: 10480 | Identified: Hot Spring County,Arkansas,53.5,10.0
+Time: 10490 | Identified: Hot Spring County,Arkansas,53.5,11.0
+Time: 10500 | Identified: Hot Spring County,Arkansas,53.5,12.0
+Time: 10510 | Identified: Hot Spring County,Arkansas,53.5,13.0
+Time: 10520 | Identified: Hot Spring County,Arkansas,53.5,14.0
+Time: 10530 | Identified: Hot Spring County,Arkansas,53.5,15.0
+Time: 10540 | Identified: Hot Spring County,Arkansas,53.5,16.0
+Time: 10550 | Identified: Hot Spring County,Arkansas,53.5,17.0
+Time: 10560 | Identified: Hot Spring County,Arkansas,53.5,18.0
+Time: 10570 | Identified: Hot Spring County,Arkansas,53.5,19.0
+Time: 10580 | Identified: Hot Spring County,Arkansas,53.5,20.0
+Time: 10590 | Identified: Hot Spring County,Arkansas,53.5,21.0
+Time: 10600 | Identified: Hot Spring County,Arkansas,53.5,22.0
+Time: 10610 | Identified: Hot Spring County,Arkansas,53.5,23.0
+Time: 10620 | Identified: Hot Spring County,Arkansas,53.5,24.0
+Time: 10630 | Identified: Hot Spring County,Arkansas,53.5,25.0
+Time: 10640 | Identified: Hot Spring County,Arkansas,53.5,26.0
+Time: 10650 | Identified: Hot Spring County,Arkansas,53.5,27.0
+Time: 10660 | Identified: San Joaquin County,California,492.6,6.0
+Time: 10670 | Identified: San Joaquin County,California,492.6,7.0
+Time: 10680 | Identified: San Joaquin County,California,492.6,8.0
+Time: 10690 | Identified: San Joaquin County,California,492.6,9.0
+Time: 10700 | Identified: San Joaquin County,California,492.6,10.0
+Time: 10710 | Identified: San Joaquin County,California,492.6,11.0
+Time: 10720 | Identified: El Dorado County,California,106.0,18.0
+Time: 10730 | Identified: El Dorado County,California,106.0,19.0
+Time: 10740 | Identified: El Dorado County,California,106.0,20.0
+Time: 10750 | Identified: El Dorado County,California,106.0,21.0
+Time: 10760 | Identified: El Dorado County,California,106.0,22.0
+Time: 10770 | Identified: El Dorado County,California,106.0,23.0
+Time: 10780 | Identified: El Dorado County,California,106.0,24.0
+Time: 10790 | Identified: El Dorado County,California,106.0,25.0
+Time: 10800 | Identified: El Dorado County,California,106.0,26.0
+Time: 10810 | Identified: El Dorado County,California,106.0,27.0
+Time: 10820 | Identified: El Dorado County,California,106.0,28.0
+Time: 10830 | Identified: El Dorado County,California,106.0,29.0
+Time: 10840 | Identified: El Dorado County,California,106.0,30.0
+Time: 10850 | Identified: El Dorado County,California,106.0,31.0
+Time: 10860 | Identified: El Dorado County,California,106.0,32.0
+Time: 10870 | Identified: El Dorado County,California,106.0,33.0
+Time: 10880 | Identified: El Dorado County,California,106.0,34.0
+Time: 10890 | Identified: El Dorado County,California,106.0,35.0
+Time: 10900 | Identified: Contra Costa County,California,1465.2,3.0
+Time: 10910 | Identified: Contra Costa County,California,1465.2,4.0
+Time: 10920 | Identified: Contra Costa County,California,1465.2,5.0
+Time: 10930 | Identified: Contra Costa County,California,1465.2,6.0
+Time: 10940 | Identified: Contra Costa County,California,1465.2,7.0
+Time: 10950 | Identified: Contra Costa County,California,1465.2,8.0
+Time: 10960 | Identified: Contra Costa County,California,1465.2,9.0
+Time: 10970 | Identified: Contra Costa County,California,1465.2,10.0
+Time: 10980 | Identified: Contra Costa County,California,1465.2,11.0
+Time: 10990 | Identified: Contra Costa County,California,1465.2,12.0
+Time: 11000 | Identified: Contra Costa County,California,1465.2,13.0
+Time: 11010 | Identified: Contra Costa County,California,1465.2,14.0
+Time: 11020 | Identified: Contra Costa County,California,1465.2,15.0
+Time: 11030 | Identified: Contra Costa County,California,1465.2,16.0
+Time: 11040 | Identified: Contra Costa County,California,1465.2,17.0
+Time: 11050 | Identified: Marin County,California,485.1,8.0
+Time: 11060 | Identified: Marin County,California,485.1,9.0
+Time: 11070 | Identified: Marin County,California,485.1,10.0
+Time: 11080 | Identified: Marin County,California,485.1,11.0
+Time: 11090 | Identified: Marin County,California,485.1,12.0
+Time: 11100 | Identified: Marin County,California,485.1,13.0
+Time: 11110 | Identified: Placer County,California,247.6,9.0
+Time: 11120 | Identified: Placer County,California,247.6,10.0
+Time: 11130 | Identified: Placer County,California,247.6,11.0
+Time: 11140 | Identified: Placer County,California,247.6,12.0
+Time: 11150 | Identified: Placer County,California,247.6,13.0
+Time: 11160 | Identified: Butte County,California,134.4,4.0
+Time: 11170 | Identified: Butte County,California,134.4,5.0
+Time: 11180 | Identified: Butte County,California,134.4,6.0
+Time: 11190 | Identified: Butte County,California,134.4,7.0
+Time: 11200 | Identified: Butte County,California,134.4,8.0
+Time: 11210 | Identified: Amador County,California,1.6,3.0
+Time: 11220 | Identified: Amador County,California,1.6,4.0
+Time: 11230 | Identified: Amador County,California,1.6,5.0
+Time: 11240 | Identified: Amador County,California,1.6,6.0
+Time: 11250 | Identified: Amador County,California,1.6,7.0
+Time: 11260 | Identified: Amador County,California,1.6,8.0
+Time: 11270 | Identified: Amador County,California,1.6,9.0
+Time: 11280 | Identified: Amador County,California,1.6,10.0
+Time: 11290 | Identified: Amador County,California,1.6,11.0
+Time: 11300 | Identified: Yolo County,California,197.9,2.0
+Time: 11310 | Identified: Yolo County,California,197.9,3.0
+Time: 11320 | Identified: Yolo County,California,197.9,4.0
+Time: 11330 | Identified: Yolo County,California,197.9,5.0
+Time: 11340 | Identified: Yolo County,California,197.9,6.0
+Time: 11350 | Identified: Yolo County,California,197.9,7.0
+Time: 11360 | Identified: Yolo County,California,197.9,8.0
+Time: 11370 | Identified: Yolo County,California,197.9,9.0
+Time: 11380 | Identified: Yolo County,California,197.9,10.0
+Time: 11390 | Identified: Yolo County,California,197.9,11.0
+Time: 11400 | Identified: Yolo County,California,197.9,12.0
+Time: 11410 | Identified: Yolo County,California,197.9,13.0
+Time: 11420 | Identified: Yolo County,California,197.9,14.0
+Time: 11430 | Identified: Yolo County,California,197.9,15.0
+Time: 11440 | Identified: Yolo County,California,197.9,16.0
+Time: 11450 | Identified: Yolo County,California,197.9,17.0
+Time: 11460 | Identified: Yolo County,California,197.9,18.0
+Time: 11470 | Identified: Yolo County,California,197.9,19.0
+Time: 11480 | Identified: Yolo County,California,197.9,20.0
+Time: 11490 | Identified: Yolo County,California,197.9,21.0
+Time: 11500 | Identified: Yolo County,California,197.9,22.0
+Time: 11510 | Identified: 38.5927,-121.5325,197.9,23.0
+Time: 11520 | Identified: 38.5927,-121.5325,197.9,24.0
+Time: 11530 | Identified: 38.5927,-121.5325,197.9,25.0
+Time: 11540 | Identified: 39.0337,-121.4235,114.2,2.0
+Time: 11550 | Identified: 39.0337,-121.4235,114.2,3.0
+Time: 11560 | Identified: 39.4826,-120.8483,3.4,2.0
+Time: 11570 | Identified: New Haven County,Connecticut,1426.7,8.0
+Time: 11580 | Identified: New Haven County,Connecticut,1426.7,9.0
+Time: 11590 | Identified: New Haven County,Connecticut,1426.7,10.0
+Time: 11600 | Identified: New Haven County,Connecticut,1426.7,11.0
+Time: 11610 | Identified: Fairfield County,Connecticut,1467.2,12.0
+Time: 11620 | Identified: Fairfield County,Connecticut,1467.2,13.0
+Time: 11630 | Identified: Fairfield County,Connecticut,1467.2,14.0
+Time: 11640 | Identified: Fairfield County,Connecticut,1467.2,15.0
+Time: 11650 | Identified: Fairfield County,Connecticut,1467.2,16.0
+Time: 11660 | Identified: Fairfield County,Connecticut,1467.2,17.0
+Time: 11670 | Identified: Fairfield County,Connecticut,1467.2,18.0
+Time: 11680 | Identified: Fairfield County,Connecticut,1467.2,19.0
+Time: 11690 | Identified: Fairfield County,Connecticut,1467.2,20.0
+Time: 11700 | Identified: Fairfield County,Connecticut,1467.2,21.0
+Time: 11710 | Identified: 41.3665,-73.2571,1467.2,22.0
+Time: 11720 | Identified: Fairfield County,Connecticut,1467.2,23.0
+Time: 11730 | Identified: Fairfield County,Connecticut,1467.2,24.0
+Time: 11740 | Identified: Fairfield County,Connecticut,1467.2,25.0
+Time: 11750 | Identified: Fairfield County,Connecticut,1467.2,26.0
+Time: 11760 | Identified: Fairfield County,Connecticut,1467.2,27.0
+Time: 11770 | Identified: Fairfield County,Connecticut,1467.2,28.0
+Time: 11780 | Identified: Fairfield County,Connecticut,1467.2,29.0
+Time: 11790 | Identified: Fairfield County,Connecticut,1467.2,30.0
+Time: 11800 | Identified: Fairfield County,Connecticut,1467.2,31.0
+Time: 11810 | Identified: Fairfield County,Connecticut,1467.2,32.0
+Time: 11820 | Identified: Fairfield County,Connecticut,1467.2,33.0
+Time: 11830 | Identified: Fairfield County,Connecticut,1467.2,34.0
+Time: 11840 | Identified: Fairfield County,Connecticut,1467.2,35.0
+Time: 11850 | Identified: Fairfield County,Connecticut,1467.2,36.0
+Time: 11860 | Identified: Fairfield County,Connecticut,1467.2,37.0
+Time: 11870 | Identified: Fairfield County,Connecticut,1467.2,38.0
+Time: 11880 | Identified: Fairfield County,Connecticut,1467.2,39.0
+Time: 11890 | Identified: Fairfield County,Connecticut,1467.2,40.0
+Time: 11900 | Identified: Fairfield County,Connecticut,1467.2,41.0
+Time: 11910 | Identified: Fairfield County,Connecticut,1467.2,42.0
+Time: 11920 | Identified: Fairfield County,Connecticut,1467.2,43.0
+Time: 11930 | Identified: Fairfield County,Connecticut,1467.2,44.0
+Time: 11940 | Identified: Fairfield County,Connecticut,1467.2,45.0
+Time: 11950 | Identified: Hartford County,Connecticut,1216.2,3.0
+Time: 11960 | Identified: Hartford County,Connecticut,1216.2,4.0
+Time: 11970 | Identified: Hartford County,Connecticut,1216.2,5.0
+Time: 11980 | Identified: Hartford County,Connecticut,1216.2,6.0
+Time: 11990 | Identified: Hartford County,Connecticut,1216.2,7.0
+Time: 12000 | Identified: Hartford County,Connecticut,1216.2,8.0
+Time: 12010 | Identified: Hartford County,Connecticut,1216.2,9.0
+Time: 12020 | Identified: Hartford County,Connecticut,1216.2,10.0
+Time: 12030 | Identified: Hartford County,Connecticut,1216.2,11.0
+Time: 12040 | Identified: Hartford County,Connecticut,1216.2,12.0
+Time: 12050 | Identified: Hartford County,Connecticut,1216.2,13.0
+Time: 12060 | Identified: Hartford County,Connecticut,1216.2,14.0
+Time: 12070 | Identified: Hartford County,Connecticut,1216.2,15.0
+Time: 12080 | Identified: Hartford County,Connecticut,1216.2,16.0
+Time: 12090 | Identified: Hartford County,Connecticut,1216.2,17.0
+Time: 12100 | Identified: Hartford County,Connecticut,1216.2,18.0
+Time: 12110 | Identified: Hartford County,Connecticut,1216.2,19.0
+Time: 12120 | Identified: Hartford County,Connecticut,1216.2,20.0
+Time: 12130 | Identified: Hartford County,Connecticut,1216.2,21.0
+Time: 12140 | Identified: Hartford County,Connecticut,1216.2,22.0
+Time: 12150 | Identified: Hartford County,Connecticut,1216.2,23.0
+Time: 12160 | Identified: Hartford County,Connecticut,1216.2,24.0
+Time: 12170 | Identified: Hartford County,Connecticut,1216.2,25.0
+Time: 12180 | Identified: Hartford County,Connecticut,1216.2,26.0
+Time: 12190 | Identified: Hartford County,Connecticut,1216.2,27.0
+Time: 12200 | Identified: Hartford County,Connecticut,1216.2,28.0
+Time: 12210 | Identified: Hartford County,Connecticut,1216.2,29.0
+Time: 12220 | Identified: Hartford County,Connecticut,1216.2,30.0
+Time: 12230 | Identified: Hartford County,Connecticut,1216.2,31.0
+Time: 12240 | Identified: Hartford County,Connecticut,1216.2,32.0
+Time: 12250 | Identified: Hartford County,Connecticut,1216.2,33.0
+Time: 12260 | Identified: Hartford County,Connecticut,1216.2,34.0
+Time: 12270 | Identified: Hartford County,Connecticut,1216.2,35.0
+Time: 12280 | Identified: Hartford County,Connecticut,1216.2,36.0
+Time: 12290 | Identified: Hartford County,Connecticut,1216.2,37.0
+Time: 12300 | Identified: Hartford County,Connecticut,1216.2,38.0
+Time: 12310 | Identified: Hartford County,Connecticut,1216.2,39.0
+Time: 12320 | Identified: Hartford County,Connecticut,1216.2,40.0
+Time: 12330 | Identified: Hartford County,Connecticut,1216.2,41.0
+Time: 12340 | Identified: Hartford County,Connecticut,1216.2,42.0
+Time: 12350 | Identified: Litchfield County,Connecticut,206.3,5.0
+Time: 12360 | Identified: Litchfield County,Connecticut,206.3,6.0
+Time: 12370 | Identified: Litchfield County,Connecticut,206.3,7.0
+Time: 12380 | Identified: Litchfield County,Connecticut,206.3,8.0
+Time: 12390 | Identified: Litchfield County,Connecticut,206.3,9.0
+Time: 12400 | Identified: Litchfield County,Connecticut,206.3,10.0
+Time: 12410 | Identified: Litchfield County,Connecticut,206.3,11.0
+Time: 12420 | Identified: Litchfield County,Connecticut,206.3,12.0
+Time: 12430 | Identified: Litchfield County,Connecticut,206.3,13.0
+Time: 12440 | Identified: Litchfield County,Connecticut,206.3,14.0
+Time: 12450 | Identified: Litchfield County,Connecticut,206.3,15.0
+Time: 12460 | Identified: Litchfield County,Connecticut,206.3,16.0
+Time: 12470 | Identified: Litchfield County,Connecticut,206.3,17.0
+Time: 12480 | Identified: Litchfield County,Connecticut,206.3,18.0
+Time: 12490 | Identified: Litchfield County,Connecticut,206.3,19.0
+Time: 12500 | Identified: Litchfield County,Connecticut,206.3,20.0
+Time: 12510 | Identified: Litchfield County,Connecticut,206.3,21.0
+Time: 12520 | Identified: Litchfield County,Connecticut,206.3,22.0
+Time: 12530 | Identified: Litchfield County,Connecticut,206.3,23.0
+Time: 12540 | Identified: Litchfield County,Connecticut,206.3,24.0
+Time: 12550 | Identified: Litchfield County,Connecticut,206.3,25.0
+Time: 12560 | Identified: Litchfield County,Connecticut,206.3,26.0
+Time: 12570 | Identified: Litchfield County,Connecticut,206.3,27.0
+Time: 12580 | Identified: Litchfield County,Connecticut,206.3,28.0
+Time: 12590 | Identified: Litchfield County,Connecticut,206.3,29.0
+Time: 12600 | Identified: Litchfield County,Connecticut,206.3,30.0
+Time: 12610 | Identified: Litchfield County,Connecticut,206.3,31.0
+Time: 12620 | Identified: Litchfield County,Connecticut,206.3,32.0
+Time: 12630 | Identified: Litchfield County,Connecticut,206.3,33.0
+Time: 12640 | Identified: Litchfield County,Connecticut,206.3,34.0
+Time: 12650 | Identified: Litchfield County,Connecticut,206.3,35.0
+Time: 12660 | Identified: Litchfield County,Connecticut,206.3,36.0
+Time: 12670 | Identified: Litchfield County,Connecticut,206.3,37.0
+Time: 12680 | Identified: Litchfield County,Connecticut,206.3,38.0
+Time: 12690 | Identified: Litchfield County,Connecticut,206.3,39.0
+Time: 12700 | Identified: Litchfield County,Connecticut,206.3,40.0
+Time: 12710 | Identified: Litchfield County,Connecticut,206.3,41.0
+Time: 12720 | Identified: Litchfield County,Connecticut,206.3,42.0
+Time: 12730 | Identified: Litchfield County,Connecticut,206.3,43.0
+Time: 12740 | Identified: District of Columbia,38.9122,-77.01779856.5,23.0
+Time: 12750 | Identified: District of Columbia,38.9122,-77.01779856.5,24.0
+Time: 12760 | Identified: District of Columbia,38.9122,-77.01779856.5,25.0
+Time: 12770 | Identified: District of Columbia,38.9122,-77.01779856.5,26.0
+Time: 12780 | Identified: Polk County,Florida,334.9,2.0
+Time: 12790 | Identified: Polk County,Florida,334.9,3.0
+Time: 12800 | Identified: Polk County,Florida,334.9,4.0
+Time: 12810 | Identified: Polk County,Florida,334.9,5.0
+Time: 12820 | Identified: Polk County,Florida,334.9,6.0
+Time: 12830 | Identified: Polk County,Florida,334.9,7.0
+Time: 12840 | Identified: Polk County,Florida,334.9,8.0
+Time: 12850 | Identified: Polk County,Florida,334.9,9.0
+Time: 12860 | Identified: Polk County,Florida,334.9,10.0
+Time: 12870 | Identified: Polk County,Florida,334.9,11.0
+Time: 12880 | Identified: Polk County,Florida,334.9,12.0
+Time: 12890 | Identified: Polk County,Florida,334.9,13.0
+Time: 12900 | Identified: Polk County,Florida,334.9,14.0
+Time: 12910 | Identified: Polk County,Florida,334.9,15.0
+Time: 12920 | Identified: Polk County,Florida,334.9,16.0
+Time: 12930 | Identified: Polk County,Florida,334.9,17.0
+Time: 12940 | Identified: Polk County,Florida,334.9,18.0
+Time: 12950 | Identified: Bibb County,Georgia,622.8,4.0
+Time: 12960 | Identified: Bibb County,Georgia,622.8,5.0
+Time: 12970 | Identified: Bibb County,Georgia,622.8,6.0
+Time: 12980 | Identified: Bibb County,Georgia,622.8,7.0
+Time: 12990 | Identified: Bibb County,Georgia,622.8,8.0
+Time: 13000 | Identified: Bibb County,Georgia,622.8,9.0
+Time: 13010 | Identified: Bibb County,Georgia,622.8,10.0
+Time: 13020 | Identified: Bibb County,Georgia,622.8,11.0
+Time: 13030 | Identified: Bibb County,Georgia,622.8,12.0
+Time: 13040 | Identified: Bibb County,Georgia,622.8,13.0
+Time: 13050 | Identified: Bibb County,Georgia,622.8,14.0
+Time: 13060 | Identified: Bibb County,Georgia,622.8,15.0
+Time: 13070 | Identified: Bibb County,Georgia,622.8,16.0
+Time: 13080 | Identified: Bibb County,Georgia,622.8,17.0
+Time: 13090 | Identified: Bibb County,Georgia,622.8,18.0
+Time: 13100 | Identified: Bibb County,Georgia,622.8,19.0
+Time: 13110 | Identified: Bibb County,Georgia,622.8,20.0
+Time: 13120 | Identified: Bibb County,Georgia,622.8,21.0
+Time: 13130 | Identified: Bibb County,Georgia,622.8,22.0
+Time: 13140 | Identified: Bibb County,Georgia,622.8,23.0
+Time: 13150 | Identified: Bibb County,Georgia,622.8,24.0
+Time: 13160 | Identified: Bibb County,Georgia,622.8,25.0
+Time: 13170 | Identified: Bibb County,Georgia,622.8,26.0
+Time: 13180 | Identified: Bibb County,Georgia,622.8,27.0
+Time: 13190 | Identified: Bibb County,Georgia,622.8,28.0
+Time: 13200 | Identified: Bibb County,Georgia,622.8,29.0
+Time: 13210 | Identified: Bibb County,Georgia,622.8,30.0
+Time: 13220 | Identified: Bibb County,Georgia,622.8,31.0
+Time: 13230 | Identified: Bibb County,Georgia,622.8,32.0
+Time: 13240 | Identified: Bibb County,Georgia,622.8,33.0
+Time: 13250 | Identified: Fulton County,Georgia,1748.0,25.0
+Time: 13260 | Identified: Fulton County,Georgia,1748.0,26.0
+Time: 13270 | Identified: Fulton County,Georgia,1748.0,27.0
+Time: 13280 | Identified: Fulton County,Georgia,1748.0,28.0
+Time: 13290 | Identified: Fulton County,Georgia,1748.0,29.0
+Time: 13300 | Identified: Fulton County,Georgia,1748.0,30.0
+Time: 13310 | Identified: Fulton County,Georgia,1748.0,31.0
+Time: 13320 | Identified: Fulton County,Georgia,1748.0,32.0
+Time: 13330 | Identified: Fulton County,Georgia,1748.0,33.0
+Time: 13340 | Identified: Fulton County,Georgia,1748.0,34.0
+Time: 13350 | Identified: Fulton County,Georgia,1748.0,35.0
+Time: 13360 | Identified: Fulton County,Georgia,1748.0,36.0
+Time: 13370 | Identified: Fulton County,Georgia,1748.0,37.0
+Time: 13380 | Identified: Fulton County,Georgia,1748.0,38.0
+Time: 13390 | Identified: Fulton County,Georgia,1748.0,39.0
+Time: 13400 | Identified: Fulton County,Georgia,1748.0,40.0
+Time: 13410 | Identified: Fulton County,Georgia,1748.0,41.0
+Time: 13420 | Identified: Fulton County,Georgia,1748.0,42.0
+Time: 13430 | Identified: Fulton County,Georgia,1748.0,43.0
+Time: 13440 | Identified: Fulton County,Georgia,1748.0,44.0
+Time: 13450 | Identified: Fulton County,Georgia,1748.0,45.0
+Time: 13460 | Identified: Fulton County,Georgia,1748.0,46.0
+Time: 13470 | Identified: Fulton County,Georgia,1748.0,47.0
+Time: 13480 | Identified: Fulton County,Georgia,1748.0,48.0
+Time: 13490 | Identified: Fulton County,Georgia,1748.0,49.0
+Time: 13500 | Identified: Fulton County,Georgia,1748.0,50.0
+Time: 13510 | Identified: Fulton County,Georgia,1748.0,51.0
+Time: 13520 | Identified: Fulton County,Georgia,1748.0,52.0
+Time: 13530 | Identified: Fulton County,Georgia,1748.0,53.0
+Time: 13540 | Identified: Fulton County,Georgia,1748.0,54.0
+Time: 13550 | Identified: Fulton County,Georgia,1748.0,55.0
+Time: 13560 | Identified: Fulton County,Georgia,1748.0,56.0
+Time: 13570 | Identified: Fulton County,Georgia,1748.0,57.0
+Time: 13580 | Identified: Fulton County,Georgia,1748.0,58.0
+Time: 13590 | Identified: Fulton County,Georgia,1748.0,59.0
+Time: 13600 | Identified: Fulton County,Georgia,1748.0,60.0
+Time: 13610 | Identified: Fulton County,Georgia,1748.0,61.0
+Time: 13620 | Identified: 34.1124,-84.302,1748.0,62.0
+Time: 13630 | Identified: Fulton County,Georgia,1748.0,63.0
+Time: 13640 | Identified: Fulton County,Georgia,1748.0,64.0
+Time: 13650 | Identified: Fulton County,Georgia,1748.0,65.0
+Time: 13660 | Identified: Fulton County,Georgia,1748.0,66.0
+Time: 13670 | Identified: Fulton County,Georgia,1748.0,67.0
+Time: 13680 | Identified: Fulton County,Georgia,1748.0,68.0
+Time: 13690 | Identified: Fulton County,Georgia,1748.0,69.0
+Time: 13700 | Identified: Fulton County,Georgia,1748.0,70.0
+Time: 13710 | Identified: Fulton County,Georgia,1748.0,71.0
+Time: 13720 | Identified: Fulton County,Georgia,1748.0,72.0
+Time: 13730 | Identified: Fulton County,Georgia,1748.0,73.0
+Time: 13740 | Identified: Fulton County,Georgia,1748.0,74.0
+Time: 13750 | Identified: Fulton County,Georgia,1748.0,75.0
+Time: 13760 | Identified: Fulton County,Georgia,1748.0,76.0
+Time: 13770 | Identified: Fulton County,Georgia,1748.0,77.0
+Time: 13780 | Identified: Fulton County,Georgia,1748.0,78.0
+Time: 13790 | Identified: Fulton County,Georgia,1748.0,79.0
+Time: 13800 | Identified: Fulton County,Georgia,1748.0,80.0
+Time: 13810 | Identified: Fulton County,Georgia,1748.0,81.0
+Time: 13820 | Identified: Dawson County,Georgia,105.9,3.0
+Time: 13830 | Identified: Dawson County,Georgia,105.9,4.0
+Time: 13840 | Identified: Dawson County,Georgia,105.9,5.0
+Time: 13850 | Identified: Dawson County,Georgia,105.9,6.0
+Time: 13860 | Identified: Dawson County,Georgia,105.9,7.0
+Time: 13870 | Identified: Dawson County,Georgia,105.9,8.0
+Time: 13880 | Identified: Dawson County,Georgia,105.9,9.0
+Time: 13890 | Identified: Dawson County,Georgia,105.9,10.0
+Time: 13900 | Identified: Dawson County,Georgia,105.9,11.0
+Time: 13910 | Identified: Dawson County,Georgia,105.9,12.0
+Time: 13920 | Identified: Dawson County,Georgia,105.9,13.0
+Time: 13930 | Identified: Dawson County,Georgia,105.9,14.0
+Time: 13940 | Identified: Dawson County,Georgia,105.9,15.0
+Time: 13950 | Identified: Dawson County,Georgia,105.9,16.0
+Time: 13960 | Identified: Dawson County,Georgia,105.9,17.0
+Time: 13970 | Identified: Dawson County,Georgia,105.9,18.0
+Time: 13980 | Identified: Dawson County,Georgia,105.9,19.0
+Time: 13990 | Identified: Dawson County,Georgia,105.9,20.0
+Time: 14000 | Identified: Dawson County,Georgia,105.9,21.0
+Time: 14010 | Identified: Dawson County,Georgia,105.9,22.0
+Time: 14020 | Identified: Dawson County,Georgia,105.9,23.0
+Time: 14030 | Identified: Dawson County,Georgia,105.9,24.0
+Time: 14040 | Identified: Dawson County,Georgia,105.9,25.0
+Time: 14050 | Identified: Dawson County,Georgia,105.9,26.0
+Time: 14060 | Identified: Dawson County,Georgia,105.9,27.0
+Time: 14070 | Identified: Dawson County,Georgia,105.9,28.0
+Time: 14080 | Identified: Dawson County,Georgia,105.9,29.0
+Time: 14090 | Identified: Dawson County,Georgia,105.9,30.0
+Time: 14100 | Identified: Dawson County,Georgia,105.9,31.0
+Time: 14110 | Identified: Dawson County,Georgia,105.9,32.0
+Time: 14120 | Identified: Dawson County,Georgia,105.9,33.0
+Time: 14130 | Identified: Dawson County,Georgia,105.9,34.0
+Time: 14140 | Identified: Dawson County,Georgia,105.9,35.0
+Time: 14150 | Identified: Dawson County,Georgia,105.9,36.0
+Time: 14160 | Identified: Dawson County,Georgia,105.9,37.0
+Time: 14170 | Identified: Dawson County,Georgia,105.9,38.0
+Time: 14180 | Identified: Dawson County,Georgia,105.9,39.0
+Time: 14190 | Identified: Dawson County,Georgia,105.9,40.0
+Time: 14200 | Identified: Dawson County,Georgia,105.9,41.0
+Time: 14210 | Identified: Dawson County,Georgia,105.9,42.0
+Time: 14220 | Identified: Dawson County,Georgia,105.9,43.0
+Time: 14230 | Identified: Dawson County,Georgia,105.9,44.0
+Time: 14240 | Identified: Dawson County,Georgia,105.9,45.0
+Time: 14250 | Identified: Dawson County,Georgia,105.9,46.0
+Time: 14260 | Identified: Dawson County,Georgia,105.9,47.0
+Time: 14270 | Identified: Dawson County,Georgia,105.9,48.0
+Time: 14280 | Identified: Dawson County,Georgia,105.9,49.0
+Time: 14290 | Identified: Dawson County,Georgia,105.9,50.0
+Time: 14300 | Identified: Dawson County,Georgia,105.9,51.0
+Time: 14310 | Identified: Dawson County,Georgia,105.9,52.0
+Time: 14320 | Identified: Dawson County,Georgia,105.9,53.0
+Time: 14330 | Identified: Dawson County,Georgia,105.9,54.0
+Time: 14340 | Identified: Dawson County,Georgia,105.9,55.0
+Time: 14350 | Identified: Dawson County,Georgia,105.9,56.0
+Time: 14360 | Identified: Dawson County,Georgia,105.9,57.0
+Time: 14370 | Identified: Dawson County,Georgia,105.9,58.0
+Time: 14380 | Identified: Dawson County,Georgia,105.9,59.0
+Time: 14390 | Identified: Dawson County,Georgia,105.9,60.0
+Time: 14400 | Identified: Dawson County,Georgia,105.9,61.0
+Time: 14410 | Identified: Dawson County,Georgia,105.9,62.0
+Time: 14420 | Identified: Dawson County,Georgia,105.9,63.0
+Time: 14430 | Identified: Dawson County,Georgia,105.9,64.0
+Time: 14440 | Identified: Dawson County,Georgia,105.9,65.0
+Time: 14450 | Identified: Dawson County,Georgia,105.9,66.0
+Time: 14460 | Identified: Dawson County,Georgia,105.9,67.0
+Time: 14470 | Identified: Dawson County,Georgia,105.9,68.0
+Time: 14480 | Identified: Dawson County,Georgia,105.9,69.0
+Time: 14490 | Identified: Dawson County,Georgia,105.9,70.0
+Time: 14500 | Identified: Rabun County,Georgia,44.0,4.0
+Time: 14510 | Identified: Rabun County,Georgia,44.0,5.0
+Time: 14520 | Identified: Rabun County,Georgia,44.0,6.0
+Time: 14530 | Identified: Rabun County,Georgia,44.0,7.0
+Time: 14540 | Identified: Rabun County,Georgia,44.0,8.0
+Time: 14550 | Identified: Rabun County,Georgia,44.0,9.0
+Time: 14560 | Identified: Rabun County,Georgia,44.0,10.0
+Time: 14570 | Identified: Rabun County,Georgia,44.0,11.0
+Time: 14580 | Identified: Rabun County,Georgia,44.0,12.0
+Time: 14590 | Identified: Rabun County,Georgia,44.0,13.0
+Time: 14600 | Identified: Rabun County,Georgia,44.0,14.0
+Time: 14610 | Identified: Rabun County,Georgia,44.0,15.0
+Time: 14620 | Identified: Rabun County,Georgia,44.0,16.0
+Time: 14630 | Identified: Rabun County,Georgia,44.0,17.0
+Time: 14640 | Identified: Rabun County,Georgia,44.0,18.0
+Time: 14650 | Identified: Rabun County,Georgia,44.0,19.0
+Time: 14660 | Identified: Rabun County,Georgia,44.0,20.0
+Time: 14670 | Identified: Rabun County,Georgia,44.0,21.0
+Time: 14680 | Identified: Rabun County,Georgia,44.0,22.0
+Time: 14690 | Identified: Rabun County,Georgia,44.0,23.0
+Time: 14700 | Identified: Rabun County,Georgia,44.0,24.0
+Time: 14710 | Identified: Rabun County,Georgia,44.0,25.0
+Time: 14720 | Identified: Rabun County,Georgia,44.0,26.0
+Time: 14730 | Identified: Fannin County,Georgia,61.2,2.0
+Time: 14740 | Identified: Fannin County,Georgia,61.2,3.0
+Time: 14750 | Identified: Fannin County,Georgia,61.2,4.0
+Time: 14760 | Identified: Fannin County,Georgia,61.2,5.0
+Time: 14770 | Identified: Fannin County,Georgia,61.2,6.0
+Time: 14780 | Identified: Fannin County,Georgia,61.2,7.0
+Time: 14790 | Identified: Fannin County,Georgia,61.2,8.0
+Time: 14800 | Identified: DeKalb County,Georgia,2585.7,6.0
+Time: 14810 | Identified: DeKalb County,Georgia,2585.7,7.0
+Time: 14820 | Identified: DeKalb County,Georgia,2585.7,8.0
+Time: 14830 | Identified: DeKalb County,Georgia,2585.7,9.0
+Time: 14840 | Identified: DeKalb County,Georgia,2585.7,10.0
+Time: 14850 | Identified: DeKalb County,Georgia,2585.7,11.0
+Time: 14860 | Identified: DeKalb County,Georgia,2585.7,12.0
+Time: 14870 | Identified: DeKalb County,Georgia,2585.7,13.0
+Time: 14880 | Identified: DeKalb County,Georgia,2585.7,14.0
+Time: 14890 | Identified: DeKalb County,Georgia,2585.7,15.0
+Time: 14900 | Identified: DeKalb County,Georgia,2585.7,16.0
+Time: 14910 | Identified: DeKalb County,Georgia,2585.7,17.0
+Time: 14920 | Identified: DeKalb County,Georgia,2585.7,18.0
+Time: 14930 | Identified: DeKalb County,Georgia,2585.7,19.0
+Time: 14940 | Identified: DeKalb County,Georgia,2585.7,20.0
+Time: 14950 | Identified: DeKalb County,Georgia,2585.7,21.0
+Time: 14960 | Identified: DeKalb County,Georgia,2585.7,22.0
+Time: 14970 | Identified: DeKalb County,Georgia,2585.7,23.0
+Time: 14980 | Identified: DeKalb County,Georgia,2585.7,24.0
+Time: 14990 | Identified: DeKalb County,Georgia,2585.7,25.0
+Time: 15000 | Identified: DeKalb County,Georgia,2585.7,26.0
+Time: 15010 | Identified: DeKalb County,Georgia,2585.7,27.0
+Time: 15020 | Identified: DeKalb County,Georgia,2585.7,28.0
+Time: 15030 | Identified: DeKalb County,Georgia,2585.7,29.0
+Time: 15040 | Identified: DeKalb County,Georgia,2585.7,30.0
+Time: 15050 | Identified: DeKalb County,Georgia,2585.7,31.0
+Time: 15060 | Identified: DeKalb County,Georgia,2585.7,32.0
+Time: 15070 | Identified: DeKalb County,Georgia,2585.7,33.0
+Time: 15080 | Identified: DeKalb County,Georgia,2585.7,34.0
+Time: 15090 | Identified: DeKalb County,Georgia,2585.7,35.0
+Time: 15100 | Identified: DeKalb County,Georgia,2585.7,36.0
+Time: 15110 | Identified: DeKalb County,Georgia,2585.7,37.0
+Time: 15120 | Identified: DeKalb County,Georgia,2585.7,38.0
+Time: 15130 | Identified: DeKalb County,Georgia,2585.7,39.0
+Time: 15140 | Identified: DeKalb County,Georgia,2585.7,40.0
+Time: 15150 | Identified: DeKalb County,Georgia,2585.7,41.0
+Time: 15160 | Identified: DeKalb County,Georgia,2585.7,42.0
+Time: 15170 | Identified: DeKalb County,Georgia,2585.7,43.0
+Time: 15180 | Identified: DeKalb County,Georgia,2585.7,44.0
+Time: 15190 | Identified: DeKalb County,Georgia,2585.7,45.0
+Time: 15200 | Identified: DeKalb County,Georgia,2585.7,46.0
+Time: 15210 | Identified: DeKalb County,Georgia,2585.7,47.0
+Time: 15220 | Identified: DeKalb County,Georgia,2585.7,48.0
+Time: 15230 | Identified: DeKalb County,Georgia,2585.7,49.0
+Time: 15240 | Identified: DeKalb County,Georgia,2585.7,50.0
+Time: 15250 | Identified: DeKalb County,Georgia,2585.7,51.0
+Time: 15260 | Identified: DeKalb County,Georgia,2585.7,52.0
+Time: 15270 | Identified: DeKalb County,Georgia,2585.7,53.0
+Time: 15280 | Identified: DeKalb County,Georgia,2585.7,54.0
+Time: 15290 | Identified: DeKalb County,Georgia,2585.7,55.0
+Time: 15300 | Identified: DeKalb County,Georgia,2585.7,56.0
+Time: 15310 | Identified: DeKalb County,Georgia,2585.7,57.0
+Time: 15320 | Identified: DeKalb County,Georgia,2585.7,58.0
+Time: 15330 | Identified: DeKalb County,Georgia,2585.7,59.0
+Time: 15340 | Identified: DeKalb County,Georgia,2585.7,60.0
+Time: 15350 | Identified: DeKalb County,Georgia,2585.7,61.0
+Time: 15360 | Identified: DeKalb County,Georgia,2585.7,62.0
+Time: 15370 | Identified: DeKalb County,Georgia,2585.7,63.0
+Time: 15380 | Identified: DeKalb County,Georgia,2585.7,64.0
+Time: 15390 | Identified: DeKalb County,Georgia,2585.7,65.0
+Time: 15400 | Identified: DeKalb County,Georgia,2585.7,66.0
+Time: 15410 | Identified: DeKalb County,Georgia,2585.7,67.0
+Time: 15420 | Identified: DeKalb County,Georgia,2585.7,68.0
+Time: 15430 | Identified: DeKalb County,Georgia,2585.7,69.0
+Time: 15440 | Identified: DeKalb County,Georgia,2585.7,70.0
+Time: 15450 | Identified: DeKalb County,Georgia,2585.7,71.0
+Time: 15460 | Identified: DeKalb County,Georgia,2585.7,72.0
+Time: 15470 | Identified: DeKalb County,Georgia,2585.7,73.0
+Time: 15480 | Identified: DeKalb County,Georgia,2585.7,74.0
+Time: 15490 | Identified: DeKalb County,Georgia,2585.7,75.0
+Time: 15500 | Identified: DeKalb County,Georgia,2585.7,76.0
+Time: 15510 | Identified: DeKalb County,Georgia,2585.7,77.0
+Time: 15520 | Identified: DeKalb County,Georgia,2585.7,78.0
+Time: 15530 | Identified: DeKalb County,Georgia,2585.7,79.0
+Time: 15540 | Identified: DeKalb County,Georgia,2585.7,80.0
+Time: 15550 | Identified: DeKalb County,Georgia,2585.7,81.0
+Time: 15560 | Identified: DeKalb County,Georgia,2585.7,82.0
+Time: 15570 | Identified: Fannin County,Georgia,61.2,9.0
+Time: 15580 | Identified: Fannin County,Georgia,61.2,10.0
+Time: 15590 | Identified: Fannin County,Georgia,61.2,11.0
+Time: 15600 | Identified: Fannin County,Georgia,61.2,12.0
+Time: 15610 | Identified: Fannin County,Georgia,61.2,13.0
+Time: 15620 | Identified: Fannin County,Georgia,61.2,14.0
+Time: 15630 | Identified: Fannin County,Georgia,61.2,15.0
+Time: 15640 | Identified: Fannin County,Georgia,61.2,16.0
+Time: 15650 | Identified: Fannin County,Georgia,61.2,17.0
+Time: 15660 | Identified: Fannin County,Georgia,61.2,18.0
+Time: 15670 | Identified: Fannin County,Georgia,61.2,19.0
+Time: 15680 | Identified: Fannin County,Georgia,61.2,20.0
+Time: 15690 | Identified: Fannin County,Georgia,61.2,21.0
+Time: 15700 | Identified: Fannin County,Georgia,61.2,22.0
+Time: 15710 | Identified: Fannin County,Georgia,61.2,23.0
+Time: 15720 | Identified: Fannin County,Georgia,61.2,24.0
+Time: 15730 | Identified: Fannin County,Georgia,61.2,25.0
+Time: 15740 | Identified: Fannin County,Georgia,61.2,26.0
+Time: 15750 | Identified: Fannin County,Georgia,61.2,27.0
+Time: 15760 | Identified: Fannin County,Georgia,61.2,28.0
+Time: 15770 | Identified: Fannin County,Georgia,61.2,29.0
+Time: 15780 | Identified: Fannin County,Georgia,61.2,30.0
+Time: 15790 | Identified: Fannin County,Georgia,61.2,31.0
+Time: 15800 | Identified: Fannin County,Georgia,61.2,32.0
+Time: 15810 | Identified: Fannin County,Georgia,61.2,33.0
+Time: 15820 | Identified: Fannin County,Georgia,61.2,34.0
+Time: 15830 | Identified: Fannin County,Georgia,61.2,35.0
+Time: 15840 | Identified: Fannin County,Georgia,61.2,36.0
+Time: 15850 | Identified: Fannin County,Georgia,61.2,37.0
+Time: 15860 | Identified: Fannin County,Georgia,61.2,38.0
+Time: 15870 | Identified: Fannin County,Georgia,61.2,39.0
+Time: 15880 | Identified: Fannin County,Georgia,61.2,40.0
+Time: 15890 | Identified: Fannin County,Georgia,61.2,41.0
+Time: 15900 | Identified: Fannin County,Georgia,61.2,42.0
+Time: 15910 | Identified: Fannin County,Georgia,61.2,43.0
+Time: 15920 | Identified: Fannin County,Georgia,61.2,44.0
+Time: 15930 | Identified: Fannin County,Georgia,61.2,45.0
+Time: 15940 | Identified: Jackson County,Georgia,178.1,2.0
+Time: 15950 | Identified: Jackson County,Georgia,178.1,3.0
+Time: 15960 | Identified: Jackson County,Georgia,178.1,4.0
+Time: 15970 | Identified: Jackson County,Georgia,178.1,5.0
+Time: 15980 | Identified: Jackson County,Georgia,178.1,6.0
+Time: 15990 | Identified: Jackson County,Georgia,178.1,7.0
+Time: 16000 | Identified: Jackson County,Georgia,178.1,8.0
+Time: 16010 | Identified: Jackson County,Georgia,178.1,9.0
+Time: 16020 | Identified: Jackson County,Georgia,178.1,10.0
+Time: 16030 | Identified: Jackson County,Georgia,178.1,11.0
+Time: 16040 | Identified: Jackson County,Georgia,178.1,12.0
+Time: 16050 | Identified: Jackson County,Georgia,178.1,13.0
+Time: 16060 | Identified: Jackson County,Georgia,178.1,14.0
+Time: 16070 | Identified: Jackson County,Georgia,178.1,15.0
+Time: 16080 | Identified: Jackson County,Georgia,178.1,16.0
+Time: 16090 | Identified: Jackson County,Georgia,178.1,17.0
+Time: 16100 | Identified: Jackson County,Georgia,178.1,18.0
+Time: 16110 | Identified: Jackson County,Georgia,178.1,19.0
+Time: 16120 | Identified: Jackson County,Georgia,178.1,20.0
+Time: 16130 | Identified: Jackson County,Georgia,178.1,21.0
+Time: 16140 | Identified: Jackson County,Georgia,178.1,22.0
+Time: 16150 | Identified: Jackson County,Georgia,178.1,23.0
+Time: 16160 | Identified: Jackson County,Georgia,178.1,24.0
+Time: 16170 | Identified: Jackson County,Georgia,178.1,25.0
+Time: 16180 | Identified: Jackson County,Georgia,178.1,26.0
+Time: 16190 | Identified: Jackson County,Georgia,178.1,27.0
+Time: 16200 | Identified: Jackson County,Georgia,178.1,28.0
+Time: 16210 | Identified: Jackson County,Georgia,178.1,29.0
+Time: 16220 | Identified: Jackson County,Georgia,178.1,30.0
+Time: 16230 | Identified: Jackson County,Georgia,178.1,31.0
+Time: 16240 | Identified: Jackson County,Georgia,178.1,32.0
+Time: 16250 | Identified: Jackson County,Georgia,178.1,33.0
+Time: 16260 | Identified: Jackson County,Georgia,178.1,34.0
+Time: 16270 | Identified: Jackson County,Georgia,178.1,35.0
+Time: 16280 | Identified: Jackson County,Georgia,178.1,36.0
+Time: 16290 | Identified: Jackson County,Georgia,178.1,37.0
+Time: 16300 | Identified: Jackson County,Georgia,178.1,38.0
+Time: 16310 | Identified: Jackson County,Georgia,178.1,39.0
+Time: 16320 | Identified: Jackson County,Georgia,178.1,40.0
+Time: 16330 | Identified: Jackson County,Georgia,178.1,41.0
+Time: 16340 | Identified: Gwinnett County,Georgia,1871.2,3.0
+Time: 16350 | Identified: Gwinnett County,Georgia,1871.2,4.0
+Time: 16360 | Identified: Gwinnett County,Georgia,1871.2,5.0
+Time: 16370 | Identified: Gwinnett County,Georgia,1871.2,6.0
+Time: 16380 | Identified: Gwinnett County,Georgia,1871.2,7.0
+Time: 16390 | Identified: Gwinnett County,Georgia,1871.2,8.0
+Time: 16400 | Identified: Gwinnett County,Georgia,1871.2,9.0
+Time: 16410 | Identified: Gwinnett County,Georgia,1871.2,10.0
+Time: 16420 | Identified: Gwinnett County,Georgia,1871.2,11.0
+Time: 16430 | Identified: Gwinnett County,Georgia,1871.2,12.0
+Time: 16440 | Identified: Gwinnett County,Georgia,1871.2,13.0
+Time: 16450 | Identified: Gwinnett County,Georgia,1871.2,14.0
+Time: 16460 | Identified: Gwinnett County,Georgia,1871.2,15.0
+Time: 16470 | Identified: Gwinnett County,Georgia,1871.2,16.0
+Time: 16480 | Identified: Gwinnett County,Georgia,1871.2,17.0
+Time: 16490 | Identified: Gwinnett County,Georgia,1871.2,18.0
+Time: 16500 | Identified: Gwinnett County,Georgia,1871.2,19.0
+Time: 16510 | Identified: Gwinnett County,Georgia,1871.2,20.0
+Time: 16520 | Identified: Gwinnett County,Georgia,1871.2,21.0
+Time: 16530 | Identified: Gwinnett County,Georgia,1871.2,22.0
+Time: 16540 | Identified: Gwinnett County,Georgia,1871.2,23.0
+Time: 16550 | Identified: Gwinnett County,Georgia,1871.2,24.0
+Time: 16560 | Identified: Gwinnett County,Georgia,1871.2,25.0
+Time: 16570 | Identified: Gwinnett County,Georgia,1871.2,26.0
+Time: 16580 | Identified: Gwinnett County,Georgia,1871.2,27.0
+Time: 16590 | Identified: Gwinnett County,Georgia,1871.2,28.0
+Time: 16600 | Identified: Gwinnett County,Georgia,1871.2,29.0
+Time: 16610 | Identified: Gwinnett County,Georgia,1871.2,30.0
+Time: 16620 | Identified: Gwinnett County,Georgia,1871.2,31.0
+Time: 16630 | Identified: Gwinnett County,Georgia,1871.2,32.0
+Time: 16640 | Identified: Gwinnett County,Georgia,1871.2,33.0
+Time: 16650 | Identified: Gwinnett County,Georgia,1871.2,34.0
+Time: 16660 | Identified: Gwinnett County,Georgia,1871.2,35.0
+Time: 16670 | Identified: Gwinnett County,Georgia,1871.2,36.0
+Time: 16680 | Identified: Gwinnett County,Georgia,1871.2,37.0
+Time: 16690 | Identified: Gwinnett County,Georgia,1871.2,38.0
+Time: 16700 | Identified: Gwinnett County,Georgia,1871.2,39.0
+Time: 16710 | Identified: Gwinnett County,Georgia,1871.2,40.0
+Time: 16720 | Identified: Gwinnett County,Georgia,1871.2,41.0
+Time: 16730 | Identified: Gwinnett County,Georgia,1871.2,42.0
+Time: 16740 | Identified: Gwinnett County,Georgia,1871.2,43.0
+Time: 16750 | Identified: Gwinnett County,Georgia,1871.2,44.0
+Time: 16760 | Identified: Gwinnett County,Georgia,1871.2,45.0
+Time: 16770 | Identified: Gwinnett County,Georgia,1871.2,46.0
+Time: 16780 | Identified: Gwinnett County,Georgia,1871.2,47.0
+Time: 16790 | Identified: Gwinnett County,Georgia,1871.2,48.0
+Time: 16800 | Identified: Gwinnett County,Georgia,1871.2,49.0
+Time: 16810 | Identified: Gwinnett County,Georgia,1871.2,50.0
+Time: 16820 | Identified: Gwinnett County,Georgia,1871.2,51.0
+Time: 16830 | Identified: Gwinnett County,Georgia,1871.2,52.0
+Time: 16840 | Identified: Gwinnett County,Georgia,1871.2,53.0
+Time: 16850 | Identified: Gwinnett County,Georgia,1871.2,54.0
+Time: 16860 | Identified: Gwinnett County,Georgia,1871.2,55.0
+Time: 16870 | Identified: Gwinnett County,Georgia,1871.2,56.0
+Time: 16880 | Identified: Gwinnett County,Georgia,1871.2,57.0
+Time: 16890 | Identified: Gwinnett County,Georgia,1871.2,58.0
+Time: 16900 | Identified: Gwinnett County,Georgia,1871.2,59.0
+Time: 16910 | Identified: Gwinnett County,Georgia,1871.2,60.0
+Time: 16920 | Identified: Gwinnett County,Georgia,1871.2,61.0
+Time: 16930 | Identified: Gwinnett County,Georgia,1871.2,62.0
+Time: 16940 | Identified: Gwinnett County,Georgia,1871.2,63.0
+Time: 16950 | Identified: Gwinnett County,Georgia,1871.2,64.0
+Time: 16960 | Identified: Troup County,Georgia,161.9,2.0
+Time: 16970 | Identified: Troup County,Georgia,161.9,3.0
+Time: 16980 | Identified: Troup County,Georgia,161.9,4.0
+Time: 16990 | Identified: Troup County,Georgia,161.9,5.0
+Time: 17000 | Identified: Troup County,Georgia,161.9,6.0
+Time: 17010 | Identified: Troup County,Georgia,161.9,7.0
+Time: 17020 | Identified: Troup County,Georgia,161.9,8.0
+Time: 17030 | Identified: Troup County,Georgia,161.9,9.0
+Time: 17040 | Identified: Troup County,Georgia,161.9,10.0
+Time: 17050 | Identified: Troup County,Georgia,161.9,11.0
+Time: 17060 | Identified: Troup County,Georgia,161.9,12.0
+Time: 17070 | Identified: Troup County,Georgia,161.9,13.0
+Time: 17080 | Identified: Troup County,Georgia,161.9,14.0
+Time: 17090 | Identified: Troup County,Georgia,161.9,15.0
+Time: 17100 | Identified: Troup County,Georgia,161.9,16.0
+Time: 17110 | Identified: Fayette County,Georgia,548.3,3.0
+Time: 17120 | Identified: Fayette County,Georgia,548.3,4.0
+Time: 17130 | Identified: Fayette County,Georgia,548.3,5.0
+Time: 17140 | Identified: Fayette County,Georgia,548.3,6.0
+Time: 17150 | Identified: Fayette County,Georgia,548.3,7.0
+Time: 17160 | Identified: Fayette County,Georgia,548.3,8.0
+Time: 17170 | Identified: Fayette County,Georgia,548.3,9.0
+Time: 17180 | Identified: Fayette County,Georgia,548.3,10.0
+Time: 17190 | Identified: Fayette County,Georgia,548.3,11.0
+Time: 17200 | Identified: Fayette County,Georgia,548.3,12.0
+Time: 17210 | Identified: Fayette County,Georgia,548.3,13.0
+Time: 17220 | Identified: Fayette County,Georgia,548.3,14.0
+Time: 17230 | Identified: Fayette County,Georgia,548.3,15.0
+Time: 17240 | Identified: Fayette County,Georgia,548.3,16.0
+Time: 17250 | Identified: Fayette County,Georgia,548.3,17.0
+Time: 17260 | Identified: Habersham County,Georgia,155.5,2.0
+Time: 17270 | Identified: Habersham County,Georgia,155.5,3.0
+Time: 17280 | Identified: Habersham County,Georgia,155.5,4.0
+Time: 17290 | Identified: Habersham County,Georgia,155.5,5.0
+Time: 17300 | Identified: Habersham County,Georgia,155.5,6.0
+Time: 17310 | Identified: Habersham County,Georgia,155.5,7.0
+Time: 17320 | Identified: Habersham County,Georgia,155.5,8.0
+Time: 17330 | Identified: Habersham County,Georgia,155.5,9.0
+Time: 17340 | Identified: Habersham County,Georgia,155.5,10.0
+Time: 17350 | Identified: Athens - Clarke County,Georgia,979.1,4.0
+Time: 17360 | Identified: Athens - Clarke County,Georgia,979.1,5.0
+Time: 17370 | Identified: Athens - Clarke County,Georgia,979.1,6.0
+Time: 17380 | Identified: Athens - Clarke County,Georgia,979.1,7.0
+Time: 17390 | Identified: Cobb County,Georgia,2026.4,6.0
+Time: 17400 | Identified: Cobb County,Georgia,2026.4,7.0
+Time: 17410 | Identified: Cobb County,Georgia,2026.4,8.0
+Time: 17420 | Identified: Cobb County,Georgia,2026.4,9.0
+Time: 17430 | Identified: Cobb County,Georgia,2026.4,10.0
+Time: 17440 | Identified: Cobb County,Georgia,2026.4,11.0
+Time: 17450 | Identified: Cobb County,Georgia,2026.4,12.0
+Time: 17460 | Identified: Cobb County,Georgia,2026.4,13.0
+Time: 17470 | Identified: Cobb County,Georgia,2026.4,14.0
+Time: 17480 | Identified: Cobb County,Georgia,2026.4,15.0
+Time: 17490 | Identified: Cobb County,Georgia,2026.4,16.0
+Time: 17500 | Identified: Cobb County,Georgia,2026.4,17.0
+Time: 17510 | Identified: Cobb County,Georgia,2026.4,18.0
+Time: 17520 | Identified: Cobb County,Georgia,2026.4,19.0
+Time: 17530 | Identified: Cobb County,Georgia,2026.4,20.0
+Time: 17540 | Identified: Cobb County,Georgia,2026.4,21.0
+Time: 17550 | Identified: Cobb County,Georgia,2026.4,22.0
+Time: 17560 | Identified: Cobb County,Georgia,2026.4,23.0
+Time: 17570 | Identified: Cobb County,Georgia,2026.4,24.0
+Time: 17580 | Identified: Cobb County,Georgia,2026.4,25.0
+Time: 17590 | Identified: Cobb County,Georgia,2026.4,26.0
+Time: 17600 | Identified: Cobb County,Georgia,2026.4,27.0
+Time: 17610 | Identified: Cobb County,Georgia,2026.4,28.0
+Time: 17620 | Identified: Cobb County,Georgia,2026.4,29.0
+Time: 17630 | Identified: Cobb County,Georgia,2026.4,30.0
+Time: 17640 | Identified: Cobb County,Georgia,2026.4,31.0
+Time: 17650 | Identified: Cobb County,Georgia,2026.4,32.0
+Time: 17660 | Identified: Cobb County,Georgia,2026.4,33.0
+Time: 17670 | Identified: Cobb County,Georgia,2026.4,34.0
+Time: 17680 | Identified: Cobb County,Georgia,2026.4,35.0
+Time: 17690 | Identified: Cobb County,Georgia,2026.4,36.0
+Time: 17700 | Identified: Cobb County,Georgia,2026.4,37.0
+Time: 17710 | Identified: Cobb County,Georgia,2026.4,38.0
+Time: 17720 | Identified: Cobb County,Georgia,2026.4,39.0
+Time: 17730 | Identified: Cobb County,Georgia,2026.4,40.0
+Time: 17740 | Identified: Cobb County,Georgia,2026.4,41.0
+Time: 17750 | Identified: Cobb County,Georgia,2026.4,42.0
+Time: 17760 | Identified: Cobb County,Georgia,2026.4,43.0
+Time: 17770 | Identified: Cobb County,Georgia,2026.4,44.0
+Time: 17780 | Identified: Cobb County,Georgia,2026.4,45.0
+Time: 17790 | Identified: Cobb County,Georgia,2026.4,46.0
+Time: 17800 | Identified: Cobb County,Georgia,2026.4,47.0
+Time: 17810 | Identified: Cobb County,Georgia,2026.4,48.0
+Time: 17820 | Identified: Douglas County,Georgia,661.8,2.0
+Time: 17830 | Identified: Douglas County,Georgia,661.8,3.0
+Time: 17840 | Identified: Douglas County,Georgia,661.8,4.0
+Time: 17850 | Identified: Douglas County,Georgia,661.8,5.0
+Time: 17860 | Identified: Douglas County,Georgia,661.8,6.0
+Time: 17870 | Identified: Douglas County,Georgia,661.8,7.0
+Time: 17880 | Identified: Douglas County,Georgia,661.8,8.0
+Time: 17890 | Identified: Douglas County,Georgia,661.8,9.0
+Time: 17900 | Identified: Douglas County,Georgia,661.8,10.0
+Time: 17910 | Identified: Douglas County,Georgia,661.8,11.0
+Time: 17920 | Identified: Douglas County,Georgia,661.8,12.0
+Time: 17930 | Identified: Douglas County,Georgia,661.8,13.0
+Time: 17940 | Identified: Douglas County,Georgia,661.8,14.0
+Time: 17950 | Identified: Douglas County,Georgia,661.8,15.0
+Time: 17960 | Identified: Douglas County,Georgia,661.8,16.0
+Time: 17970 | Identified: Douglas County,Georgia,661.8,17.0
+Time: 17980 | Identified: Douglas County,Georgia,661.8,18.0
+Time: 17990 | Identified: Douglas County,Georgia,661.8,19.0
+Time: 18000 | Identified: Douglas County,Georgia,661.8,20.0
+Time: 18010 | Identified: Douglas County,Georgia,661.8,21.0
+Time: 18020 | Identified: Douglas County,Georgia,661.8,22.0
+Time: 18030 | Identified: Henry County,Georgia,633.0,2.0
+Time: 18040 | Identified: Henry County,Georgia,633.0,3.0
+Time: 18050 | Identified: Henry County,Georgia,633.0,4.0
+Time: 18060 | Identified: Henry County,Georgia,633.0,5.0
+Time: 18070 | Identified: Henry County,Georgia,633.0,6.0
+Time: 18080 | Identified: Henry County,Georgia,633.0,7.0
+Time: 18090 | Identified: Henry County,Georgia,633.0,8.0
+Time: 18100 | Identified: Henry County,Georgia,633.0,9.0
+Time: 18110 | Identified: Henry County,Georgia,633.0,10.0
+Time: 18120 | Identified: Henry County,Georgia,633.0,11.0
+Time: 18130 | Identified: Henry County,Georgia,633.0,12.0
+Time: 18140 | Identified: Henry County,Georgia,633.0,13.0
+Time: 18150 | Identified: Henry County,Georgia,633.0,14.0
+Time: 18160 | Identified: Henry County,Georgia,633.0,15.0
+Time: 18170 | Identified: Coweta County,Georgia,288.8,2.0
+Time: 18180 | Identified: Coweta County,Georgia,288.8,3.0
+Time: 18190 | Identified: White County,Georgia,112.8,4.0
+Time: 18200 | Identified: White County,Georgia,112.8,5.0
+Time: 18210 | Identified: White County,Georgia,112.8,6.0
+Time: 18220 | Identified: White County,Georgia,112.8,7.0
+Time: 18230 | Identified: White County,Georgia,112.8,8.0
+Time: 18240 | Identified: White County,Georgia,112.8,9.0
+Time: 18250 | Identified: White County,Georgia,112.8,10.0
+Time: 18260 | Identified: White County,Georgia,112.8,11.0
+Time: 18270 | Identified: White County,Georgia,112.8,12.0
+Time: 18280 | Identified: Bartow County,Georgia,217.9,2.0
+Time: 18290 | Identified: Bartow County,Georgia,217.9,3.0
+Time: 18300 | Identified: Bartow County,Georgia,217.9,4.0
+Time: 18310 | Identified: Bartow County,Georgia,217.9,5.0
+Time: 18320 | Identified: Bartow County,Georgia,217.9,6.0
+Time: 18330 | Identified: Bartow County,Georgia,217.9,7.0
+Time: 18340 | Identified: Bartow County,Georgia,217.9,8.0
+Time: 18350 | Identified: Bartow County,Georgia,217.9,9.0
+Time: 18360 | Identified: Bartow County,Georgia,217.9,10.0
+Time: 18370 | Identified: Bartow County,Georgia,217.9,11.0
+Time: 18380 | Identified: Newton County,Georgia,367.3,2.0
+Time: 18390 | Identified: Newton County,Georgia,367.3,3.0
+Time: 18400 | Identified: Newton County,Georgia,367.3,4.0
+Time: 18410 | Identified: Newton County,Georgia,367.3,5.0
+Time: 18420 | Identified: Newton County,Georgia,367.3,6.0
+Time: 18430 | Identified: Newton County,Georgia,367.3,7.0
+Time: 18440 | Identified: Newton County,Georgia,367.3,8.0
+Time: 18450 | Identified: Newton County,Georgia,367.3,9.0
+Time: 18460 | Identified: Newton County,Georgia,367.3,10.0
+Time: 18470 | Identified: Newton County,Georgia,367.3,11.0
+Time: 18480 | Identified: Newton County,Georgia,367.3,12.0
+Time: 18490 | Identified: Newton County,Georgia,367.3,13.0
+Time: 18500 | Identified: Newton County,Georgia,367.3,14.0
+Time: 18510 | Identified: Newton County,Georgia,367.3,15.0
+Time: 18520 | Identified: Newton County,Georgia,367.3,16.0
+Time: 18530 | Identified: Newton County,Georgia,367.3,17.0
+Time: 18540 | Identified: Newton County,Georgia,367.3,18.0
+Time: 18550 | Identified: Newton County,Georgia,367.3,19.0
+Time: 18560 | Identified: Clark County,Indiana,295.6,2.0
+Time: 18570 | Identified: Clark County,Indiana,295.6,3.0
+Time: 18580 | Identified: Clark County,Indiana,295.6,4.0
+Time: 18590 | Identified: Clark County,Indiana,295.6,5.0
+Time: 18600 | Identified: Woodford County,Kentucky,132.1,2.0
+Time: 18610 | Identified: Woodford County,Kentucky,132.1,3.0
+Time: 18620 | Identified: Woodford County,Kentucky,132.1,4.0
+Time: 18630 | Identified: Woodford County,Kentucky,132.1,5.0
+Time: 18640 | Identified: Woodford County,Kentucky,132.1,6.0
+Time: 18650 | Identified: Woodford County,Kentucky,132.1,7.0
+Time: 18660 | Identified: Woodford County,Kentucky,132.1,8.0
+Time: 18670 | Identified: Woodford County,Kentucky,132.1,9.0
+Time: 18680 | Identified: Woodford County,Kentucky,132.1,10.0
+Time: 18690 | Identified: Woodford County,Kentucky,132.1,11.0
+Time: 18700 | Identified: Woodford County,Kentucky,132.1,12.0
+Time: 18710 | Identified: Woodford County,Kentucky,132.1,13.0
+Time: 18720 | Identified: Woodford County,Kentucky,132.1,14.0
+Time: 18730 | Identified: Woodford County,Kentucky,132.1,15.0
+Time: 18740 | Identified: Woodford County,Kentucky,132.1,16.0
+Time: 18750 | Identified: Woodford County,Kentucky,132.1,17.0
+Time: 18760 | Identified: Woodford County,Kentucky,132.1,18.0
+Time: 18770 | Identified: Woodford County,Kentucky,132.1,19.0
+Time: 18780 | Identified: Woodford County,Kentucky,132.1,20.0
+Time: 18790 | Identified: Woodford County,Kentucky,132.1,21.0
+Time: 18800 | Identified: Woodford County,Kentucky,132.1,22.0
+Time: 18810 | Identified: Woodford County,Kentucky,132.1,23.0
+Time: 18820 | Identified: Woodford County,Kentucky,132.1,24.0
+Time: 18830 | Identified: Woodford County,Kentucky,132.1,25.0
+Time: 18840 | Identified: Woodford County,Kentucky,132.1,26.0
+Time: 18850 | Identified: Woodford County,Kentucky,132.1,27.0
+Time: 18860 | Identified: Woodford County,Kentucky,132.1,28.0
+Time: 18870 | Identified: Woodford County,Kentucky,132.1,29.0
+Time: 18880 | Identified: Woodford County,Kentucky,132.1,30.0
+Time: 18890 | Identified: Woodford County,Kentucky,132.1,31.0
+Time: 18900 | Identified: Woodford County,Kentucky,132.1,32.0
+Time: 18910 | Identified: Woodford County,Kentucky,132.1,33.0
+Time: 18920 | Identified: Woodford County,Kentucky,132.1,34.0
+Time: 18930 | Identified: Woodford County,Kentucky,132.1,35.0
+Time: 18940 | Identified: Woodford County,Kentucky,132.1,36.0
+Time: 18950 | Identified: Woodford County,Kentucky,132.1,37.0
+Time: 18960 | Identified: Woodford County,Kentucky,132.1,38.0
+Time: 18970 | Identified: Woodford County,Kentucky,132.1,39.0
+Time: 18980 | Identified: Fayette County,Kentucky,1042.8,3.0
+Time: 18990 | Identified: Fayette County,Kentucky,1042.8,4.0
+Time: 19000 | Identified: Fayette County,Kentucky,1042.8,5.0
+Time: 19010 | Identified: Fayette County,Kentucky,1042.8,6.0
+Time: 19020 | Identified: Fayette County,Kentucky,1042.8,7.0
+Time: 19030 | Identified: Fayette County,Kentucky,1042.8,8.0
+Time: 19040 | Identified: Fayette County,Kentucky,1042.8,9.0
+Time: 19050 | Identified: Fayette County,Kentucky,1042.8,10.0
+Time: 19060 | Identified: Fayette County,Kentucky,1042.8,11.0
+Time: 19070 | Identified: Fayette County,Kentucky,1042.8,12.0
+Time: 19080 | Identified: Fayette County,Kentucky,1042.8,13.0
+Time: 19090 | Identified: Fayette County,Kentucky,1042.8,14.0
+Time: 19100 | Identified: Fayette County,Kentucky,1042.8,15.0
+Time: 19110 | Identified: Fayette County,Kentucky,1042.8,16.0
+Time: 19120 | Identified: Fayette County,Kentucky,1042.8,17.0
+Time: 19130 | Identified: Fayette County,Kentucky,1042.8,18.0
+Time: 19140 | Identified: Fayette County,Kentucky,1042.8,19.0
+Time: 19150 | Identified: Fayette County,Kentucky,1042.8,20.0
+Time: 19160 | Identified: Fayette County,Kentucky,1042.8,21.0
+Time: 19170 | Identified: Fayette County,Kentucky,1042.8,22.0
+Time: 19180 | Identified: Campbell County,Kentucky,597.0,2.0
+Time: 19190 | Identified: Campbell County,Kentucky,597.0,3.0
+Time: 19200 | Identified: Campbell County,Kentucky,597.0,4.0
+Time: 19210 | Identified: Campbell County,Kentucky,597.0,5.0
+Time: 19220 | Identified: Campbell County,Kentucky,597.0,6.0
+Time: 19230 | Identified: Campbell County,Kentucky,597.0,7.0
+Time: 19240 | Identified: Campbell County,Kentucky,597.0,8.0
+Time: 19250 | Identified: Campbell County,Kentucky,597.0,9.0
+Time: 19260 | Identified: Campbell County,Kentucky,597.0,10.0
+Time: 19270 | Identified: Campbell County,Kentucky,597.0,11.0
+Time: 19280 | Identified: Campbell County,Kentucky,597.0,12.0
+Time: 19290 | Identified: Campbell County,Kentucky,597.0,13.0
+Time: 19300 | Identified: Campbell County,Kentucky,597.0,14.0
+Time: 19310 | Identified: Campbell County,Kentucky,597.0,15.0
+Time: 19320 | Identified: Campbell County,Kentucky,597.0,16.0
+Time: 19330 | Identified: Kenton County,Kentucky,996.7,2.0
+Time: 19340 | Identified: Kenton County,Kentucky,996.7,3.0
+Time: 19350 | Identified: Kenton County,Kentucky,996.7,4.0
+Time: 19360 | Identified: Kenton County,Kentucky,996.7,5.0
+Time: 19370 | Identified: Kenton County,Kentucky,996.7,6.0
+Time: 19380 | Identified: Kenton County,Kentucky,996.7,7.0
+Time: 19390 | Identified: Kenton County,Kentucky,996.7,8.0
+Time: 19400 | Identified: Kenton County,Kentucky,996.7,9.0
+Time: 19410 | Identified: Kenton County,Kentucky,996.7,10.0
+Time: 19420 | Identified: Madison County,Kentucky,189.6,3.0
+Time: 19430 | Identified: Madison County,Kentucky,189.6,4.0
+Time: 19440 | Identified: Madison County,Kentucky,189.6,5.0
+Time: 19450 | Identified: Madison County,Kentucky,189.6,6.0
+Time: 19460 | Identified: Madison County,Kentucky,189.6,7.0
+Time: 19470 | Identified: Madison County,Kentucky,189.6,8.0
+Time: 19480 | Identified: Madison County,Kentucky,189.6,9.0
+Time: 19490 | Identified: Madison County,Kentucky,189.6,10.0
+Time: 19500 | Identified: Madison County,Kentucky,189.6,11.0
+Time: 19510 | Identified: Madison County,Kentucky,189.6,12.0
+Time: 19520 | Identified: Madison County,Kentucky,189.6,13.0
+Time: 19530 | Identified: Madison County,Kentucky,189.6,14.0
+Time: 19540 | Identified: Madison County,Kentucky,189.6,15.0
+Time: 19550 | Identified: Madison County,Kentucky,189.6,16.0
+Time: 19560 | Identified: Madison County,Kentucky,189.6,17.0
+Time: 19570 | Identified: Madison County,Kentucky,189.6,18.0
+Time: 19580 | Identified: Madison County,Kentucky,189.6,19.0
+Time: 19590 | Identified: Madison County,Kentucky,189.6,20.0
+Time: 19600 | Identified: Madison County,Kentucky,189.6,21.0
+Time: 19610 | Identified: Madison County,Kentucky,189.6,22.0
+Time: 19620 | Identified: Madison County,Kentucky,189.6,23.0
+Time: 19630 | Identified: Madison County,Kentucky,189.6,24.0
+Time: 19640 | Identified: Madison County,Kentucky,189.6,25.0
+Time: 19650 | Identified: Madison County,Kentucky,189.6,26.0
+Time: 19660 | Identified: Madison County,Kentucky,189.6,27.0
+Time: 19670 | Identified: Madison County,Kentucky,189.6,28.0
+Time: 19680 | Identified: Madison County,Kentucky,189.6,29.0
+Time: 19690 | Identified: Madison County,Kentucky,189.6,30.0
+Time: 19700 | Identified: Madison County,Kentucky,189.6,31.0
+Time: 19710 | Identified: Madison County,Kentucky,189.6,32.0
+Time: 19720 | Identified: Madison County,Kentucky,189.6,33.0
+Time: 19730 | Identified: Madison County,Kentucky,189.6,34.0
+Time: 19740 | Identified: Madison County,Kentucky,189.6,35.0
+Time: 19750 | Identified: Madison County,Kentucky,189.6,36.0
+Time: 19760 | Identified: Madison County,Kentucky,189.6,37.0
+Time: 19770 | Identified: Madison County,Kentucky,189.6,38.0
+Time: 19780 | Identified: Morris County,New Jersey,1069.8,4.0
+Time: 19790 | Identified: Morris County,New Jersey,1069.8,5.0
+Time: 19800 | Identified: Morris County,New Jersey,1069.8,6.0
+Time: 19810 | Identified: Morris County,New Jersey,1069.8,7.0
+Time: 19820 | Identified: Morris County,New Jersey,1069.8,8.0
+Time: 19830 | Identified: Morris County,New Jersey,1069.8,9.0
+Time: 19840 | Identified: Morris County,New Jersey,1069.8,10.0
+Time: 19850 | Identified: Morris County,New Jersey,1069.8,11.0
+Time: 19860 | Identified: Morris County,New Jersey,1069.8,12.0
+Time: 19870 | Identified: Morris County,New Jersey,1069.8,13.0
+Time: 19880 | Identified: Morris County,New Jersey,1069.8,14.0
+Time: 19890 | Identified: Morris County,New Jersey,1069.8,15.0
+Time: 19900 | Identified: Morris County,New Jersey,1069.8,16.0
+Time: 19910 | Identified: Morris County,New Jersey,1069.8,17.0
+Time: 19920 | Identified: Morris County,New Jersey,1069.8,18.0
+Time: 19930 | Identified: Morris County,New Jersey,1069.8,19.0
+Time: 19940 | Identified: Morris County,New Jersey,1069.8,20.0
+Time: 19950 | Identified: Morris County,New Jersey,1069.8,21.0
+Time: 19960 | Identified: Morris County,New Jersey,1069.8,22.0
+Time: 19970 | Identified: Morris County,New Jersey,1069.8,23.0
+Time: 19980 | Identified: Morris County,New Jersey,1069.8,24.0
+Time: 19990 | Identified: Morris County,New Jersey,1069.8,25.0
+Time: 20000 | Identified: Morris County,New Jersey,1069.8,26.0
+Time: 20010 | Identified: Hunterdon County,New Jersey,300.0,4.0
+Time: 20020 | Identified: Hunterdon County,New Jersey,300.0,5.0
+Time: 20030 | Identified: Hunterdon County,New Jersey,300.0,6.0
+Time: 20040 | Identified: Hunterdon County,New Jersey,300.0,7.0
+Time: 20050 | Identified: Hunterdon County,New Jersey,300.0,8.0
+Time: 20060 | Identified: Hunterdon County,New Jersey,300.0,9.0
+Time: 20070 | Identified: Hunterdon County,New Jersey,300.0,10.0
+Time: 20080 | Identified: Hunterdon County,New Jersey,300.0,11.0
+Time: 20090 | Identified: Hunterdon County,New Jersey,300.0,12.0
+Time: 20100 | Identified: Hunterdon County,New Jersey,300.0,13.0
+Time: 20110 | Identified: Hunterdon County,New Jersey,300.0,14.0
+Time: 20120 | Identified: Hunterdon County,New Jersey,300.0,15.0
+Time: 20130 | Identified: Hunterdon County,New Jersey,300.0,16.0
+Time: 20140 | Identified: Hunterdon County,New Jersey,300.0,17.0
+Time: 20150 | Identified: Hunterdon County,New Jersey,300.0,18.0
+Time: 20160 | Identified: Hunterdon County,New Jersey,300.0,19.0
+Time: 20170 | Identified: Hunterdon County,New Jersey,300.0,20.0
+Time: 20180 | Identified: Hunterdon County,New Jersey,300.0,21.0
+Time: 20190 | Identified: Hunterdon County,New Jersey,300.0,22.0
+Time: 20200 | Identified: Hunterdon County,New Jersey,300.0,23.0
+Time: 20210 | Identified: Hunterdon County,New Jersey,300.0,24.0
+Time: 20220 | Identified: Hunterdon County,New Jersey,300.0,25.0
+Time: 20230 | Identified: Hunterdon County,New Jersey,300.0,26.0
+Time: 20240 | Identified: Hunterdon County,New Jersey,300.0,27.0
+Time: 20250 | Identified: Hunterdon County,New Jersey,300.0,28.0
+Time: 20260 | Identified: Hunterdon County,New Jersey,300.0,29.0
+Time: 20270 | Identified: Hunterdon County,New Jersey,300.0,30.0
+Time: 20280 | Identified: Hunterdon County,New Jersey,300.0,31.0
+Time: 20290 | Identified: Hunterdon County,New Jersey,300.0,32.0
+Time: 20300 | Identified: Hunterdon County,New Jersey,300.0,33.0
+Time: 20310 | Identified: Hunterdon County,New Jersey,300.0,34.0
+Time: 20320 | Identified: Hunterdon County,New Jersey,300.0,35.0
+Time: 20330 | Identified: Hunterdon County,New Jersey,300.0,36.0
+Time: 20340 | Identified: Sussex County,New Jersey,287.6,3.0
+Time: 20350 | Identified: Sussex County,New Jersey,287.6,4.0
+Time: 20360 | Identified: Sussex County,New Jersey,287.6,5.0
+Time: 20370 | Identified: Sussex County,New Jersey,287.6,6.0
+Time: 20380 | Identified: Sussex County,New Jersey,287.6,7.0
+Time: 20390 | Identified: Sussex County,New Jersey,287.6,8.0
+Time: 20400 | Identified: Sussex County,New Jersey,287.6,9.0
+Time: 20410 | Identified: Sussex County,New Jersey,287.6,10.0
+Time: 20420 | Identified: Sussex County,New Jersey,287.6,11.0
+Time: 20430 | Identified: Sussex County,New Jersey,287.6,12.0
+Time: 20440 | Identified: Sussex County,New Jersey,287.6,13.0
+Time: 20450 | Identified: Sussex County,New Jersey,287.6,14.0
+Time: 20460 | Identified: Sussex County,New Jersey,287.6,15.0
+Time: 20470 | Identified: Sussex County,New Jersey,287.6,16.0
+Time: 20480 | Identified: Sussex County,New Jersey,287.6,17.0
+Time: 20490 | Identified: Sussex County,New Jersey,287.6,18.0
+Time: 20500 | Identified: Rockland County,New York,1795.9,2.0
+Time: 20510 | Identified: Loudoun County,Virginia,605.8,3.0
+Time: 20520 | Identified: Loudoun County,Virginia,605.8,4.0
+Time: 20530 | Identified: Loudoun County,Virginia,605.8,5.0
+Time: 20540 | Identified: Loudoun County,Virginia,605.8,6.0
+Time: 20550 | Identified: James City County,Virginia,470.4,2.0
+Time: 20560 | Identified: James City County,Virginia,470.4,3.0
+Time: 20570 | Identified: James City County,Virginia,470.4,4.0
+Time: 20580 | Identified: James City County,Virginia,470.4,5.0
+Time: 20590 | Identified: James City County,Virginia,470.4,6.0
+Time: 20600 | Identified: James City County,Virginia,470.4,7.0
+Time: 20610 | Identified: James City County,Virginia,470.4,8.0
+Time: 20620 | Identified: James City County,Virginia,470.4,9.0
+Time: 20630 | Identified: James City County,Virginia,470.4,10.0
+Time: 20640 | Identified: James City County,Virginia,470.4,11.0
+Time: 20650 | Identified: James City County,Virginia,470.4,12.0
+Time: 20660 | Identified: James City County,Virginia,470.4,13.0
+Time: 20670 | Identified: James City County,Virginia,470.4,14.0
+Time: 20680 | Identified: James City County,Virginia,470.4,15.0
+Time: 20690 | Identified: James City County,Virginia,470.4,16.0
+Time: 20700 | Identified: James City County,Virginia,470.4,17.0
+Time: 20710 | Identified: James City County,Virginia,470.4,18.0
+Time: 20720 | Identified: James City County,Virginia,470.4,19.0
+Time: 20730 | Identified: James City County,Virginia,470.4,20.0
+Time: 20740 | Identified: James City County,Virginia,470.4,21.0
+Time: 20750 | Identified: James City County,Virginia,470.4,22.0
+Time: 20760 | Identified: York County,Virginia,624.8,2.0
+Time: 20770 | Identified: York County,Virginia,624.8,3.0
+Time: 20780 | Identified: York County,Virginia,624.8,4.0
+Time: 20790 | Identified: York County,Virginia,624.8,5.0
+Time: 20800 | Identified: York County,Virginia,624.8,6.0
+Time: 20810 | Identified: York County,Virginia,624.8,7.0
+Time: 20820 | Identified: York County,Virginia,624.8,8.0
+Time: 20830 | Identified: York County,Virginia,624.8,9.0
+Time: 20840 | Identified: York County,Virginia,624.8,10.0
+Time: 20850 | Identified: York County,Virginia,624.8,11.0
+Time: 20860 | Identified: York County,Virginia,624.8,12.0
+Time: 20870 | Identified: York County,Virginia,624.8,13.0
+Time: 20880 | Identified: York County,Virginia,624.8,14.0
+Time: 20890 | Identified: York County,Virginia,624.8,15.0
+Time: 20900 | Identified: York County,Virginia,624.8,16.0
+Time: 20910 | Identified: York County,Virginia,624.8,17.0
+Time: 20920 | Identified: York County,Virginia,624.8,18.0
+Time: 20930 | Identified: York County,Virginia,624.8,19.0
+Time: 20940 | Identified: Barrow County,Georgia,432.7080825,1.0
+Time: 20950 | Identified: Barrow County,Georgia,432.7080825,2.0
+Time: 20960 | Identified: Barrow County,Georgia,432.7080825,3.0
+Time: 20970 | Identified: Barrow County,Georgia,432.7080825,4.0
+Time: 20980 | Identified: Jasper County,Georgia,37.75481102,1.0
+Time: 20990 | Identified: Jasper County,Georgia,37.75481102,2.0
+Time: 21000 | Identified: Jasper County,Georgia,37.75481102,3.0
+Time: 21010 | Identified: Jasper County,Georgia,37.75481102,4.0
+Time: 21020 | Identified: Jasper County,Georgia,37.75481102,5.0
+Time: 21030 | Identified: Jasper County,Georgia,37.75481102,6.0
+Time: 21040 | Identified: Jasper County,Georgia,37.75481102,7.0
+Time: 21050 | Identified: Jasper County,Georgia,37.75481102,8.0
+Time: 21060 | Identified: Jasper County,Georgia,37.75481102,9.0
+Time: 21070 | Identified: Jasper County,Georgia,37.75481102,10.0
+Time: 21080 | Identified: Jasper County,Georgia,37.75481102,11.0
+Time: 21090 | Identified: Jasper County,Georgia,37.75481102,12.0
+Time: 21100 | Identified: Jasper County,Georgia,37.75481102,13.0
+Time: 21110 | Identified: Jasper County,Georgia,37.75481102,14.0
+Time: 21120 | Identified: Jasper County,Georgia,37.75481102,15.0
+Time: 21130 | Identified: Jasper County,Georgia,37.75481102,16.0
+Time: 21140 | Identified: Pike County,Georgia,82.69392742,1.0
+Time: 21150 | Identified: Pike County,Georgia,82.69392742,2.0
+Time: 21160 | Identified: Pike County,Georgia,82.69392742,3.0
+Time: 21170 | Identified: Pike County,Georgia,82.69392742,4.0
+Time: 21180 | Identified: Pike County,Georgia,82.69392742,5.0
+Time: 21190 | Identified: Pike County,Georgia,82.69392742,6.0
+Time: 21200 | Identified: Pike County,Georgia,82.69392742,7.0
+Time: 21210 | Identified: Pike County,Georgia,82.69392742,8.0
+Time: 21220 | Identified: Pike County,Georgia,82.69392742,9.0
+Time: 21230 | Identified: Pike County,Georgia,82.69392742,10.0
+Time: 21240 | Identified: Pike County,Georgia,82.69392742,11.0
+Time: 21250 | Identified: Pike County,Georgia,82.69392742,12.0
+Time: 21260 | Identified: Pike County,Georgia,82.69392742,13.0
+Time: 21270 | Identified: Pike County,Georgia,82.69392742,14.0
+Time: 21280 | Identified: Pike County,Georgia,82.69392742,15.0
+Time: 21290 | Identified: Pike County,Georgia,82.69392742,16.0
+Time: 21300 | Identified: Pike County,Georgia,82.69392742,17.0
+Time: 21310 | Identified: Rockdale County,Georgia,656.5454223,1.0
+Time: 21320 | Identified: Rockdale County,Georgia,656.5454223,2.0
+Time: 21330 | Identified: Rockdale County,Georgia,656.5454223,3.0
+Time: 21340 | Identified: Upson County,Georgia,83.95143413,1.0
+Time: 21350 | Identified: Upson County,Georgia,83.95143413,2.0
+Time: 21360 | Identified: Upson County,Georgia,83.95143413,3.0
+Time: 21370 | Identified: Ripley County,Indiana,64.55269182,1.0
+Time: 21380 | Identified: Ripley County,Indiana,64.55269182,2.0
+Time: 21390 | Identified: Ripley County,Indiana,64.55269182,3.0
+Time: 21400 | Identified: Ripley County,Indiana,64.55269182,4.0
+Time: 21410 | Identified: Carroll County,Kentucky,84.08714387,1.0
+Time: 21420 | Identified: Carroll County,Kentucky,84.08714387,2.0
+Time: 21430 | Identified: Carroll County,Kentucky,84.08714387,3.0
+Time: 21440 | Identified: Carroll County,Kentucky,84.08714387,4.0
+Time: 21450 | Identified: Carroll County,Kentucky,84.08714387,5.0
+Time: 21460 | Identified: Carroll County,Kentucky,84.08714387,6.0
+Time: 21470 | Identified: Carroll County,Kentucky,84.08714387,7.0
+Time: 21480 | Identified: Carroll County,Kentucky,84.08714387,8.0
+Time: 21490 | Identified: Carroll County,Kentucky,84.08714387,9.0
+Time: 21500 | Identified: Carroll County,Kentucky,84.08714387,10.0
+Time: 21510 | Identified: Carroll County,Kentucky,84.08714387,11.0
+Time: 21520 | Identified: Carroll County,Kentucky,84.08714387,12.0
+Time: 21530 | Identified: Carroll County,Kentucky,84.08714387,13.0
+Time: 21540 | Identified: Carroll County,Kentucky,84.08714387,14.0
+Time: 21550 | Identified: Carroll County,Kentucky,84.08714387,15.0
+Time: 21560 | Identified: Carroll County,Kentucky,84.08714387,16.0
+Time: 21570 | Identified: Carroll County,Kentucky,84.08714387,17.0
+Time: 21580 | Identified: Clark County,Kentucky,141.0622547,1.0
+Time: 21590 | Identified: Clark County,Kentucky,141.0622547,2.0
+Time: 21600 | Identified: Clark County,Kentucky,141.0622547,3.0
+Time: 21610 | Identified: Clark County,Kentucky,141.0622547,4.0
+Time: 21620 | Identified: Clark County,Kentucky,141.0622547,5.0
+Time: 21630 | Identified: Clark County,Kentucky,141.0622547,6.0
+Time: 21640 | Identified: Franklin County,Kentucky,237.2356761,1.0
+Time: 21650 | Identified: Franklin County,Kentucky,237.2356761,2.0
+Time: 21660 | Identified: Franklin County,Kentucky,237.2356761,3.0
+Time: 21670 | Identified: Franklin County,Kentucky,237.2356761,4.0
+Time: 21680 | Identified: Franklin County,Kentucky,237.2356761,5.0
+Time: 21690 | Identified: Franklin County,Kentucky,237.2356761,6.0
+Time: 21700 | Identified: Franklin County,Kentucky,237.2356761,7.0
+Time: 21710 | Identified: Franklin County,Kentucky,237.2356761,8.0
+Time: 21720 | Identified: Franklin County,Kentucky,237.2356761,9.0
+Time: 21730 | Identified: Franklin County,Kentucky,237.2356761,10.0
+Time: 21740 | Identified: Franklin County,Kentucky,237.2356761,11.0
+Time: 21750 | Identified: Franklin County,Kentucky,237.2356761,12.0
+Time: 21760 | Identified: Franklin County,Kentucky,237.2356761,13.0
+Time: 21770 | Identified: Franklin County,Kentucky,237.2356761,14.0
+Time: 21780 | Identified: Franklin County,Kentucky,237.2356761,15.0
+Time: 21790 | Identified: Franklin County,Kentucky,237.2356761,16.0
+Time: 21800 | Identified: Franklin County,Kentucky,237.2356761,17.0
+Time: 21810 | Identified: Franklin County,Kentucky,237.2356761,18.0
+Time: 21820 | Identified: Franklin County,Kentucky,237.2356761,19.0
+Time: 21830 | Identified: Franklin County,Kentucky,237.2356761,20.0
+Time: 21840 | Identified: Franklin County,Kentucky,237.2356761,21.0
+Time: 21850 | Identified: Franklin County,Kentucky,237.2356761,22.0
+Time: 21860 | Identified: Franklin County,Kentucky,237.2356761,23.0
+Time: 21870 | Identified: Franklin County,Kentucky,237.2356761,24.0
+Time: 21880 | Identified: Gallatin County,Kentucky,84.84303692,1.0
+Time: 21890 | Identified: Gallatin County,Kentucky,84.84303692,2.0
+Time: 21900 | Identified: Gallatin County,Kentucky,84.84303692,3.0
+Time: 21910 | Identified: Gallatin County,Kentucky,84.84303692,4.0
+Time: 21920 | Identified: Gallatin County,Kentucky,84.84303692,5.0
+Time: 21930 | Identified: Gallatin County,Kentucky,84.84303692,6.0
+Time: 21940 | Identified: Grant County,Kentucky,95.60211657,1.0
+Time: 21950 | Identified: Grant County,Kentucky,95.60211657,2.0
+Time: 21960 | Identified: Grant County,Kentucky,95.60211657,3.0
+Time: 21970 | Identified: Grant County,Kentucky,95.60211657,4.0
+Time: 21980 | Identified: Grant County,Kentucky,95.60211657,5.0
+Time: 21990 | Identified: Grant County,Kentucky,95.60211657,6.0
+Time: 22000 | Identified: Harrison County,Kentucky,61.51506052,1.0
+Time: 22010 | Identified: Harrison County,Kentucky,61.51506052,2.0
+Time: 22020 | Identified: Harrison County,Kentucky,61.51506052,3.0
+Time: 22030 | Identified: Harrison County,Kentucky,61.51506052,4.0
+Time: 22040 | Identified: Harrison County,Kentucky,61.51506052,5.0
+Time: 22050 | Identified: Harrison County,Kentucky,61.51506052,6.0
+Time: 22060 | Identified: Harrison County,Kentucky,61.51506052,7.0
+Time: 22070 | Identified: Henry County,Kentucky,53.85013064,1.0
+Time: 22080 | Identified: Henry County,Kentucky,53.85013064,2.0
+Time: 22090 | Identified: Henry County,Kentucky,53.85013064,3.0
+Time: 22100 | Identified: Henry County,Kentucky,53.85013064,4.0
+Time: 22110 | Identified: Henry County,Kentucky,53.85013064,5.0
+Time: 22120 | Identified: Henry County,Kentucky,53.85013064,6.0
+Time: 22130 | Identified: Henry County,Kentucky,53.85013064,7.0
+Time: 22140 | Identified: Henry County,Kentucky,53.85013064,8.0
+Time: 22150 | Identified: Henry County,Kentucky,53.85013064,9.0
+Time: 22160 | Identified: Henry County,Kentucky,53.85013064,10.0
+Time: 22170 | Identified: Henry County,Kentucky,53.85013064,11.0
+Time: 22180 | Identified: Henry County,Kentucky,53.85013064,12.0
+Time: 22190 | Identified: Henry County,Kentucky,53.85013064,13.0
+Time: 22200 | Identified: Henry County,Kentucky,53.85013064,14.0
+Time: 22210 | Identified: Henry County,Kentucky,53.85013064,15.0
+Time: 22220 | Identified: Henry County,Kentucky,53.85013064,16.0
+Time: 22230 | Identified: Henry County,Kentucky,53.85013064,17.0
+Time: 22240 | Identified: Henry County,Kentucky,53.85013064,18.0
+Time: 22250 | Identified: Henry County,Kentucky,53.85013064,19.0
+Time: 22260 | Identified: Henry County,Kentucky,53.85013064,20.0
+Time: 22270 | Identified: Henry County,Kentucky,53.85013064,21.0
+Time: 22280 | Identified: Henry County,Kentucky,53.85013064,22.0
+Time: 22290 | Identified: Owen County,Kentucky,30.87697912,1.0
+Time: 22300 | Identified: Owen County,Kentucky,30.87697912,2.0
+Time: 22310 | Identified: Owen County,Kentucky,30.87697912,3.0
+Time: 22320 | Identified: Owen County,Kentucky,30.87697912,4.0
+Time: 22330 | Identified: Owen County,Kentucky,30.87697912,5.0
+Time: 22340 | Identified: Owen County,Kentucky,30.87697912,6.0
+Time: 22350 | Identified: Owen County,Kentucky,30.87697912,7.0
+Time: 22360 | Identified: Owen County,Kentucky,30.87697912,8.0
+Time: 22370 | Identified: Owen County,Kentucky,30.87697912,9.0
+Time: 22380 | Identified: Owen County,Kentucky,30.87697912,10.0
+Time: 22390 | Identified: Owen County,Kentucky,30.87697912,11.0
+Time: 22400 | Identified: Owen County,Kentucky,30.87697912,12.0
+Time: 22410 | Identified: Owen County,Kentucky,30.87697912,13.0
+Time: 22420 | Identified: Owen County,Kentucky,30.87697912,14.0
+Time: 22430 | Identified: Owen County,Kentucky,30.87697912,15.0
+Time: 22440 | Identified: Owen County,Kentucky,30.87697912,16.0
+Time: 22450 | Identified: Owen County,Kentucky,30.87697912,17.0
+Time: 22460 | Identified: Owen County,Kentucky,30.87697912,18.0
+Time: 22470 | Identified: Owen County,Kentucky,30.87697912,19.0
+Time: 22480 | Identified: Owen County,Kentucky,30.87697912,20.0
+Time: 22490 | Identified: Owen County,Kentucky,30.87697912,21.0
+Time: 22500 | Identified: Owen County,Kentucky,30.87697912,22.0
+Time: 22510 | Identified: Owen County,Kentucky,30.87697912,23.0
+Time: 22520 | Identified: Owen County,Kentucky,30.87697912,24.0
+Time: 22530 | Identified: Scott County,Kentucky,167.419064,1.0
+Time: 22540 | Identified: Scott County,Kentucky,167.419064,2.0
+Time: 22550 | Identified: Scott County,Kentucky,167.419064,3.0
+Time: 22560 | Identified: Scott County,Kentucky,167.419064,4.0
+Time: 22570 | Identified: Scott County,Kentucky,167.419064,5.0
+Time: 22580 | Identified: Scott County,Kentucky,167.419064,6.0
+Time: 22590 | Identified: Scott County,Kentucky,167.419064,7.0
+Time: 22600 | Identified: Scott County,Kentucky,167.419064,8.0
+Time: 22610 | Identified: Scott County,Kentucky,167.419064,9.0
+Time: 22620 | Identified: Scott County,Kentucky,167.419064,10.0
+Time: 22630 | Identified: Scott County,Kentucky,167.419064,11.0
+Time: 22640 | Identified: Scott County,Kentucky,167.419064,12.0
+Time: 22650 | Identified: Scott County,Kentucky,167.419064,13.0
+Time: 22660 | Identified: Scott County,Kentucky,167.419064,14.0
+Time: 22670 | Identified: Scott County,Kentucky,167.419064,15.0
+Time: 22680 | Identified: Scott County,Kentucky,167.419064,16.0
+Time: 22690 | Identified: Scott County,Kentucky,167.419064,17.0
+Time: 22700 | Identified: Scott County,Kentucky,167.419064,18.0
+Time: 22710 | Identified: Scott County,Kentucky,167.419064,19.0
+Time: 22720 | Identified: Scott County,Kentucky,167.419064,20.0
+Time: 22730 | Identified: Scott County,Kentucky,167.419064,21.0
+Time: 22740 | Identified: Scott County,Kentucky,167.419064,22.0
+Time: 22750 | Identified: Scott County,Kentucky,167.419064,23.0
+Time: 22760 | Identified: Scott County,Kentucky,167.419064,24.0
+Time: 22770 | Identified: Scott County,Kentucky,167.419064,25.0
+Time: 22780 | Identified: Scott County,Kentucky,167.419064,26.0
+Time: 22790 | Identified: Scott County,Kentucky,167.419064,27.0
+Time: 22800 | Identified: Scott County,Kentucky,167.419064,28.0
+Time: 22810 | Identified: Scott County,Kentucky,167.419064,29.0
+Time: 22820 | Identified: Scott County,Kentucky,167.419064,30.0
+Time: 22830 | Identified: Scott County,Kentucky,167.419064,31.0
+Time: 22840 | Identified: Scott County,Kentucky,167.419064,32.0
+Time: 22850 | Identified: Scott County,Kentucky,167.419064,33.0
+Time: 22860 | Identified: Scott County,Kentucky,167.419064,34.0
+Time: 22870 | Identified: Scott County,Kentucky,167.419064,35.0
+Time: 22880 | Identified: Scott County,Kentucky,167.419064,36.0
+Time: 22890 | Identified: Scott County,Kentucky,167.419064,37.0
+Time: 22900 | Identified: Scott County,Kentucky,167.419064,38.0
+Time: 22910 | Identified: Scott County,Kentucky,167.419064,39.0
+Time: 22920 | Identified: Scott County,Kentucky,167.419064,40.0
+Time: 22930 | Identified: Scott County,Kentucky,167.419064,41.0
+Time: 22940 | Identified: Scott County,Kentucky,167.419064,42.0
+Time: 22950 | Identified: Scott County,Kentucky,167.419064,43.0
+Time: 22960 | Identified: Scott County,Kentucky,167.419064,44.0
+Time: 22970 | Identified: Scott County,Kentucky,167.419064,45.0
+Time: 22980 | Identified: Scott County,Kentucky,167.419064,46.0
+Time: 22990 | Identified: Scott County,Kentucky,167.419064,47.0
+Time: 23000 | Identified: Scott County,Kentucky,167.419064,48.0
+Time: 23010 | Identified: Scott County,Kentucky,167.419064,49.0
+Time: 23020 | Identified: Scott County,Kentucky,167.419064,50.0
+Time: 23030 | Identified: Scott County,Kentucky,167.419064,51.0
+Time: 23040 | Identified: Scott County,Kentucky,167.419064,52.0
+Time: 23050 | Identified: Scott County,Kentucky,167.419064,53.0
+Time: 23060 | Identified: Scott County,Kentucky,167.419064,54.0
+Time: 23070
+Time: 23080
+Time: 23090
+Time: 23100
+Time: 23110
+Time: 23120
+Time: 23130
+Time: 23140
+Time: 23150
+Time: 23160
+Time: 23170
+Time: 23180
+Time: 23190
+Time: 23200
+Time: 23210
+Time: 23220
+Time: 23230
+Time: 23240
+Time: 23250
+Time: 23260
+Time: 23270
+Time: 23280
+Time: 23290
+Time: 23300
+Time: 23310
+Time: 23320
+Time: 23330
+Time: 23340
+Time: 23350
+Time: 23360
+Time: 23370
+Time: 23380
+Time: 23390
+Time: 23400
+Time: 23410
+Time: 23420
+Time: 23430
+Time: 23440
+Time: 23450
+Time: 23460
+Time: 23470
+Time: 23480
+Time: 23490
+Time: 23500
+Time: 23510
+Time: 23520
+Time: 23530
+Time: 23540
+Time: 23550
+Time: 23560
+Time: 23570
+Time: 23580
+Time: 23590
+Time: 23600
+Time: 23610
+Time: 23620
+Time: 23630
+Time: 23640
+Time: 23650
+Time: 23660
+Time: 23670
+Time: 23680
+Time: 23690
+Time: 23700
+Time: 23710
+Time: 23720
+Time: 23730
+Time: 23740
+Time: 23750
+Time: 23760
+Time: 23770
+Time: 23780
+Time: 23790
+Time: 23800
+Time: 23810
+Time: 23820
+Time: 23830
+Time: 23840
+Time: 23850
+Time: 23860
+Time: 23870
+Time: 23880
+Time: 23890
+Time: 23900
+Time: 23910
+Time: 23920
+Time: 23930
+Time: 23940
+Time: 23950
+Time: 23960
+Time: 23970
+Time: 23980
+Time: 23990
+Time: 24000
+Time: 24010
+Time: 24020
+Time: 24030
+Time: 24040
+Time: 24050
+Time: 24060
+Time: 24070
+Time: 24080
+Time: 24090
+Time: 24100
+Time: 24110
+Time: 24120
+Time: 24130
+Time: 24140
+Time: 24150
+Time: 24160
+Time: 24170
+Time: 24180
+Time: 24190
+Time: 24200
+Time: 24210
+Time: 24220
+Time: 24230
+Time: 24240
+Time: 24250
+Time: 24260
+Time: 24270
+Time: 24280
+Time: 24290
+Time: 24300
+Time: 24310
+Time: 24320
+Time: 24330
+Time: 24340
+Time: 24350
+Time: 24360
+Time: 24370
+Time: 24380
+Time: 24390
+Time: 24400
+Time: 24410
+Time: 24420
+Time: 24430
+Time: 24440
+Time: 24450
+Time: 24460
+Time: 24470
+Time: 24480
+Time: 24490
+Time: 24500
+Time: 24510
+Time: 24520
+Time: 24530
+Time: 24540
+Time: 24550
+Time: 24560
+Time: 24570
+Time: 24580
+Time: 24590
+Time: 24600
+Time: 24610
+Time: 24620
+Time: 24630
+Time: 24640
+Time: 24650
+Time: 24660
+Time: 24670
+Time: 24680
+Time: 24690
+Time: 24700
+Time: 24710
+Time: 24720
+Time: 24730
+Time: 24740
+Time: 24750
+Time: 24760
+Time: 24770
+Time: 24780
+Time: 24790
+Time: 24800
+Time: 24810
+Time: 24820
+Time: 24830
+Time: 24840
+Time: 24850
+Time: 24860
+Time: 24870
+Time: 24880
+Time: 24890
+Time: 24900
+Time: 24910
+Time: 24920
+Time: 24930
+Time: 24940
+Time: 24950
+Time: 24960
+Time: 24970
+Time: 24980
+Time: 24990
+Time: 25000
+Time: 25010
+Time: 25020
+Time: 25030
+Time: 25040
+Time: 25050
+Time: 25060
+Time: 25070
+Time: 25080
+Time: 25090
+Time: 25100
+Time: 25110
+Time: 25120
+Time: 25130
+Time: 25140
+Time: 25150
+Time: 25160
+Time: 25170
+Time: 25180
+Time: 25190
+Time: 25200
+Time: 25210
+Time: 25220
+Time: 25230
+Time: 25240
+Time: 25250
+Time: 25260
+Time: 25270
+Time: 25280
+Time: 25290
+Time: 25300
+Time: 25310
+Time: 25320
+Time: 25330
+Time: 25340
+Time: 25350
+Time: 25360
+Time: 25370
+Time: 25380
+Time: 25390
+Time: 25400
+Time: 25410
+Time: 25420
+Time: 25430
+Time: 25440
+Time: 25450
+Time: 25460
+Time: 25470
+Time: 25480
+Time: 25490
+Time: 25500
+Time: 25510
+Time: 25520
+Time: 25530
+Time: 25540
+Time: 25550
+Time: 25560
+Time: 25570
+Time: 25580
+Time: 25590
+Time: 25600
+Time: 25610
+Time: 25620
+Time: 25630
+Time: 25640
+Time: 25650
+Time: 25660
+Time: 25670
+Time: 25680
+Time: 25690
+Time: 25700
+Time: 25710
+Time: 25720
+Time: 25730
+Time: 25740
+Time: 25750
+Time: 25760
+Time: 25770
+Time: 25780
+Time: 25790
+Time: 25800
+Time: 25810
+Time: 25820
+Time: 25830
+Time: 25840
+Time: 25850
+Time: 25860
+Time: 25870
+Time: 25880
+Time: 25890
+Time: 25900
+Time: 25910
+Time: 25920
+Time: 25930
+Time: 25940
+Time: 25950
+Time: 25960
+Time: 25970
+Time: 25980
+Time: 25990
+Time: 26000
+Time: 26010
+Time: 26020
+Time: 26030
+Time: 26040
+Time: 26050
+Time: 26060
+Time: 26070
+Time: 26080
+Time: 26090
+Time: 26100
+Time: 26110
+Time: 26120
+Time: 26130
+Time: 26140
+Time: 26150
+Time: 26160
+Time: 26170
+Time: 26180
+Time: 26190
+Time: 26200
+Time: 26210
+Time: 26220
+Time: 26230
+Time: 26240
+Time: 26250
+Time: 26260
+Time: 26270
+Time: 26280
+Time: 26290
+Time: 26300
+Time: 26310
+Time: 26320
+Time: 26330
+Time: 26340
+Time: 26350
+Time: 26360
+Time: 26370
+Time: 26380
+Time: 26390
+Time: 26400
+Time: 26410
+Time: 26420
+Time: 26430
+Time: 26440
+Time: 26450
+Time: 26460
+Time: 26470
+Time: 26480
+Time: 26490
+Time: 26500
+Time: 26510
+Time: 26520
+Time: 26530
+Time: 26540
+Time: 26550
+Time: 26560
+Time: 26570
+Time: 26580
+Time: 26590
+Time: 26600
+Time: 26610
+Time: 26620
+Time: 26630
+Time: 26640
+Time: 26650
+Time: 26660
+Time: 26670
+Time: 26680
+Time: 26690
+Time: 26700
+Time: 26710
+Time: 26720
+Time: 26730
+Time: 26740
+Time: 26750
+Time: 26760
+Time: 26770
+Time: 26780
+Time: 26790
+Time: 26800
+Time: 26810
+Time: 26820
+Time: 26830
+Time: 26840
+Time: 26850
+Time: 26860
+Time: 26870
+Time: 26880
+Time: 26890
+Time: 26900
+Time: 26910
+Time: 26920
+Time: 26930
+Time: 26940
+Time: 26950
+Time: 26960
+Time: 26970
+Time: 26980
+Time: 26990
+Time: 27000
+Time: 27010
+Time: 27020
+Time: 27030
+Time: 27040
+Time: 27050
+Time: 27060
+Time: 27070
+Time: 27080
+Time: 27090
+Time: 27100
+Time: 27110
+Time: 27120
+Time: 27130
+Time: 27140
+Time: 27150
+Time: 27160
+Time: 27170
+Time: 27180
+Time: 27190
+Time: 27200
+Time: 27210
+Time: 27220
+Time: 27230
+Time: 27240
+Time: 27250
+Time: 27260
+Time: 27270
+Time: 27280
+Time: 27290
+Time: 27300
+Time: 27310
+Time: 27320
+Time: 27330
+Time: 27340
+Time: 27350
+Time: 27360
+Time: 27370
+Time: 27380
+Time: 27390
+Time: 27400
+Time: 27410
+Time: 27420
+Time: 27430
+Time: 27440
+Time: 27450
+Time: 27460
+Time: 27470
+Time: 27480
+Time: 27490
+Time: 27500
+Time: 27510
+Time: 27520
+Time: 27530
+Time: 27540
+Time: 27550
+Time: 27560
+Time: 27570
+Time: 27580
+Time: 27590
+Time: 27600
+Time: 27610
+Time: 27620
+Time: 27630
+Time: 27640
+Time: 27650
+Time: 27660
+Time: 27670
+Time: 27680
+Time: 27690
+Time: 27700
+Time: 27710
+Time: 27720
+Time: 27730
+Time: 27740
+Time: 27750
+Time: 27760
+Time: 27770
+Time: 27780
+Time: 27790
+Time: 27800
+Time: 27810
+Time: 27820
+Time: 27830
+Time: 27840
+Time: 27850
+Time: 27860
+Time: 27870
+Time: 27880
+Time: 27890
+Time: 27900
+Time: 27910
+Time: 27920
+Time: 27930
+Time: 27940
+Time: 27950
+Time: 27960
+Time: 27970
+Time: 27980
+Time: 27990
+Time: 28000
+Time: 28010
+Time: 28020
+Time: 28030
+Time: 28040
+Time: 28050
+Time: 28060
+Time: 28070
+Time: 28080
+Time: 28090
+Time: 28100
+Time: 28110
+Time: 28120
+Time: 28130
+Time: 28140
+Time: 28150
+Time: 28160
+Time: 28170
+Time: 28180
+Time: 28190
+Time: 28200
+Time: 28210
+Time: 28220
+Time: 28230
+Time: 28240
+Time: 28250
+Time: 28260
+Time: 28270
+Time: 28280
+Time: 28290
+Time: 28300
+Time: 28310
+Time: 28320
+Time: 28330
+Time: 28340
+Time: 28350
+Time: 28360
+Time: 28370
+Time: 28380
+Time: 28390
+Time: 28400
+Time: 28410
+Time: 28420
+Time: 28430
+Time: 28440
+Time: 28450
+Time: 28460
+Time: 28470
+Time: 28480
+Time: 28490
+Time: 28500
+Time: 28510
+Time: 28520
+Time: 28530
+Time: 28540
+Time: 28550
+Time: 28560
+Time: 28570
+Time: 28580
+Time: 28590
+Time: 28600
+Time: 28610
+Time: 28620
+Time: 28630
+Time: 28640
+Time: 28650
+Time: 28660
+Time: 28670
+Time: 28680
+Time: 28690
+Time: 28700
+Time: 28710
+Time: 28720
+Time: 28730
+Time: 28740
+Time: 28750
+Time: 28760
+Time: 28770
+Time: 28780
+Time: 28790
+Time: 28800
+Time: 28810
+Time: 28820
+Time: 28830
+Time: 28840
+Time: 28850
+Time: 28860
+Time: 28870
+Time: 28880
+Time: 28890
+Time: 28900
+Time: 28910
+Time: 28920
+Time: 28930
+Time: 28940
+Time: 28950
+Time: 28960
+Time: 28970
+Time: 28980
+Time: 28990
+Time: 29000
+Time: 29010
+Time: 29020
+Time: 29030
+Time: 29040
+Time: 29050
+Time: 29060
+Time: 29070
+Time: 29080
+Time: 29090
+Time: 29100
+Time: 29110
+Time: 29120
+Time: 29130
+Time: 29140
+Time: 29150
+Time: 29160
+Time: 29170
+Time: 29180
+Time: 29190
+Time: 29200
+Time: 29210
+Time: 29220
+Time: 29230
+Time: 29240
+Time: 29250
+Time: 29260
+Time: 29270
+Time: 29280
+Time: 29290
+Time: 29300
+Time: 29310
+Time: 29320
+Time: 29330
+Time: 29340
+Time: 29350
+Time: 29360
+Time: 29370
+Time: 29380
+Time: 29390
+Time: 29400
+Time: 29410
+Time: 29420
+Time: 29430
+Time: 29440
+Time: 29450
+Time: 29460
+Time: 29470
+Time: 29480
+Time: 29490
+Time: 29500
+Time: 29510
+Time: 29520
+Time: 29530
+Time: 29540
+Time: 29550
+Time: 29560
+Time: 29570
+Time: 29580
+Time: 29590
+Time: 29600
+Time: 29610
+Time: 29620
+Time: 29630
+Time: 29640
+Time: 29650
+Time: 29660
+Time: 29670
+Time: 29680
+Time: 29690
+Time: 29700
+Time: 29710
+Time: 29720
+Time: 29730
+Time: 29740
+Time: 29750
+Time: 29760
+Time: 29770
+Time: 29780
+Time: 29790
+Time: 29800
+Time: 29810
+Time: 29820
+Time: 29830
+Time: 29840
+Time: 29850
+Time: 29860
+Time: 29870
+Time: 29880
+Time: 29890
+Time: 29900
+Time: 29910
+Time: 29920
+Time: 29930
+Time: 29940
+Time: 29950
+Time: 29960
+Time: 29970
+Time: 29980
+Time: 29990
+Time: 30000
+Time: 30010
+Time: 30020
+Time: 30030
+Time: 30040
+Time: 30050
+Time: 30060
+Time: 30070
+Time: 30080
+Time: 30090
+Time: 30100
+Time: 30110
+Time: 30120
+Time: 30130
+Time: 30140
+Time: 30150
+Time: 30160
+Time: 30170
+Time: 30180
+Time: 30190
+Time: 30200
+Time: 30210
+Time: 30220
+Time: 30230
+Time: 30240
+Time: 30250
+Time: 30260
+Time: 30270
+Time: 30280
+Time: 30290
+Time: 30300
+Time: 30310
+Time: 30320
+Time: 30330
+Time: 30340
+Time: 30350
+Time: 30360
+Time: 30370
+Time: 30380
+Time: 30390
+Time: 30400
+Time: 30410
+Time: 30420
+Time: 30430
+Time: 30440
+Time: 30450
+Time: 30460
+Time: 30470
+Time: 30480
+Time: 30490
+Time: 30500
+Time: 30510
+Time: 30520
+Time: 30530
+Time: 30540
+Time: 30550
+Time: 30560
+Time: 30570
+Time: 30580
+Time: 30590
+Time: 30600
+Time: 30610
+Time: 30620
+Time: 30630
+Time: 30640
+Time: 30650
+Time: 30660
+Time: 30670
+Time: 30680
+Time: 30690
+Time: 30700
+Time: 30710
+Time: 30720
+Time: 30730
+Time: 30740
+Time: 30750
+Time: 30760
+Time: 30770
+Time: 30780
+Time: 30790
+Time: 30800
+Time: 30810
+Time: 30820
+Time: 30830
+Time: 30840
+Time: 30850
+Time: 30860
+Time: 30870
+Time: 30880
+Time: 30890
+Time: 30900
+Time: 30910
+Time: 30920
+Time: 30930
+Time: 30940
+Time: 30950
+Time: 30960
+Time: 30970
+Time: 30980
+Time: 30990
+Time: 31000
+Time: 31010
+Time: 31020
+Time: 31030
+Time: 31040
+Time: 31050
+Time: 31060
+Time: 31070
+Time: 31080
+Time: 31090
+Time: 31100
+Time: 31110
+Time: 31120
+Time: 31130
+Time: 31140
+Time: 31150
+Time: 31160
+Time: 31170
+Time: 31180
+Time: 31190
+Time: 31200
+Time: 31210
+Time: 31220
+Time: 31230
+Time: 31240
+Time: 31250
+Time: 31260
+Time: 31270
+Time: 31280
+Time: 31290
+Time: 31300
+Time: 31310
+Time: 31320
+Time: 31330
+Time: 31340
+Time: 31350
+Time: 31360
+Time: 31370
+Time: 31380
+Time: 31390
+Time: 31400
+Time: 31410
+Time: 31420
+Time: 31430
+Time: 31440
+Time: 31450
+Time: 31460
+Time: 31470
+Time: 31480
+Time: 31490
+Time: 31500
+Time: 31510
+Time: 31520
+Time: 31530
+Time: 31540
+Time: 31550
+Time: 31560
+Time: 31570
+Time: 31580
+Time: 31590
+Time: 31600
+Time: 31610
+Time: 31620
+Time: 31630
+Time: 31640
+Time: 31650
+Time: 31660
+Time: 31670
+Time: 31680
+Time: 31690
+Time: 31700
+Time: 31710
+Time: 31720
+Time: 31730
+Time: 31740
+Time: 31750
+Time: 31760
+Time: 31770
+Time: 31780
+Time: 31790
+Time: 31800
+Time: 31810
+Time: 31820
+Time: 31830
+Time: 31840
+Time: 31850
+Time: 31860
+Time: 31870
+Time: 31880
+Time: 31890
+Time: 31900
+Time: 31910
+Time: 31920
+Time: 31930
+Time: 31940
+Time: 31950
+Time: 31960
+Time: 31970
+Time: 31980
+Time: 31990
+Time: 32000
+Time: 32010
+Time: 32020
+Time: 32030
+Time: 32040
+Time: 32050
+Time: 32060
+Time: 32070
+Time: 32080
+Time: 32090
+Time: 32100
+Time: 32110
+Time: 32120
+Time: 32130
+Time: 32140
+Time: 32150
+Time: 32160
+Time: 32170
+Time: 32180
+Time: 32190
+Time: 32200
+Time: 32210
+Time: 32220
+Time: 32230
+Time: 32240
+Time: 32250
+Time: 32260
+Time: 32270
+Time: 32280
+Time: 32290
+Time: 32300
+Time: 32310
+Time: 32320
+Time: 32330
+Time: 32340
+Time: 32350
+Time: 32360
+Time: 32370
+Time: 32380
+Time: 32390
+Time: 32400
+Time: 32410
+Time: 32420
+Time: 32430
+Time: 32440
+Time: 32450
+Time: 32460
+Time: 32470
+Time: 32480
+Time: 32490
+Time: 32500
+Time: 32510
+Time: 32520
+Time: 32530
+Time: 32540
+Time: 32550
+Time: 32560
+Time: 32570
+Time: 32580
+Time: 32590
+Time: 32600
+Time: 32610
+Time: 32620
+Time: 32630
+Time: 32640
+Time: 32650
+Time: 32660
+Time: 32670
+Time: 32680
+Time: 32690
+Time: 32700
+Time: 32710
+Time: 32720
+Time: 32730
+Time: 32740
+Time: 32750
+Time: 32760
+Time: 32770
+Time: 32780
+Time: 32790
+Time: 32800
+Time: 32810
+Time: 32820
+Time: 32830
+Time: 32840
+Time: 32850
+Time: 32860
+Time: 32870
+Time: 32880
+Time: 32890
+Time: 32900
+Time: 32910
+Time: 32920
+Time: 32930
+Time: 32940
+Time: 32950
+Time: 32960
+Time: 32970
+Time: 32980
+Time: 32990
+Time: 33000
+Time: 33010
+Time: 33020
+Time: 33030
+Time: 33040
+Time: 33050
+Time: 33060
+Time: 33070
+Time: 33080
+Time: 33090
+Time: 33100
+Time: 33110
+Time: 33120
+Time: 33130
+Time: 33140
+Time: 33150
+Time: 33160
+Time: 33170
+Time: 33180
+Time: 33190
+Time: 33200
+Time: 33210
+Time: 33220
+Time: 33230
+Time: 33240
+Time: 33250
+Time: 33260
+Time: 33270
+Time: 33280
+Time: 33290
+Time: 33300
+Time: 33310
+Time: 33320
+Time: 33330
+Time: 33340
+Time: 33350
+Time: 33360
+Time: 33370
+Time: 33380
+Time: 33390
+Time: 33400
+Time: 33410
+Time: 33420
+Time: 33430
+Time: 33440
+Time: 33450
+Time: 33460
+Time: 33470
+Time: 33480
+Time: 33490
+Time: 33500
+Time: 33510
+Time: 33520
+Time: 33530
+Time: 33540
+Time: 33550
+Time: 33560
+Time: 33570
+Time: 33580
+Time: 33590
+Time: 33600
+Time: 33610
+Time: 33620
+Time: 33630
+Time: 33640
+Time: 33650
+Time: 33660
+Time: 33670
+Time: 33680
+Time: 33690
+Time: 33700
+Time: 33710
+Time: 33720
+Time: 33730
+Time: 33740
+Time: 33750
+Time: 33760
+Time: 33770
+Time: 33780
+Time: 33790
+Time: 33800
+Time: 33810
+Time: 33820
+Time: 33830
+Time: 33840
+Time: 33850
+Time: 33860
+Time: 33870
+Time: 33880
+Time: 33890
+Time: 33900
+Time: 33910
+Time: 33920
+Time: 33930
+Time: 33940
+Time: 33950
+Time: 33960
+Time: 33970
+Time: 33980
+Time: 33990
+Time: 34000
+Time: 34010
+Time: 34020
+Time: 34030
+Time: 34040
+Time: 34050
+Time: 34060
+Time: 34070
+Time: 34080
+Time: 34090
+Time: 34100
+Time: 34110
+Time: 34120
+Time: 34130
+Time: 34140
+Time: 34150
+Time: 34160
+Time: 34170
+Time: 34180
+Time: 34190
+Time: 34200
+Time: 34210
+Time: 34220
+Time: 34230
+Time: 34240
+Time: 34250
+Time: 34260
+Time: 34270
+Time: 34280
+Time: 34290
+Time: 34300
+Time: 34310
+Time: 34320
+Time: 34330
+Time: 34340
+Time: 34350
+Time: 34360
+Time: 34370
+Time: 34380
+Time: 34390
+Time: 34400
+Time: 34410
+Time: 34420
+Time: 34430
+Time: 34440
+Time: 34450
+Time: 34460
+Time: 34470
+Time: 34480
+Time: 34490
+Time: 34500
+Time: 34510
+Time: 34520
+Time: 34530
+Time: 34540
+Time: 34550
+Time: 34560
+Time: 34570
+Time: 34580
+Time: 34590
+Time: 34600
+Time: 34610
+Time: 34620
+Time: 34630
+Time: 34640
+Time: 34650
+Time: 34660
+Time: 34670
+Time: 34680
+Time: 34690
+Time: 34700
+Time: 34710
+Time: 34720
+Time: 34730
+Time: 34740
+Time: 34750
+Time: 34760
+Time: 34770
+Time: 34780
+Time: 34790
+Time: 34800
+Time: 34810
+Time: 34820
+Time: 34830
+Time: 34840
+Time: 34850
+Time: 34860
+Time: 34870
+Time: 34880
+Time: 34890
+Time: 34900
+Time: 34910
+Time: 34920
+Time: 34930
+Time: 34940
+Time: 34950
+Time: 34960
+Time: 34970
+Time: 34980
+Time: 34990
+Time: 35000
+Time: 35010
+Time: 35020
+Time: 35030
+Time: 35040
+Time: 35050
+Time: 35060
+Time: 35070
+Time: 35080
+Time: 35090
+Time: 35100
+Time: 35110
+Time: 35120
+Time: 35130
+Time: 35140
+Time: 35150
+Time: 35160
+Time: 35170
+Time: 35180
+Time: 35190
+Time: 35200
+Time: 35210
+Time: 35220
+Time: 35230
+Time: 35240
+Time: 35250
+Time: 35260
+Time: 35270
+Time: 35280
+Time: 35290
+Time: 35300
+Time: 35310
+Time: 35320
+Time: 35330
+Time: 35340
+Time: 35350
+Time: 35360
+Time: 35370
+Time: 35380
+Time: 35390
+Time: 35400
+Time: 35410
+Time: 35420
+Time: 35430
+Time: 35440
+Time: 35450
+Time: 35460
+Time: 35470
+Time: 35480
+Time: 35490
+Time: 35500
+Time: 35510
+Time: 35520
+Time: 35530
+Time: 35540
+Time: 35550
+Time: 35560
+Time: 35570
+Time: 35580
+Time: 35590
+Time: 35600
+Time: 35610
+Time: 35620
+Time: 35630
+Time: 35640
+Time: 35650
+Time: 35660
+Time: 35670
+Time: 35680
+Time: 35690
+Time: 35700
+Time: 35710
+Time: 35720
+Time: 35730
+Time: 35740
+Time: 35750
+Time: 35760
+Time: 35770
+Time: 35780
+Time: 35790
+Time: 35800
+Time: 35810
+Time: 35820
+Time: 35830
+Time: 35840
+Time: 35850
+Time: 35860
+Time: 35870
+Time: 35880
+Time: 35890
+Time: 35900
+Time: 35910
+Time: 35920
+Time: 35930
+Time: 35940
+Time: 35950
+Time: 35960
+Time: 35970
+Time: 35980
+Time: 35990
+Time: 36000
+Time: 36010
+Time: 36020
+Time: 36030
+Time: 36040
+Time: 36050
+Time: 36060
+Time: 36070
+Time: 36080
+Time: 36090
+Time: 36100
+Time: 36110
+Time: 36120
+Time: 36130
+Time: 36140
+Time: 36150
+Time: 36160
+Time: 36170
+Time: 36180
+Time: 36190
+Time: 36200
+Time: 36210
+Time: 36220
+Time: 36230
+Time: 36240
+Time: 36250
+Time: 36260
+Time: 36270
+Time: 36280
+Time: 36290
+Time: 36300
+Time: 36310
+Time: 36320
+Time: 36330
+Time: 36340
+Time: 36350
+Time: 36360
+Time: 36370
+Time: 36380
+Time: 36390
+Time: 36400
+Time: 36410
+Time: 36420
+Time: 36430
+Time: 36440
+Time: 36450
+Time: 36460
+Time: 36470
+Time: 36480
+Time: 36490
+Time: 36500
+Time: 36510
+Time: 36520
+Time: 36530
+Time: 36540
+Time: 36550
+Time: 36560
+Time: 36570
+Time: 36580
+Time: 36590
+Time: 36600
+Time: 36610
+Time: 36620
+Time: 36630
+Time: 36640
+Time: 36650
+Time: 36660
+Time: 36670
+Time: 36680
+Time: 36690
+Time: 36700
+Time: 36710
+Time: 36720
+Time: 36730
+Time: 36740
+Time: 36750
+Time: 36760
+Time: 36770
+Time: 36780
+Time: 36790
+Time: 36800
+Time: 36810
+Time: 36820
+Time: 36830
+Time: 36840
+Time: 36850
+Time: 36860
+Time: 36870
+Time: 36880
+Time: 36890
+Time: 36900
+Time: 36910
+Time: 36920
+Time: 36930
+Time: 36940
+Time: 36950
+Time: 36960
+Time: 36970
+Time: 36980
+Time: 36990
+Time: 37000
+Time: 37010
+Time: 37020
+Time: 37030
+Time: 37040
+Time: 37050
+Time: 37060
+Time: 37070
+Time: 37080
+Time: 37090
+Time: 37100
+Time: 37110
+Time: 37120
+Time: 37130
+Time: 37140
+Time: 37150
+Time: 37160
+Time: 37170
+Time: 37180
+Time: 37190
+Time: 37200
+Time: 37210
+Time: 37220
+Time: 37230
+Time: 37240
+Time: 37250
+Time: 37260
+Time: 37270
+Time: 37280
+Time: 37290
+Time: 37300
+Time: 37310
+Time: 37320
+Time: 37330
+Time: 37340
+Time: 37350
+Time: 37360
+Time: 37370
+Time: 37380
+Time: 37390
+Time: 37400
+Time: 37410
+Time: 37420
+Time: 37430
+Time: 37440
+Time: 37450
+Time: 37460
+Time: 37470
+Time: 37480
+Time: 37490
+Time: 37500
+Time: 37510
+Time: 37520
+Time: 37530
+Time: 37540
+Time: 37550
+Time: 37560
+Time: 37570
+Time: 37580
+Time: 37590
+Time: 37600
+Time: 37610
+Time: 37620
+Time: 37630
+Time: 37640
+Time: 37650
+Time: 37660
+Time: 37670
+Time: 37680
+Time: 37690
+Time: 37700
+Time: 37710
+Time: 37720
+Time: 37730
+Time: 37740
+Time: 37750
+Time: 37760
+Time: 37770
+Time: 37780
+Time: 37790
+Time: 37800
+Time: 37810
+Time: 37820
+Time: 37830
+Time: 37840
+Time: 37850
+Time: 37860
+Time: 37870
+Time: 37880
+Time: 37890
+Time: 37900
+Time: 37910
+Time: 37920
+Time: 37930
+Time: 37940
+Time: 37950
+Time: 37960
+Time: 37970
+Time: 37980
+Time: 37990
+Time: 38000
+Time: 38010
+Time: 38020
+Time: 38030
+Time: 38040
+Time: 38050
+Time: 38060
+Time: 38070
+Time: 38080
+Time: 38090
+Time: 38100
+Time: 38110
+Time: 38120
+Time: 38130
+Time: 38140
+Time: 38150
+Time: 38160
+Time: 38170
+Time: 38180
+Time: 38190
+Time: 38200
+Time: 38210
+Time: 38220
+Time: 38230
+Time: 38240
+Time: 38250
+Time: 38260
+Time: 38270
+Time: 38280
+Time: 38290
+Time: 38300
+Time: 38310
+Time: 38320
+Time: 38330
+Time: 38340
+Time: 38350
+Time: 38360
+Time: 38370
+Time: 38380
+Time: 38390
+Time: 38400
+Time: 38410
+Time: 38420
+Time: 38430
+Time: 38440
+Time: 38450
+Time: 38460
+Time: 38470
+Time: 38480
+Time: 38490
+Time: 38500
+Time: 38510
+Time: 38520
+Time: 38530
+Time: 38540
+Time: 38550
+Time: 38560
+Time: 38570
+Time: 38580
+Time: 38590
+Time: 38600
+Time: 38610
+Time: 38620
+Time: 38630
+Time: 38640
+Time: 38650
+Time: 38660
+Time: 38670
+Time: 38680
+Time: 38690
+Time: 38700
+Time: 38710
+Time: 38720
+Time: 38730
+Time: 38740
+Time: 38750
+Time: 38760
+Time: 38770
+Time: 38780
+Time: 38790
+Time: 38800
+Time: 38810
+Time: 38820
+Time: 38830
+Time: 38840
+Time: 38850
+Time: 38860
+Time: 38870
+Time: 38880
+Time: 38890
+Time: 38900
+Time: 38910
+Time: 38920
+Time: 38930
+Time: 38940
+Time: 38950
+Time: 38960
+Time: 38970
+Time: 38980
+Time: 38990
+Time: 39000
+Time: 39010
+Time: 39020
+Time: 39030
+Time: 39040
+Time: 39050
+Time: 39060
+Time: 39070
+Time: 39080
+Time: 39090
+Time: 39100
+Time: 39110
+Time: 39120
+Time: 39130
+Time: 39140
+Time: 39150
+Time: 39160
+Time: 39170
+Time: 39180
+Time: 39190
+Time: 39200
+Time: 39210
+Time: 39220
+Time: 39230
+Time: 39240
+Time: 39250
+Time: 39260
+Time: 39270
+Time: 39280
+Time: 39290
+Time: 39300
+Time: 39310
+Time: 39320
+Time: 39330
+Time: 39340
+Time: 39350
+Time: 39360
+Time: 39370
+Time: 39380
+Time: 39390
+Time: 39400
+Time: 39410
+Time: 39420
+Time: 39430
+Time: 39440
+Time: 39450
+Time: 39460
+Time: 39470
+Time: 39480
+Time: 39490
+Time: 39500
+Time: 39510
+Time: 39520
+Time: 39530
+Time: 39540
+Time: 39550
+Time: 39560
+Time: 39570
+Time: 39580
+Time: 39590
+Time: 39600
+Time: 39610
+Time: 39620
+Time: 39630
+Time: 39640
+Time: 39650
+Time: 39660
+Time: 39670
+Time: 39680
+Time: 39690
+Time: 39700
+Time: 39710
+Time: 39720
+Time: 39730
+Time: 39740
+Time: 39750
+Time: 39760
+Time: 39770
+Time: 39780
+Time: 39790
+Time: 39800
+Time: 39810
+Time: 39820
+Time: 39830
+Time: 39840
+Time: 39850
+Time: 39860
+Time: 39870
+Time: 39880
+Time: 39890
+Time: 39900
+Time: 39910
+Time: 39920
+Time: 39930
+Time: 39940
+Time: 39950
+Time: 39960
+Time: 39970
+Time: 39980
+Time: 39990
+Time: 40000
+Time: 40010
+Time: 40020
+Time: 40030
+Time: 40040
+Time: 40050
+Time: 40060
+Time: 40070
+Time: 40080
+Time: 40090
+Time: 40100
+Time: 40110
+Time: 40120
+Time: 40130
+Time: 40140
+Time: 40150
+Time: 40160
+Time: 40170
+Time: 40180
+Time: 40190
+Time: 40200
+Time: 40210
+Time: 40220
+Time: 40230
+Time: 40240
+Time: 40250
+Time: 40260
+Time: 40270
+Time: 40280
+Time: 40290
+Time: 40300
+Time: 40310
+Time: 40320
+Time: 40330
+Time: 40340
+Time: 40350
+Time: 40360
+Time: 40370
+Time: 40380
+Time: 40390
+Time: 40400
+Time: 40410
+Time: 40420
+Time: 40430
+Time: 40440
+Time: 40450
+Time: 40460
+Time: 40470
+Time: 40480
+Time: 40490
+Time: 40500
+Time: 40510
+Time: 40520
+Time: 40530
+Time: 40540
+Time: 40550
+Time: 40560
+Time: 40570
+Time: 40580
+Time: 40590
+Time: 40600
+Time: 40610
+Time: 40620
+Time: 40630
+Time: 40640
+Time: 40650
+Time: 40660
+Time: 40670
+Time: 40680
+Time: 40690
+Time: 40700
+Time: 40710
+Time: 40720
+Time: 40730
+Time: 40740
+Time: 40750
+Time: 40760
+Time: 40770
+Time: 40780
+Time: 40790
+Time: 40800
+Time: 40810
+Time: 40820
+Time: 40830
+Time: 40840
+Time: 40850
+Time: 40860
+Time: 40870
+Time: 40880
+Time: 40890
+Time: 40900
+Time: 40910
+Time: 40920
+Time: 40930
+Time: 40940
+Time: 40950
+Time: 40960
+Time: 40970
+Time: 40980
+Time: 40990
+Time: 41000
+Time: 41010
+Time: 41020
+Time: 41030
+Time: 41040
+Time: 41050
+Time: 41060
+Time: 41070
+Time: 41080
+Time: 41090
+Time: 41100
+Time: 41110
+Time: 41120
+Time: 41130
+Time: 41140
+Time: 41150
+Time: 41160
+Time: 41170
+Time: 41180
+Time: 41190
+Time: 41200
+Time: 41210
+Time: 41220
+Time: 41230
+Time: 41240
+Time: 41250
+Time: 41260
+Time: 41270
+Time: 41280
+Time: 41290
+Time: 41300
+Time: 41310
+Time: 41320
+Time: 41330
+Time: 41340
+Time: 41350
+Time: 41360
+Time: 41370
+Time: 41380
+Time: 41390
+Time: 41400
+Time: 41410
+Time: 41420
+Time: 41430
+Time: 41440
+Time: 41450
+Time: 41460
+Time: 41470
+Time: 41480
+Time: 41490
+Time: 41500
+Time: 41510
+Time: 41520
+Time: 41530
+Time: 41540
+Time: 41550
+Time: 41560
+Time: 41570
+Time: 41580
+Time: 41590
+Time: 41600
+Time: 41610
+Time: 41620
+Time: 41630
+Time: 41640
+Time: 41650
+Time: 41660
+Time: 41670
+Time: 41680
+Time: 41690
+Time: 41700
+Time: 41710
+Time: 41720
+Time: 41730
+Time: 41740
+Time: 41750
+Time: 41760
+Time: 41770
+Time: 41780
+Time: 41790
+Time: 41800
+Time: 41810
+Time: 41820
+Time: 41830
+Time: 41840
+Time: 41850
+Time: 41860
+Time: 41870
+Time: 41880
+Time: 41890
+Time: 41900
+Time: 41910
+Time: 41920
+Time: 41930
+Time: 41940
+Time: 41950
+Time: 41960
+Time: 41970
+Time: 41980
+Time: 41990
+Time: 42000
+Time: 42010
+Time: 42020
+Time: 42030
+Time: 42040
+Time: 42050
+Time: 42060
+Time: 42070
+Time: 42080
+Time: 42090
+Time: 42100
+Time: 42110
+Time: 42120
+Time: 42130
+Time: 42140
+Time: 42150
+Time: 42160
+Time: 42170
+Time: 42180
+Time: 42190
+Time: 42200
+Time: 42210
+Time: 42220
+Time: 42230
+Time: 42240
+Time: 42250
+Time: 42260
+Time: 42270
+Time: 42280
+Time: 42290
+Time: 42300
+Time: 42310
+Time: 42320
+Time: 42330
+Time: 42340
+Time: 42350
+Time: 42360
+Time: 42370
+Time: 42380
+Time: 42390
+Time: 42400
+Time: 42410
+Time: 42420
+Time: 42430
+Time: 42440
+Time: 42450
+Time: 42460
+Time: 42470
+Time: 42480
+Time: 42490
+Time: 42500
+Time: 42510
+Time: 42520
+Time: 42530
+Time: 42540
+Time: 42550
+Time: 42560
+Time: 42570
+Time: 42580
+Time: 42590
+Time: 42600
+Time: 42610
+Time: 42620
+Time: 42630
+Time: 42640
+Time: 42650
+Time: 42660
+Time: 42670
+Time: 42680
+Time: 42690
+Time: 42700
+Time: 42710
+Time: 42720
+Time: 42730
+Time: 42740
+Time: 42750
+Time: 42760
+Time: 42770
+Time: 42780
+Time: 42790
+Time: 42800
+Time: 42810
+Time: 42820
+Time: 42830
+Time: 42840
+Time: 42850
+Time: 42860
+Time: 42870
+Time: 42880
+Time: 42890
+Time: 42900
+Time: 42910
+Time: 42920
+Time: 42930
+Time: 42940
+Time: 42950
+Time: 42960
+Time: 42970
+Time: 42980
+Time: 42990
+Time: 43000
+Time: 43010
+Time: 43020
+Time: 43030
+Time: 43040
+Time: 43050
+Time: 43060
+Time: 43070
+Time: 43080
+Time: 43090
+Time: 43100
+Time: 43110
+Time: 43120
+Time: 43130
+Time: 43140
+Time: 43150
+Time: 43160
+Time: 43170
+Time: 43180
+Time: 43190
+Time: 43200
+Time: 43210
+Time: 43220
+Time: 43230
+Time: 43240
+Time: 43250
+Time: 43260
+Time: 43270
+Time: 43280
+Time: 43290
+Time: 43300
+Time: 43310
+Time: 43320
+Time: 43330
+Time: 43340
+Time: 43350
+Time: 43360
+Time: 43370
+Time: 43380
+Time: 43390
+Time: 43400
+Time: 43410
+Time: 43420
+Time: 43430
+Time: 43440
+Time: 43450
+Time: 43460
+Time: 43470
+Time: 43480
+Time: 43490
+Time: 43500
+Time: 43510
+Time: 43520
+Time: 43530
+Time: 43540
+Time: 43550
+Time: 43560
+Time: 43570
+Time: 43580
+Time: 43590
+Time: 43600
+Time: 43610
+Time: 43620
+Time: 43630
+Time: 43640
+Time: 43650
+Time: 43660
